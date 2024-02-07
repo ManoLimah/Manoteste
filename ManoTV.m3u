@@ -63,6 +63,10 @@ https://cr7v.short.gy/manotv/BBBc1/Index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 2 HD
 https://cr7v.short.gy/manotv/BBBc2/Index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kCfvcgJ.png" group-title="Canais | REALITY",WebTVBrasileira YT
+https://ythls.armelin.one/channel/UC0LlPl_mWhIFqVxcH1l3xpQ.m3u8
+
 ############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",Record BA HD
@@ -1898,6 +1902,4 @@ https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | ABERTO",Ministério Infantil TV
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | ABERTO",Ministério Infantil TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
