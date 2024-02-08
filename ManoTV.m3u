@@ -102,10 +102,10 @@ https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band BA- N é 24h  
 https://ythls.armelin.one/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band RJ- N é 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band RJ
 https://ythls.armelin.one/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP SD
+#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
@@ -120,7 +120,7 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1904822
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/oTkOmnH.png" group-title="Canais | ABERTO",Band TV - Vale do Uruará SD
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT SD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT SP HD
@@ -159,16 +159,16 @@ https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
 #EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT PARÁ HD YT
 https://ythls.armelin.one/channel/UCcDerngKTEU5ryjMS-ThLbg.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",Rede TV 
+#EXTINF:-1 tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",Rede TV SD
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! SD
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",Rede TV! PR HD
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! PR HD
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",Rede TV! PI SD
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! PI SD
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="Canais | ABERTO",ESFLIX TV
@@ -233,19 +233,19 @@ http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV 4K
 http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/183.ts
 
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
 
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 FHD
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 FHD
 http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
 
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
 
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD
 https://cr7v.short.gy/manotv/ESPN/Index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD [Alter]
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD [Alter]
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN FHD
@@ -461,13 +461,13 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/721
 #EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime box HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box Brazil HD
 http://cdn2.connectbr.com.br/Prime/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime box HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box Brazil HD 
 http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QRxGp7f.png" group-title="Canais | VARIEDADES",Canal Empreender
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QRxGp7f.png" group-title="Canais | VARIEDADES",Empreender HD
 https://livestream.zazerconer.workers.dev/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1
@@ -488,10 +488,10 @@ https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV KFood
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",Discovery ID HD
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IE8xwt4.png" group-title="Canais | VARIEDADES",Trace Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IE8xwt4.png" group-title="Canais | VARIEDADES",Trace Brazil
 https://cdn-1.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWfmUwV.png" group-title="Canais | VARIEDADES",People Are Awesome
@@ -745,7 +745,7 @@ https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD 
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Channel HD
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES",Paramount Network HD
 http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
