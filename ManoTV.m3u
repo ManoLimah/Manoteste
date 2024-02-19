@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",18/02/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",19/02/24
 http://manoplus.ddns.net/mano.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3z7lsrK.png" group-title="PIX/DOAÇÃO",manotv29@gmail.com
@@ -64,8 +64,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2431
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
 
-############################################################################ Canais | REALITY BBB 24
-
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD
 https://cr7v.short.gy/manotv/BBBc1/Index.m3u8
 
@@ -75,10 +73,11 @@ https://cr7v.short.gy/manotv/BBBc2/Index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kCfvcgJ.png" group-title="Canais | REALITY",WebTVBrasileira YT
 https://ythls.armelin.one/channel/UC0LlPl_mWhIFqVxcH1l3xpQ.m3u8
 
-############################################################################ Canais | ABERTO
-
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV BA HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244104
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV BA HD [Alter]
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV SP HD
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
@@ -230,8 +229,6 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 
-############################################################################ CANAIS ESPORTES
-
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV SD
 https://cr7v.short.gy/manotv/SporTVSD/Index.m3u8
 
@@ -289,8 +286,6 @@ http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnk
 #EXTINF:-1 tvg-logo="https://imgur.com/NPCMbYc.png" group-title="Canais | ESPORTES",FOX Sports 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
 
-############################################################################ CANAIS PREMIERE
-
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/491
 
@@ -331,9 +326,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
 http://185.150.190.225:16482/
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
-
-############################################################################ AO VIVO 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT.C
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
@@ -346,9 +339,7 @@ https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT YT.V
 https://cr7v.short.gy/manotv/GOAT/Index.m3u8
-
-############################################################################ AO VIVO AGORA 
-
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232233
 
@@ -374,9 +365,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121606
 https://live.seo.tv.bo/live/SEO-5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Canais | ESPORTES",Ge Fast HD
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
-
-############################################################################ CANAIS DE NOTÍCIAS 
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/MZ91OiM.png" group-title="Canais | NOTÍCIAS",Gazeta do Povo
 https://ythls.armelin.one/channel/UCWdGgeyOnCOGnvhNdbVl1dQ.m3u8
@@ -455,8 +444,6 @@ https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="Canais | NOTÍCIAS",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-
-############################################################################ Canais | VARIEDADES
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Canais | VARIEDADES",Oportunidades TV HD
 http://maistop.net:80/live/free/free/2.m3u8
@@ -614,8 +601,6 @@ http://cdn.connectbr.com.br:80/Hello/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Canais | VARIEDADES",Viajando pelo Brasil 
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
 
-############################################################################ Canais | NOVELAS
-
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
 http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2535.m3u8
 
@@ -694,8 +679,6 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | Plex
 https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-############################################################################ Canais | REALITY
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Canais | REALITY",MTV Com o Ex
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -722,8 +705,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-
-############################################################################ Canais | FILMES E SERIES
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
 https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
@@ -881,8 +862,6 @@ https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/AmorAmorsic.png" group-title="Canais | FILMES E SERIES",TV Amor 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5573
 
-############################################################################ CANAIS RUNTIME & PLUTO FILMES
-
 #EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Canais | FILMES",Runtime Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
@@ -962,9 +941,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb7
 https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="Canais | FILMES",Hallo Movies
-https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-############################################################################ Canais | SÉRIES 
+https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Canais | SÉRIES",Rookie Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1174,17 +1151,17 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/379
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/375
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/367
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
+https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network Live HD
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network 2 live HD
-https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD [Alter] 
+https://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/110684
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
@@ -1217,7 +1194,7 @@ https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgurUAguc.jpg" group-title="Canais | INFANTIL",ADULT SWIM
-
+http://s.apkwuv.xyz/live/demopadexchange/demopad/147723.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
@@ -1357,6 +1334,9 @@ https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OpAKbxr.png" group-title="RÁDIO",Rádio Salvador FM YT
 https://ythls.armelin.one/channel/UCFrYnMVzIUXxJPCyv-WcZuw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFE3Qih.png" group-title="Canais | RÁDIO",Antena 1
+https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/chunklist_b946000.m3u8
 
 ############################################################################ Canais | VARIEDADES
 
@@ -1850,6 +1830,9 @@ https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w1444
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="Canais | ABERTO",TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBlBL5U.png" group-title="Canais | ABERTO",VClassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
+
 
 ############################################################################ Canais | INTERNACIONAL
 
@@ -1896,6 +1879,7 @@ https://seo.tv.bo/tv/seo5.m3u8
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Canais | INTERNACIONAL",SEO TV Deportes HD
 https://live.seo.tv.bo/live/SEO-5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Canais | INTERNACIONAL",Euronews | Rakuten
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -2030,11 +2014,6 @@ https://ythls.armelin.one/channel/UCX3zTAsEoZ61rQMYb_08Tow.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c8s4J1f.png" group-title="Canais (Not) | YOUTUBE SPORTS", Rádio Craque Neto
 https://ythls.armelin.one/channel/UCZShhGzxHVd1xgiBhDDpYYA.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.m/c8s4J1f.png" group-title="Canais (Not) | YOUTUBE SPORTS",Esportes Na Band
-https://ythls.armelin.one/channel/UC896QaWKoSGdZTmy9rHyU_g.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.m/c8s4J1f.png" group-title="Canais (Not) | YOUTUBE SPORTS",Esportes Na Band 2
-https://ythls.armelin.one/channel/UC896QaWKoSGdZTmy9rHyU_g.m3u8
 
 ############################################################################ Canais | YouTube NOT
  
@@ -2054,6 +2033,7 @@ https://ythls.armelin.one/channel/UCWDmPOsRxlprrygWI-8GekA.m3u8
 https://ythls.armelin.one/channel/UCTBhsXf_XRxk8w4rMj6WBOA.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/el8dM4G.png" group-title="Canais (Not) | PODCAST",PodPah  
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zPEBotz.png" group-title="Canais (Not) | YOUTUBE VARIEDADES",Diguinho Coruja 
 https://ythls.armelin.one/channel/UCmDwoufWWYz8N0FJtWRbLjg.m3u8
