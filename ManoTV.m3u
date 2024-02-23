@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",19/02/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",22/02/24
 http://manoplus.ddns.net/mano.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3z7lsrK.png" group-title="PIX/DOAÇÃO",manotv29@gmail.com
@@ -20,13 +20,13 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2348
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2448
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Mirante HD
-https://cr7v.short.gy/manotv/GloboTVMirante/Index.m3u8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2445
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Liberal Belém 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2366
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Juiz d Fora MG
-https://cr7v.short.gy/manotv/Juizdfora/Index.m3u8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/234853
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MG HD
 http://185.150.190.225:16263/
@@ -58,11 +58,16 @@ https://8mwx.short.gy/NSCTVSC/index.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/Lmi9NLU.png" group-title="Canais | ABERTO",Globo RBS HD
 https://cr7v.short.gy/live7/GloboRS/Index.m3u8
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Nordeste FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2428
+
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA Sudoeste FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2431
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
+
+############################################################################ Canais | REALITY BBB 24
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD
 https://cr7v.short.gy/manotv/BBBc1/Index.m3u8
@@ -72,6 +77,8 @@ https://cr7v.short.gy/manotv/BBBc2/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kCfvcgJ.png" group-title="Canais | REALITY",WebTVBrasileira YT
 https://ythls.armelin.one/channel/UC0LlPl_mWhIFqVxcH1l3xpQ.m3u8
+
+############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV BA HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244104
@@ -99,6 +106,9 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV Juina HD
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",RecordTV RS
+https://8mwx.short.gy/RECORDRS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zdnMTtl.png" group-title="Canais | ABERTO",TV Tropical 
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
@@ -169,6 +179,9 @@ https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT PARÁ HD YT
 https://ythls.armelin.one/channel/UCcDerngKTEU5ryjMS-ThLbg.m3u8
 
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/axHipgS.png" group-title="Canais | ABERTO",TV Jornal SBT YT
+https://ythls.armelin.one/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
+
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
@@ -229,6 +242,8 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 
+############################################################################ CANAIS ESPORTES
+
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV SD
 https://cr7v.short.gy/manotv/SporTVSD/Index.m3u8
 
@@ -286,6 +301,8 @@ http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnk
 #EXTINF:-1 tvg-logo="https://imgur.com/NPCMbYc.png" group-title="Canais | ESPORTES",FOX Sports 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
 
+############################################################################ CANAIS PREMIERE
+
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/491
 
@@ -326,7 +343,18 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
 http://185.150.190.225:16482/
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523 
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
+
+############################################################################ AO VIVO 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SqdTHnU.png" group-title="ao vivo | FUTEBOL",COPA DO BRASIL 
+https://cr7v.short.gy/manotv/Jogo1/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SqdTHnU.png" group-title="ao vivo | FUTEBOL",COPA DO BR 2
+https://cr7v.short.gy/manotv/Caze/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SqdTHnU.png" group-title="ao vivo | FUTEBOL",COPA DO BR 3
+https://cr7v.short.gy/manotv/GOAT/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT.C
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
@@ -339,7 +367,9 @@ https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT YT.V
 https://cr7v.short.gy/manotv/GOAT/Index.m3u8
- 
+
+############################################################################ AO VIVO AGORA 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232233
 
@@ -365,7 +395,9 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121606
 https://live.seo.tv.bo/live/SEO-5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Canais | ESPORTES",Ge Fast HD
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV 
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
+
+############################################################################ CANAIS DE NOTÍCIAS 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/MZ91OiM.png" group-title="Canais | NOTÍCIAS",Gazeta do Povo
 https://ythls.armelin.one/channel/UCWdGgeyOnCOGnvhNdbVl1dQ.m3u8
@@ -444,6 +476,8 @@ https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="Canais | NOTÍCIAS",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+
+############################################################################ Canais | VARIEDADES
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Canais | VARIEDADES",Oportunidades TV HD
 http://maistop.net:80/live/free/free/2.m3u8
@@ -601,6 +635,8 @@ http://cdn.connectbr.com.br:80/Hello/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Canais | VARIEDADES",Viajando pelo Brasil 
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
 
+############################################################################ Canais | NOVELAS
+
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
 http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2535.m3u8
 
@@ -679,6 +715,8 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | Plex
 https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
+############################################################################ Canais | REALITY
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Canais | REALITY",MTV Com o Ex
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -705,6 +743,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+
+############################################################################ Canais | FILMES E SERIES
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
 https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
@@ -862,6 +902,8 @@ https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/AmorAmorsic.png" group-title="Canais | FILMES E SERIES",TV Amor 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5573
 
+############################################################################ CANAIS RUNTIME & PLUTO FILMES
+
 #EXTINF:-1 tvg-logo="https://imgur.com/3Wpaz9E.png" group-title="Canais | FILMES",Runtime Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
@@ -941,7 +983,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb7
 https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="Canais | FILMES",Hallo Movies
-https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni 
+https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+############################################################################ Canais | SÉRIES 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Canais | SÉRIES",Rookie Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1516,7 +1560,7 @@ https://serv2.videovox.pw/video13154/video13154/playlist.m3u8?ManoTV
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wp0jhkB.png" group-title="Canais | ABERTO",Rede Família
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8?ManoTV
