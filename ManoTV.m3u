@@ -2,14 +2,14 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",10/10/2024
-http://manoplus.ddns.net/mano.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",15/10/2024
+https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lgIoADn.png" group-title="DOAÇÃO VIA PIX",75991634025
-http://cloudfm.playhdlugo.online/token:s21expires11365uslink1578l2/flm24/OVingadorDaIugoslavia22024.mp4
+https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0AVLnGG.png" group-title="QUER UM TEST CHAMA",Whats 75991634025
-http://manoplus.ddns.net/mano.mp4
+http://cloudfm.playhdlugo.online/token:s21expires11365uslink1578l2/flm24/OVingadorDaIugoslavia22024.mp4
 
 ############################################################################ Canais | ABERTO
 
@@ -197,14 +197,20 @@ https://ythls.armelin.one/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ - N é 24h
 https://ythls.armelin.one/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
 
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ HD
+https://stream1.freetv.fun/band-rj-1.ctv
+
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP SD
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP HD
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band MG FHD
+#EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP HD [Alter]
+https://stream1.freetv.fun/band-sp-1.m3u8
 
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band HD
+https://stream1.freetv.fun/band-1.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band Nordeste 
 
@@ -235,10 +241,10 @@ https://aovivo.maissbt.com/channel_288.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",÷SBT SP SD
 https://aovivo.maissbt.com/channel_360.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",÷SBT SP HD
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",+SBT SP HD
 https://aovivo.maissbt.com/channel_540.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",÷SBT SP Aut
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",+SBT SP Aut
 https://aovivo.maissbt.com/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Interior SP HD
@@ -322,7 +328,7 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/178 
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD [Extra]
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD [Alter]
 https://cr7v.short.gy/ManoTV/Whats75991634025/1/Index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV UHD
@@ -1697,6 +1703,9 @@ https://servidor17-5.brlogic.com:8300/live?source=links_page
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/atmex20.png" group-title="RÁDIO",Shockwave
 https://stm8.painelcast.com:6982/stream
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YEV3p7r.png.png" group-title="RÁDIO",Rádio Muriaé Play
+https://stream.zeno.fm/d42wceognggtv.m3u3
 
 ############################################################################ Canais | VARIEDADES
 
