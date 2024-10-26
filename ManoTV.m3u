@@ -136,21 +136,6 @@ https://cr7v.short.gy/25mensais/AF1/Whats7591634025.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",A FAZENDA Cam 2 HD
 https://cr7v.short.gy/25mensais/AF2/Whats7591634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",Cam 1 App iPTV PRO
-http://embedflix.net/canal/live.php?ch=1
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",Cam 2 App iPTV PRO
-https://embedflix.net/canal/live.php?ch=2
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",Cam 3 App iPTV PRO
-https://embedflix.net/canal/live.php?ch=3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",Cam 4 App iPTV PRO
-https://embedflix.net/canal/live.php?ch=4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uFhKk56.png" group-title="Canais | REALITY",Cam 5 App iPTV PRO
-https://embedflix.net/canal/live.php?ch=5
-
 ############################################################################ Canais | RECORD TV
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD
@@ -318,6 +303,9 @@ https://a.cdni.live/pedro1426/pedro1426/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário FHD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/548
+
+#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia YT
+https://ythls.armelin.one/channel/UC3croy4Mmkr_CpssQihMytw.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia HD
 http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
