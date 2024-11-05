@@ -26,6 +26,9 @@ http://xciptv.8888play.one:80/228463308/r576049x/2375
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD [Alter]
+https://embedcanaistv.site/globorj/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD [Alter]
 http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
@@ -36,6 +39,9 @@ https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 https://stream1.freetv.fun/globo-sp-2.ctv
+
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
+https://embedcanaistv.site/globosp/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Santos 
 http://15.235.15.230:14488/
@@ -209,14 +215,11 @@ https://ythls.armelin.one/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ - N é 24h
 https://ythls.armelin.one/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ HD
-https://stream1.freetv.fun/band-rj-1.ctv
-
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band RJ FHD
 http://170.80.69.8:8000/play/a0dl/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP SD
-https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | BAND TV",Band SP HD
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
@@ -390,6 +393,9 @@ https://cr7v.short.gy/manoT/spHD/Index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN UHD
 https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN UHD [Alter]
+https://embedcanaistv.site/espn/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/131 
 
@@ -482,6 +488,9 @@ http://voz.one:80/alexfnt_ogdY18ACDE/y3QsKwdd0cjSfs1HwJTf/719
 
 #EXTINF:-1 tvg-id="Premiere HD" tvg-logo="https://imgur.com/XxJNMns.png" group-title="Canais | PREMIERE",Premiere Clubes HD4
 https://cr7v.short.gy/manoT/CLUBE1HD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere HD" tvg-logo="https://imgur.com/XxJNMns.png" group-title="Canais | PREMIERE",Premiere Clubes HD5
+https://embedcanaistv.site/premiereclubes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/XxJNMns.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/164
@@ -577,6 +586,21 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1273
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 5
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1270
+
+############################################################################ CANAIS MAX
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JYoNKmt.png" group-title="Canais | MAX",Max
+https://embedcanaistv.site/max/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JYoNKmt.png" group-title="Canais | MAX",Max 2
+https://embedcanaistv.site/max2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JYoNKmt.png" group-title="Canais | MAX",Max 3
+https://embedcanaistv.site/max/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JYoNKmt.png" group-title="Canais | MAX",Max 4
+https://embedcanaistv.site/max4/tracks-v1a1/mono.m3u8
+
 
 ############################################################################ CANAIS DE NOTÍCIAS 
 
@@ -850,17 +874,17 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 ############################################################################ Canais | NOVELAS
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD [Alter]
-http://xciptv.8888play.one:80/228463308/r576049x/2537
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
+http://brqnt.pro:2082/5211959418/8869249333/175426
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
+http://brqnt.pro:2082/5211959418/8869249333/18295
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
-https://cr7v.short.gy/live3/vv/Index.m3u8
+http://brqnt.pro:2082/5211959418/8869249333/35161
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD [Alter]
-http://xciptv.8888play.one:80/228463308/r576049x/21290
-
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA UHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
+https://cr7v.short.gy/live3/vv/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas SD
 https://cdn-2.nxplay.com.br/TNT_NOVELAS_TK/tracks-v1a1/mono.m3u8
@@ -2456,43 +2480,43 @@ https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8?ManoTV
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 1
-https://hls.streambtw.com/live/stream_nba1.m3u8
+https://allfreeshoping.online/live/stream_nba1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 2
-https://hls.streambtw.com/live/stream_nba2.m3u8
+https://allfreeshoping.online/live/stream_nba2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 3
-https://hls.streambtw.com/live/stream_nba3.m3u8
+https://allfreeshoping.online/live/stream_nba3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 4
-https://hls.streambtw.com/live/stream_nba4.m3u8
+https://allfreeshoping.online/live/stream_nba4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 5
-https://hls.streambtw.com/live/stream_nba5.m3u8
+https://allfreeshoping.online/live/stream_nba5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 6
-https://hls.streambtw.com/live/stream_nba6.m3u8
+https://allfreeshoping.online/live/stream_nba6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 7
-https://hls.streambtw.com/live/stream_nba7.m3u8
+https://allfreeshoping.online/live/stream_nba7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 8
-https://hls.streambtw.com/live/stream_nba8.m3u8
+https://allfreeshoping.online/live/stream_nba8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 9
-https://hls.streambtw.com/live/stream_nba9.m3u8
+https://allfreeshoping.online/live/stream_nba9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 10
-https://hls.streambtw.com/live/stream_nba10.m3u8
+https://allfreeshoping.online/live/stream_nba10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 11
-https://hls.streambtw.com/live/stream_nba11.m3u8
+https://allfreeshoping.online/live/stream_nba11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 12
-https://hls.streambtw.com/live/stream_nba12.m3u8
+https://allfreeshoping.online/live/stream_nba12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | INTERNACIONAL",NBA 13
-https://hls.streambtw.com/live/stream_nba13.m3u8
+https://allfreeshoping.online/live/stream_nba13.m3u8
 
 ############################################################################ Canais Live | YOUTUBE 
 
