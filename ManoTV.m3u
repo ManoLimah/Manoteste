@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/PlutoTV/all.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg_lite.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/nz/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml.gz,https://www.bevy.be/bevyfiles/brazil.xml.gz,https://www.bevy.be/bevyfiles/argentinapremium2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml.gz"
 
 ############################################################################ Informações 
 
@@ -13,100 +13,100 @@ http://cloudfm.playhdlugo.online/token:s21expires11365uslink1578l2/flm24/OVingad
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ SD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ SD
 https://stream1.freetv.fun/globo-rj-2-1.ctv
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 https://stream1.freetv.fun/globo-rj-1.ctv
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD [Alter]
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD [Alter]
 http://xciptv.8888play.one:80/228463308/r576049x/2375
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD [Alter]
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD [Alter]
 http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 https://stream1.freetv.fun/globo-sp-2.ctv
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Santos 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Santos 
 http://15.235.15.230:14488/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP SD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP SD
 http://cdn-2.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP HD
 http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP HD [Alter]
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP HD [Alter]
 http://15.235.15.230:14492/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nPB5NIY.png" group-title="Canais | GLOBO",Globo MS HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/nPB5NIY.png" group-title="Canais | GLOBO",Globo MS HD
 http://15.235.15.230:14504/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/nPB5NIY.png" group-title="Canais | GLOBO",Globo MS FHD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/nPB5NIY.png" group-title="Canais | GLOBO",Globo MS FHD
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT FHD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT FHD
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA
 http://186.226.215.132:80/carlos123/carlos123/130
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/51
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",RPC Maringa
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",RPC Maringa
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",RPC Curitiba
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",RPC Curitiba
 http://15.235.15.230:14487/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Asa Branca
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Asa Branca
 http://15.235.15.230:14492/
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo NE FHD
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo CE FHD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo CE FHD
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo AL FHD
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Mirante
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Mirante
 http://15.235.15.230:14499/MANOTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RS HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RS HD
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RS
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RS
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo NSC
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo NSC
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/515
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo NSC FHD
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG FHD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
 
 
@@ -116,18 +116,18 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/10
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Verdes Mares HD
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Manaus HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Manaus HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/530
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Liberal Belém 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Liberal Belém 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES HD
 http://15.235.15.230:14450/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES HD²
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES HD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1089
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES HD³ 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES HD³ 
 http://xciptv.8888play.one:80/228463308/r576049x/360919
 
 ############################################################################ Canais | REALITY
@@ -229,7 +229,7 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Canais | BAND TV",NEW BRASIL HD
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Canais | BAND TV",NEW BRASIL FHD
+#EXTINF:-1 tvg-id="New Brasil" tvg-name="New Brasil" tvg-logo="https://imgur.com/vSKVrvH.png" group-title="Canais | BAND TV",NEW BRASIL FHD
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 ############################################################################ Canais | SBT
@@ -294,15 +294,17 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! PI SD
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?ManoTV
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3z9k2eb.png" group-title="Canais | ABERTO",TV LatinaSat 
 https://stream.ichibantv.com:3328/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="TV CEARÁ" tvg-name="TV CEARÁ" tvg-logo="https://imgur.com/IR0UllK.png" group-title="Canais | ABERTO",TV Ceará HD 
-https://a.cdni.live/pedro1426/pedro1426/playlist.m3u8
+#EXTINF:-1 tvg-id="TV CEARÁ" tvg-name="TV CEARÁ" tvg-logo="https://imgur.com/IR0UllK.png" group-title="Canais | ABERTO",TV Ceará YT
+https://ythls.armelin.one/channel/UCWiwMQn0k84wn0952b5kcKw.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário FHD
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/548
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário YT
+https://ythls.armelin.one/channel/UCL8kOCsi7QxKVlP7G7IC55g.m3u8
+
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário
+http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia YT
 https://ythls.armelin.one/channel/UC3croy4Mmkr_CpssQihMytw.m3u8
@@ -310,20 +312,14 @@ https://ythls.armelin.one/channel/UC3croy4Mmkr_CpssQihMytw.m3u8
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia HD
 http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia FHD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://stream1.freetv.fun/tv-gazeta-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta MA SD
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta MA SD
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w1606860923.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta PA
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta PA
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1625878121.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIoYZb9.png" group-title="Canais | ABERTO",TV Gazeta Goiás
-
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura Brasil 
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
@@ -506,10 +502,10 @@ https://super-cdn.link/premiere4/index.m3u8
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://imgur.com/BT5vktj.png" group-title="Canais | PREMIERE",Premiere 4 FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
 
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5" tvg-logo="https://imgur.com/eLomVAg.png" group-title="Canais | PREMIERE",Premiere 5 HD
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="https://imgur.com/eLomVAg.png" group-title="Canais | PREMIERE",Premiere 5 HD
 https://super-cdn.link/premiere5/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-name="PREMIERE 5" tvg-logo="https://imgur.com/eLomVAg.png" group-title="Canais | PREMIERE",Premiere 5 FHD 
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://imgur.com/eLomVAg.png" group-title="Canais | PREMIERE",Premiere 5 FHD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/156
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/DrogUkK.png" group-title="Canais | PREMIERE",Premiere 6 HD
@@ -537,6 +533,9 @@ https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6fU9ulW.png" group-title="ao vivo | FUTEBOL",Esportes Brasília 
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="JP ESPORTES" tvg-name="JP ESPORTES" tvg-logo="https://imgur.com/UbT12bX.png" group-title="Canais | ESPORTES",JP Esportes YT
+https://ythls.armelin.one/channel/UCv-Nx8pSfG_LxbViMz14RWQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT
 https://cr7v.short.gy/Mano/testechamaWhats75991634025.m3u8
@@ -571,40 +570,39 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1273
 #EXTINF:-1 tvg-logo="https://imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 5
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1270
 
+############################################################################ CANAIS NBA
 
-############################################################################ CANAIS MAX
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 1
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 1
 https://cloudserve.world/live/stream_nba1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 2
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 2
 https://cloudserve.world/live/stream_nba2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 3
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 3
 https://cloudserve.world/live/stream_nba3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 4
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 4
 https://cloudserve.world/live/stream_nba4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 5
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 5
 https://cloudserve.world/live/stream_nba5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 6
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 6
 https://cloudserve.world/live/stream_nba6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 7
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 7
 https://cloudserve.world/live/stream_nba7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 8
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 8
 https://cloudserve.world/live/stream_nba8.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 9
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 9
 https://cloudserve.world/live/stream_nba9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 10
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 10
 https://cloudserve.world/live/stream_nba10.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 11
+#EXTINF:-1 tvg-id="NBA League Pass" tvg-name="NBA League Pass" tvg-logo="https://i.imgur.com/OY45mkp.png " group-title="Canais | NBA",NBA 11
 https://cloudserve.world/live/stream_nba11.m3u8
 
 
@@ -615,6 +613,9 @@ https://ythls.armelin.one/channel/UCWdGgeyOnCOGnvhNdbVl1dQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/MPLvLOs.png" group-title="Canais | NOTÍCIAS",Oeste Sem Filtro- N é 24h YouTube 
 https://ythls.armelin.one/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3G9NiWt.png" group-title="Canais | NOTÍCIAS",TVD News FHD
+http://201.159.95.110:25461/live/site/site/666.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tyW3Ppf.png" group-title="Canais | NOTÍCIAS",BM&C NEWS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -744,12 +745,13 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/422
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
 
 
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/98
 
-#EXTINF:-1 tvg-id="COMEDY CENTRAL HD" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central FHD
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD²
+http://hzcdn.vood.top:80/hls/685_.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central FHD
 http://186.226.215.132:80/carlos123/carlos123/502
 
 #EXTINF:-1 tvg-id="TBS HD" tvg-logo="https://imgur.com/xnGAZOr.png" group-title="Canais | VARIEDADES",TBS HD
@@ -764,10 +766,10 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/103
 #EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! FHD
 
 
-#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box
 http://cdn-2.nxplay.com.br/PRIME_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Empreender HD" tvg-name="Empreender HD" tvg-logo="https://i.imgur.com/QRxGp7f.png" group-title="Canais | VARIEDADES",Empreender HD
+#EXTINF:-1 tvg-id="Empreender" tvg-name="Empreender" tvg-logo="https://i.imgur.com/QRxGp7f.png" group-title="Canais | VARIEDADES",Empreender HD
 https://cc-t36qky98i4sus.akamaized.net/NewCo/Empreender_BR/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1
@@ -803,7 +805,7 @@ https://cdn-4.nxplay.com.br/DISCOVERY_ID_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
 http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/369.ts
 
-#EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID FHD
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID FHD
 http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/235013.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IE8xwt4.png" group-title="Canais | VARIEDADES",Trace Brasil
@@ -839,61 +841,61 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="Canais | VARIEDADES",Cultne TV
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World SD
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World SD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/78
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/77
 
-#EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health SD
+#EXTINF:-1 tvg-id="Disc. Home & Health" tvg-name="Disc. Home & Health" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health SD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/68
 
 #EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/67
 
-#EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD [Alter]
+#EXTINF:-1 tvg-id="Disc. Home & Health" tvg-name="Disc. Home & Health" tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD [Alter]
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/140
 
-#EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel SD
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel SD
 https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
 https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD [Alter]
+#EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/65
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel UHD
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel UHD
 http://canal.cdntv.com.br:80/carlos123/carlos123/510.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science SD 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science SD 
 https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
 https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD [Alter]
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/72
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater SD
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater SD
 https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
 https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD [Alter]
+#EXTINF:-1 tvg-id="Discovery theater" tvg-name="Discovery Theater" tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/74
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History SD
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History SD
 https://cdn-4.nxplay.com.br/HISTORY_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
 https://cdn-4.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD [Alter]
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/82
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 SD
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 SD
 https://cdn-4.nxplay.com.br/HISTORY_2_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
@@ -976,11 +978,11 @@ http://altv1.top:80/Tourobox1-YCOLKg0TKT/CzsVW7Mq9z/124.ts
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD [Alter]
 https://cr7v.short.gy/live3/vv/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas SD
-https://cdn-2.nxplay.com.br/TNT_NOVELAS_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas SD
+https://cdn-4.nxplay.com.br/TNT_NOVELAS_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-https://cdn-2.nxplay.com.br/TNT_NOVELAS_TK/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/TNT_NOVELAS_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas FHD
 https://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8
@@ -1439,7 +1441,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba
 #EXTINF:-1 tvg-logo="https://imgur.com/qPhjnv9.png" group-title="Canais | FILMES",Pluto TV Filmes Nacionais
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Filmelier
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="Canais | FILMES",Filmelier TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Canais | FILMES",Pluto TV Ficção Científica
@@ -1614,6 +1616,9 @@ http://24hrs.homelinux.com:80/24H-Jiraya/video.m3u8
 
 ############################################################################ Canais | INFANTIL
 
+#EXTINF:-1 tvg-logo="https://imgur.com/x0Ugzq4.png" group-title="Canais | INFANTIL",Dora A aventura
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e28dd57fe4a0008819c3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
 #EXTINF:-1 tvg-logo="https://imgur.com/jxg66AU.png" group-title="Canais | INFANTIL",HEY ARNOLD!
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b4e477d512590008ca6849/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
@@ -1656,7 +1661,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac60007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Canais | INFANTIL",Turma da Mônica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Nick Clássico" tvg-name="NICK JR" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Canais | INFANTIL",NICK CLÁSSICO
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Canais | INFANTIL",NICK CLÁSSICO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
@@ -1871,16 +1876,29 @@ http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8
 
 ############################################################################ Canais | MÚSICA 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ki0hMEJ.png" group-title="Canais | MÚSICA",MTV Flow Latino
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b219eed88ef00007403c2clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lN4XnD2.png" group-title="Canais | MÚSICA",Yo! MTV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01d84fe11e500084aefc1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tkGS2FS.png" group-title="Canais | MÚSICA",MTV Classic
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p3BDDSY.png" group-title="Canais | MÚSICA",MTV Rocks
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
 #EXTINF:-1 tvg-id="MTV Biggest Pop" tvg-name="MTV Biggest Pop" tvg-logo="https://imgur.com/8uGhB6m.png" group-title="Canais | MÚSICA",MTV Biggest Pop
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="MTV Spankin' New" tvg-name="MTV Spankin' New" tvg-logo="https://imgur.com/jXhTsl7.png" group-title="Canais | MÚSICA",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Pluto TV Shows por Stingray" tvg-logo="https://imgur.com/3roKMCE.png" group-title="Canais | MÚSICA",Pluto TV Shows por Stingray
+#EXTINF:-1 tvg-id="Pluto TV Shows por Stingray" tvg-logo="https://imgur.com/q5BwJwX.png" group-title="Canais | MÚSICA",Pluto TV Shows por Stingray
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d759160-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59dd21f-38ed-446d-8348-e9e4b6640131&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="Canais | MÚSICA",Pluto TV Karaokê por Stingray
+#EXTINF:-1 tvg-logo="https://imgur.com/PVW87Yt.png" group-title="Canais | MÚSICA",Pluto TV Karaokê por Stringray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G5SWqHS.png" group-title="Canais | MÚSICA",TOP TV FHD
@@ -2827,9 +2845,6 @@ https://ythls.armelin.one/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dC2p8J1.png" group-title="Canais (Not) | YOUTUBE SPORTS",UOL Esporte N é 24h
 https://ythls.armelin.one/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/UbT12bX.png" group-title="Canais (Not) | YOUTUBE SPORTS",JP Esportes 
-https://ythls.armelin.one/channel/UCv-Nx8pSfG_LxbViMz14RWQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/480kvLZ.png" group-title="Canais (Not) | YOUTUBE SPORTS",Energia 97
 https://ythls.armelin.one/channel/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
 
@@ -2890,6 +2905,441 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Canais | ESPORTES",Realmadrid TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
+
+############################################################################ NOVELA TURCA  01
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E01 31
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x1.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E02
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x2.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E03
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x3.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E04
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x4.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E05
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x5.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E06
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x6.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E07
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x7.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E08
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x8.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E09
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x9.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E10
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x10.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E11
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x11.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E12
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x12.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E13
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x13.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E14
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x14.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E15
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x15.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E16
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x16.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E17
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x17.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E18
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x18.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E19
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x19.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E20
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x20.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E21
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x21.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E22
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x22.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E23
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x23.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E24
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x24.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E25
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x25.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E26
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x26.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E27
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x27.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E28
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x28.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E29
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x29.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E30
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x30.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E31
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x31.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E32
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x32.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E33
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x33.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E34
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x34.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E35
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x35.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E36
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x36.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E37
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x37.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E38
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x38.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E39
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x39.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E40
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x40.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E41
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x41mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E42
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x42.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E43
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x43.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E44
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x44.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E45
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x45.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E46
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x46.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E47
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x47.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E48
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x48.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E49
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x49.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E50
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x50.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E51
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x51.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E52
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x52.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E53
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x53.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E54
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x54.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E56
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x56.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E57
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x57.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E58
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x58.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E59
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x59.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E60
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x60.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E61
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x61.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E62
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x62.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E63
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x63.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E64
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x64.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E65
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x65.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E66
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x66.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E67
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x67.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E68
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x68.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E69
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x69.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E70
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x70.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E71
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x71.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E72
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x72.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E73
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x73.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E74
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x74.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E75
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x75.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E76
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x76.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E77
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x77.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E78
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x78.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E79
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x79.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E80
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x80.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E81
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x81.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E82
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x82.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E83
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x83.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E84
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x84.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E85
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x85.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E86
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x86.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E87
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x87.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E88
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x88.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E89
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x89.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E90
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x90.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E91
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x91.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E92
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x92.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E93
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x93.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E94
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x95.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E95
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x95.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E96
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x96.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E97
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x97.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E98
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x98.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E99
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x99.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E100
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x100.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E101
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x101.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E102
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x102.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E103
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x103.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E104
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x104.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E105
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x105.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E106
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x106.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E107
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x107.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E108
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x108.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E109
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x109.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E110
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x110.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E111
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x111.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E112
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x112.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E113
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x113.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E114
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x114.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E115
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x115.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E116
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x116.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E117
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x117.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S01",S01 E118
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/1x118.mp4
+
+############################################################################ NOVELA TURCA 02
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E01
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x1.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E02
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x2.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E03
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x3.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E04
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x4.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E05
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x5.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E06
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x6.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E07
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x7.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E08
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x8.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E09
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x9.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E10
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x10.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E11
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x11.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E12
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x12.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E13
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x13.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E14
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x14.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E15
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x15.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E16
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x16.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E17
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x17.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E18
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x18.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E19
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x19.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E20
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x20.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E21
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x21.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E22
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x22.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E23
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x23.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E24
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x24.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E25
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x25.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/QxzBJZJ.png" group-title="Novela | A ESCOLHIDA S02",S02 E26
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/210865/2x26.mp4
 
 ################################################################# LEVANTAMENTO D PESO S01
 
@@ -2966,6 +3416,30 @@ http://shd12.doramasapp.xyz/token/SHD12/241454/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E08
 http://shd12.doramasapp.xyz/token/SHD12/241454/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E09
+http://shd12.doramasapp.xyz/token/SHD12/241454/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E10
+http://shd12.doramasapp.xyz/token/SHD12/241454/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E11
+http://shd12.doramasapp.xyz/token/SHD12/241454/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E12
+http://shd12.doramasapp.xyz/token/SHD12/241454/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E13
+http://shd12.doramasapp.xyz/token/SHD12/241454/1x13.mp4 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E14
+http://shd12.doramasapp.xyz/token/SHD12/241454/1x14.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E15
+http://shd12.doramasapp.xyz/token/SHD12/241454/1x15.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nNs4yr7.png" group-title="Dorama | O AMOR MORA AO LADO S01",S01 E16
+http://shd12.doramasapp.xyz/token/SHD12/241454/1x16.mp4
 
 ################################################################# ESCOLA DOS ROMANCES PROIBIDOS S01
 
@@ -3907,4 +4381,3 @@ http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Diário de um adolescente 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
-
