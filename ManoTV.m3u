@@ -22,7 +22,7 @@ https://stream1.freetv.fun/globo-rj-1.ctv
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD [Alter]
 http://xciptv.8888play.one:80/228463308/r576049x/2375
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD [Alter]
@@ -623,11 +623,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f55
 #EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="Canais | NOTÍCIAS",CNN Brasil Money YT
 https://ythls.armelin.one/channel/UCqfm5IQhpMlfeAWMmVL_uNg.m3u8
 
-#EXTINF:-1 tvg-id="CNBC BRASIL" tvg-name="CNBC BRASIL" tvg-logo="https://imgur.com/18NOYPj.png" group-title="Canais | NOTÍCIAS",CNBC BR YT
-https://cr7v.short.gy/manoiptvfree/CNBCYT/Index.m3u8
-
 #EXTINF:-1 tvg-id="CNBC BRASIL" tvg-name="CNBC BRASIL" tvg-logo="https://imgur.com/18NOYPj.png" group-title="Canais | NOTÍCIAS",CNBC BR
-https://cr7v.short.gy/mano/CnbcBRasa/Index.m3u8
+https://cr7v.short.gy/mano/CnbcBRsa/Index.m3u8
 
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS AUT 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -1086,25 +1083,25 @@ https://ythls.armelin.one/channel/UCCqkBCHOVqhg9N14p-nQlow.m3u8
 ############################################################################ Canais | FILMES E SERIES
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE SD
-https://cdn-1.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
+https://cdn-4.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
-https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD
-https://stream1.freetv.fun/space-3.ctv
+http://fzcdn.vood.top:80/hls/705_.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
-https://cdn-2.nxplay.com.br/TNT_TK/index.m3u8
+https://cdn-4.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD [Alter]
-http://dzcdn.vood.top:80/hls/733_.m3u8
+https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
-https://stream1.freetv.fun/tnt-2.m3u8
+http://fzcdn.vood.top:80/hls/731_.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/313
@@ -2104,6 +2101,19 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="Canais | ABERTO",TV Evangelizar Maringá
 
 
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="Canais | ABERTO",TV Guará MA
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
+
+#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE RS
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/31xazuV.png " group-title="Canais | ABERTO",RNS TV HD
+https://www.rnstv.com.br/
+https://stream.ichibantv.com:3827/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/31xazuV.png " group-title="Canais | ABERTO",RNS TV HD²
+https://stream.ichibantv.com:3827/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/JxyVX6Y.png" group-title="Canais | ABERTO",SANTA CRUZ WEB TV
 https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 
@@ -2907,6 +2917,31 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
+################################################################# DEPOIS DO ADEUS S01 S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xHmpuC.png" group-title="Dorama | DEPOIS DO ADEUS S01",S01 E01
+http://shd12.doramasapp.xyz/token/SHD12/234674/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xHmpuC.png" group-title="Dorama | DEPOIS DO ADEUS S01",S01 E02
+http://shd12.doramasapp.xyz/token/SHD12/234674/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xHmpuC.png" group-title="Dorama | DEPOIS DO ADEUS S01",S01 E03
+http://shd12.doramasapp.xyz/token/SHD12/234674/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xHmpuC.png" group-title="Dorama | DEPOIS DO ADEUS S01",S01 E04
+http://shd12.doramasapp.xyz/token/SHD12/234674/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xHmpuC.png" group-title="Dorama | DEPOIS DO ADEUS S01",S01 E05
+http://shd12.doramasapp.xyz/token/SHD12/234674/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xHmpuC.png" group-title="Dorama | DEPOIS DO ADEUS S01",S01 E06
+http://shd12.doramasapp.xyz/token/SHD12/234674/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xHmpuC.png" group-title="Dorama | DEPOIS DO ADEUS S01",S01 E07
+http://shd12.doramasapp.xyz/token/SHD12/234674/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4xHmpuC.png" group-title="Dorama | DEPOIS DO ADEUS S01",S01 E08
+http://shd12.doramasapp.xyz/token/SHD12/234674/1x8.mp4
 
 ############################################################################ NOVELA TURCA  01
 
@@ -4031,6 +4066,27 @@ http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75
 http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/4x6.mp4
 
 ############################################################################ FILMES
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Robô Selvagem
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt29623480.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Enfeitiçados
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt7215232.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Shaun o Carneiro: As Lhamas do Fazendeiro
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt5174284.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Shaun o Carneiro: O Filme
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt2872750.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Shaun o Carneiro: Aventura de Natal
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt15857304.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Shaun O Carneiro: A Fazenda Contra-Ataca
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD3/tt6193408.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Larva Ilhados – O Filme
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD3/tt12588448.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Maggie Moore(s)
 http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt14181816.mp4
