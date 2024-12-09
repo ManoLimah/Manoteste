@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/PlutoTV/all.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg_lite.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/nz/epg.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml.gz,https://www.bevy.be/bevyfiles/brazil.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml"
 
 ############################################################################ Informações 
 
@@ -507,63 +507,6 @@ https://cr7v.short.gy/M/CLUBE1HD/Index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD⁴
 http://tv.fazoeli.co.za/m3u8/premiere.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/164
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-https://super-cdn.link/premiere2/index.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD²
-https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/150
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 FHD [Alter]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/149
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/152
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD²
-https://super-cdn.link/premiere3/index.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD³
-https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/153
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/155
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD²
-https://super-cdn.link/premiere4/index.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD³
-https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
-
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD
-https://super-cdn.link/premiere5/index.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/156
-
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-https://super-cdn.link/premiere6/index.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/158
-
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
-https://super-cdn.link/premiere7/index.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
 
 ############################################################################ AO VIVO AGORA 
 
@@ -1844,10 +1787,13 @@ https://cdn-1.nxplay.com.br/DREAMWORKS/index.m3u8
 https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD
-http://xciptv.8888play.one:80/228463308/r576049x/376345
+https://abc.embedmax.site/adultswim/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD²
+https://embedcanaistv.site/adultswim/index.mpd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM FHD
-http://xciptv.8888play.one:80/228463308/r576049x/376344
+http://cdn33.cc:80/patrickpimentel/topip2010/199850.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
@@ -2071,7 +2017,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16
 ############################################################################ Canais | COMÉDIA
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="Canais | COMÉDIA",Canal da Praça 
-https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8?ManoTV
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Canais | VARIEDADES",Tratamento de Choque
 https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
@@ -2738,23 +2684,32 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Canais | INTERNACIONAL",CNN USA
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Canais | INTERNACIONAL",Sport TV 1
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",Sport TV 1
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
 
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",Sport TV 2
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Canais | INTERNACIONAL",Sport TV 2
+#EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",Sport TV 3
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
 
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Canais | INTERNACIONAL",Sport TV 4
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Canais | INTERNACIONAL",Sport TV 3
+#EXTINF:-1 tvg-logo="https://imgur.com/tS7t12k.png" group-title="Canais | INTERNACIONAL",Sport TV 5
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
 
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 
+https://stream1.freetv.fun/eleven-sports-1-1.ctv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Canais | INTERNACIONAL",Sport TV 4
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 HD
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
 
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2
+https://stream1.freetv.fun/eleven-sports-2-1.ctv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Canais | INTERNACIONAL",Sport TV 5
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3GyT30.png" group-title="Canais | INTERNACIONAL",Sport TV+
-
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 HD
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZTlP1z.png" group-title="Canais | INTERNACIONAL",EUROSPORT 1 HD
 
@@ -2777,11 +2732,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" group-title="Canais | INTERNACIONAL",LA LIGA
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD3600001Q1
 
-#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Canais | INTERNACIONAL",SEO TV Deportes SD
-https://seo.tv.bo/tv/SEOtv_5sd.m3u8
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Canais | INTERNACIONAL",SEO TV Deportes 1
+https://seo.tv.bo/tv/IPSEO-TV-5.1.m3u8
 
-#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Canais | INTERNACIONAL",SEO TV Deportes HD
-https://seo.tv.bo/tv/SEOtv_5B.m3u8
+#EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Canais | INTERNACIONAL",SEO TV Deportes 2
+https://seo.tv.bo/tv/IPSEO-TV-5.2.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Canais | INTERNACIONAL",Euronews | Rakuten
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
