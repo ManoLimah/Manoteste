@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz"
 
 ############################################################################ Informações 
 
@@ -57,9 +57,6 @@ http://15.235.15.230:14504/
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT FHD
 
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA
-http://186.226.215.132:80/carlos123/carlos123/130
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | GLOBO",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -2097,7 +2094,6 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/31xazuV.png " group-title="Canais | ABERTO",RNS TV HD
-https://www.rnstv.com.br/
 https://stream.ichibantv.com:3827/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/31xazuV.png " group-title="Canais | ABERTO",RNS TV HD²
@@ -2657,23 +2653,32 @@ https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/11aNWuU.png" group-title="Canais | INTERNACIONAL",Sic TV
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV 
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Alta-Definição.png" group-title="Canais | INTERNACIONAL",Sic Alta Definição
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Replay.png" group-title="Canais | INTERNACIONAL",Sic Replay
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png" group-title="Canais | INTERNACIONAL",Sic Noticias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/hbkDjva.png" group-title="Canais | INTERNACIONAL",TVi Realitys
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?ManoTV
 
-#EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/TVI_%C3%81frica.png" group-title="Canais | INTERNACIONAL",TVi África 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png" group-title="Canais | INTERNACIONAL",TVi África 
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" group-title="Canais | INTERNACIONAL",Demand Africa HD
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/ligacampeones.png" group-title="Canais | INTERNACIONAL",Liga Campeonesᴴᴰ
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/AntrFrv.png" group-title="Canais | INTERNACIONAL",RTP1
-http://162.212.178.69:41042/bysid/608
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/19
 
-#EXTINF:-1  tvg-logo="https://imgur.com/AntrFrv.png" group-title="Canais | INTERNACIONAL",RTP1 HD
-https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8?ManoTV
+#EXTINF:-1  tvg-logo="https://imgur.com/AntrFrv.png" group-title="Canais | INTERNACIONAL",RTP2
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/20
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bc6tYVZ.png" group-title="Canais | INTERNACIONAL",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
@@ -2684,19 +2689,19 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Canais | INTERNACIONAL",CNN USA
 
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",Sport TV 1
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",SportTV
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/30
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",Sport TV 2
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",SportTV 2
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/31
 
-#EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",Sport TV 3
+#EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",SportTV 3
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/32
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Canais | INTERNACIONAL",Sport TV 4
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Canais | INTERNACIONAL",SportTV 4
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/33
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tS7t12k.png" group-title="Canais | INTERNACIONAL",Sport TV 5
+#EXTINF:-1 tvg-logo="https://imgur.com/tS7t12k.png" group-title="Canais | INTERNACIONAL",SportTV 5
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/34
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 
@@ -2711,14 +2716,17 @@ https://stream1.freetv.fun/eleven-sports-2-1.ctv
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 HD
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZTlP1z.png" group-title="Canais | INTERNACIONAL",EUROSPORT 1 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/TvV6DtG.png" group-title="Canais | INTERNACIONAL",Eleven sports 3 HD
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
 
+#EXTINF:-1 tvg-logo="https://imgur.com/P0QLHvF.png" group-title="Canais | INTERNACIONAL",Eleven sports 4 HD
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZTlP1z.png" group-title="Canais | INTERNACIONAL",EUROSPORT 2 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/NQ3Zpxi.png" group-title="Canais | INTERNACIONAL",Eleven sports 5 HD
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/PI5RE7e.png" group-title="Canais | INTERNACIONAL",TVCine Emotion SD 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/FdSRwfr.png" group-title="Canais | INTERNACIONAL",Eleven sports 6 HD
+http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PI5RE7e.png" group-title="Canais | INTERNACIONAL",TVCine Edition HD
 
@@ -2745,16 +2753,16 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Canais | INTERNACIONAL",FOX News
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN20200730102745.png" group-title="Canais | INTERNACIONAL",FOX News NOW | EUA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Canais | INTERNACIONAL",FOX News NOW | EUA 
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9J47rsV.png" group-title="Canais | INTERNACIONAL",Sony Canal Comedias
-https://d05f9c4e535042b78e6de94ef5548e4a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8?ads.wurl_channel=1448&ads.wurl_name=SonyCanalComedias-2&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lsdruQ0.png" group-title="Canais | INTERNACIONAL",Sony Canal Competencias
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
