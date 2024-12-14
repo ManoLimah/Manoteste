@@ -612,8 +612,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f55
 #EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="Canais | NOTÍCIAS",CNN Brasil Money YT
 https://ythls.armelin.one/channel/UCqfm5IQhpMlfeAWMmVL_uNg.m3u8
 
-#EXTINF:-1 tvg-id="Times Brasil CNBC" tvg-name="Times Brasil CNBC" tvg-logo="https://imgur.com/FPpNGo0.png" group-title="Canais | NOTÍCIAS",Times Brasil CNBC
-https://cr7v.short.gy/manotv/CnbcBRsa/Index.m3u8
+#EXTINF:-1 tvg-id="Times Brasil Licenciamento CNBC" tvg-name="Times Brasil Licenciamento CNBC" tvg-logo="https://imgur.com/FPpNGo0.png" group-title="Canais | NOTÍCIAS",Times Brasil CNBC
+https://cr7v.short.gy/ManoTV/TimesBrasilCnbc/Index.m3u8
 
 #EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS AUT 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -945,6 +945,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD²
+https://abc.embedmax.site/viva/video.m3u8
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
 https://cr7v.short.gy/live3/v/Index.m3u8
