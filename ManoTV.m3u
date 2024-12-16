@@ -31,22 +31,22 @@ http://tv.fazoeli.co.za/m3u8/globorj.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+https://stream.m3u8.one/globosp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
 http://tv.fazoeli.co.za/m3u8/globosp.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Santos 
 http://15.235.15.230:14488/
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP SD
-http://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP HD
-http://cdn-3.nxplay.com.br/TV_TEM_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP HD [Alter]
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP HD
 http://15.235.15.230:14492/
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/nPB5NIY.png" group-title="Canais | GLOBO",Globo MS HD
@@ -240,23 +240,8 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 ############################################################################ Canais | SBT
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/g47oQ4n.png" group-title="Canais | SBT",SBT 360p
-https://aovivo.maissbt.com/channel_180.m3u8
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/g47oQ4n.png" group-title="Canais | SBT",SBT 480p
-https://aovivo.maissbt.com/channel_270.m3u8
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/g47oQ4n.png" group-title="Canais | SBT",SBT 640p
-https://aovivo.maissbt.com/channel_288.m3u8
-
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/g47oQ4n.png" group-title="Canais | SBT",SBT SD
-https://aovivo.maissbt.com/channel_360.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/g47oQ4n.png" group-title="Canais | SBT",SBT HD
-https://aovivo.maissbt.com/channel_540.m3u8
-
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT Aut
-https://aovivo.maissbt.com/index.m3u8
+https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_SIMULCAST_CTV/TLBkp.m3u8?ads.start=1
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Interior SP HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
@@ -330,11 +315,14 @@ https://ythls.armelin.one/channel/UCL8kOCsi7QxKVlP7G7IC55g.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário
 http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
 
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia YT
+#EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia YT
 https://ythls.armelin.one/channel/UC3croy4Mmkr_CpssQihMytw.m3u8
 
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia HD
+#EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia HD
 http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
+
+#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://stream1.freetv.fun/tv-gazeta-1.m3u8
@@ -1252,9 +1240,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel FHD
-
-
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
@@ -1263,6 +1248,9 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/352
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png/v1/fill/w_86,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="Canais | FILMES E SERIES",Tela Brasil TV
+https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yrzQyEu.png" group-title="Canais | FILMES E SERIES",Cine Brasil HD
 https://cdn-2.nxplay.com.br/Cinebrasil/index.m3u8
@@ -2106,7 +2094,7 @@ https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/nA0cWeE.png" group-title="Canais | ABERTO",TV RBC
-https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TyGio9J.png" group-title="Canais | ABERTO",Gogo Play
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
@@ -2947,6 +2935,147 @@ http://shd12.doramasapp.xyz/token/SHD12/211039/1x.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E06
 http://shd12.doramasapp.xyz/token/SHD12/211039/1x6.mp4
+
+
+############################################################################ NOVELA TURCA YABANI S01
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E01
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x1.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E02
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x2.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E03
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x3.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E04
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x4.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E05
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x5.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E06
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x6.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E07
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x7.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E08
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x8.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E09
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x9.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E10
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x10.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E11
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x11.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E12
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x12.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E13
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x13.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E14
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x14.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E15
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x15.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E16
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x16.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E17
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x17.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E18
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x18.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E19
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x19.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E20
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x20.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E21
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x21.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E22
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x22.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E23
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x23.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E24
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x24.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E25
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x25.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E26
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x26.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E27
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x27.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E28
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x28.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E29
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x29.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E30
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x30.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E31
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x31.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E32
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x32.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E33
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x33.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E34
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x34.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E35
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x35.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E36
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x36.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E37
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x37.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E38
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x38.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E39
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x39.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E40
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x40.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E41
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x41.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E42
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x42.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E43
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x43.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E44
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x44.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E45
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x45.mp4
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/eTM1SU0.png" group-title="Novela | YABANI S01",S01 E46
+http://shd12.doramasapp.xyz/token/SHD12/231503/1x46.mp4
 
 ############################################################################ O DIA DO CHACAL  01
 
