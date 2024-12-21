@@ -1772,7 +1772,7 @@ https://embedcanaistv.site/adultswim/index.mpd
 http://cdn33.cc:80/patrickpimentel/topip2010/199850.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/trwd2sT.png" group-title="Canais | INFANTIL",Peppa Pig YT
 https://ythls.armelin.one/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
@@ -2409,7 +2409,7 @@ https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chu
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0JSnI01.png" group-title="Canais | ABERTO",Latina Sat
-https://video03.logicahost.com.br/latinasat/latinasat/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Wl6vWI.png" group-title="Canais | ABERTO",Tenda TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
@@ -2514,7 +2514,7 @@ https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | ABERTO",Ministério Infantil TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="Canais | ABERTO",REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
