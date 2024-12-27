@@ -107,6 +107,9 @@ http://xciptv.8888play.one:80/228463308/r576049x/244140
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
 
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP SD
+https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
+
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/50
 
@@ -181,6 +184,9 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV - Vale do Uruará SD
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
 
+#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV - Vale do Uruará HD
+https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8?Manotv
+
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band MG HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
 
@@ -241,7 +247,7 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3z9k2eb.png" group-title="Canais | ABERTO",TV LatinaSat 
-https://stream.ichibantv.com:3328/hybrid/play.m3u8
+https://alanza.iptv2022.com/sh/TVLatinasat/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",TV A Critica HD YT
 https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
@@ -2597,6 +2603,9 @@ http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/19
 #EXTINF:-1  tvg-logo="https://imgur.com/AntrFrv.png" group-title="Canais | INTERNACIONAL",RTP2
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/20
 
+#EXTINF:-1 tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="Canais | INTERNACIONAL",Assim é Portugal | Brasil
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/bc6tYVZ.png" group-title="Canais | INTERNACIONAL",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
@@ -2644,9 +2653,6 @@ http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FdSRwfr.png" group-title="Canais | INTERNACIONAL",Eleven sports 6 HD
 http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
-
-#EXTINF:-1 tvg-logo="https://imgur.com/PI5RE7e.png" group-title="Canais | INTERNACIONAL",TVCine Edition HD
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BCciK8b.png" group-title="Canais | INTERNACIONAL",CANAL 11
 
