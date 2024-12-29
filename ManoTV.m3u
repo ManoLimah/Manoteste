@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml"
 
 ############################################################################ Informações 
 
@@ -2854,6 +2854,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
+
 ############################################################################ SENNA  01
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E01
@@ -2873,6 +2874,265 @@ http://shd12.doramasapp.xyz/token/SHD12/211039/1x.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E06
 http://shd12.doramasapp.xyz/token/SHD12/211039/1x6.mp4
+
+################################################################# ROUND 6 S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E08
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E09
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x9.mp4
+
+
+################################################################# ROUND 6 S02
+
+#EXTINF:-1 tvg-logo="https://imgur.com/I9I5US8.png" group-title="Série | ROUND 6 S02",S02 E01
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q5L1NUu.png" group-title="Série | ROUND 6 S02",S02 E02
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/h2Nqpod.png" group-title="Série | ROUND 6 S02",S02 E03
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/I9I5US8.png" group-title="Série | ROUND 6 S02",S02 E04
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q5L1NUu.png" group-title="Série | ROUND 6 S02",S02 E05
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/h2Nqpod.png" group-title="Série | ROUND 6 S02",S02 E06
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/I9I5US8.png" group-title="Série | ROUND 6 S02",S02 E07
+http://shd1.doramasapp.xyz/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x7.mp4
+
+################################################################# ADAMAS S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E01
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E02
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E03
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E04
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E05
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E06
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E07
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E08
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E09
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E10
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E11
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E12
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E13
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x13.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E14
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x14.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E15
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x15.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E16
+http://shd0.doramasapp.xyz/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x16.mp4
+
+################################################################# iLHA DA TENTAÇÃO ISLAND S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E01
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E02
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E03
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E04
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E05
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E06
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E07
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E08
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E09
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E10
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E11
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x11.mp4
+
+
+################################################################# iLHA DA TENTAÇÃO ISLAND S02
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E01
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E02
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E03
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E04
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E05
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E06
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E07
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E08
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E09
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E10
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E11
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E12
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x12.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E13
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x13.mp4
+
+################################################################# iLHA DA TENTAÇÃO ISLAND S03
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E01
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E02
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E03
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E04
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E05
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E06
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E07
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E08
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E09
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E10
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E11
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E12
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x12.mp4
+
+
+################################################################# iLHA DA TENTAÇÃO ISLAND S04
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E01
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E02
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E03
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E04
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E05
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E06
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E07
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E08
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E09
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E10
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E11
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E12
+http://shd9.doramasapp.xyz/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x12.mp4
+
+
 
 
 ############################################################################ NOVELA TURCA YABANI S01
@@ -4240,7 +4500,6 @@ http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yaQDO2V.png" group-title="Série | THE UMBRELLA ACADEMY S04",S04 E06
 http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75006/4x6.mp4
 
-
 ############################################################################ FILMES
 
 
@@ -4677,6 +4936,9 @@ http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21308698.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões Uma Nova Balada 
 http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0377818.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mais um Besteirol ao Extremo
+http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0806147.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões 2 O Início 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0800328.mp4
