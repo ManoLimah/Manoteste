@@ -91,10 +91,13 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1089
 ############################################################################ Canais | REALITY
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
-https://cr7v.short.gy/ManoTVfree/Bigcam1/index.m3u8
+https://cr7v.short.gy/ManoTVfree/BBB1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 2
-https://cr7v.short.gy/ManoTVfree/Bigcam2/index.m3u8
+https://cr7v.short.gy/ManoTVfree/BBB2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OeB3Ply.png" group-title="Reality | BBB",Mosaico
+https://cr7v.short.gy/ManoTVfree/Mosaico/index.m3u8
 
 ############################################################################ Canais | RECORD TV
 
