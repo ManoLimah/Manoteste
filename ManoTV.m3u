@@ -337,13 +337,10 @@ https://cr7v.short.gy/manoiTV/spnHD/ZAP075991634025/index.m3u8
 https://cr7v.short.gy/manoiTV/spnHD²/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD³
-https://cr7v.short.gy/manoiTV/spneHD³/Index.m3u8
+https://cr7v.short.gy/manoiTV/ESPNHD³/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD 
 https://cr7v.short.gy/manoiptvfree/ESPN4k/Index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name= "ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD [Alterar] 
-https://cr7v.short.gy/manoiTV/ESPNFHDAL/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD 
 http://conexao-vs.live/ESPN2/index.m3u8
