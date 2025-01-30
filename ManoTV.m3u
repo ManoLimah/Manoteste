@@ -23,7 +23,7 @@ http://xciptv.8888play.one:80/228463308/r576049x/2375
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD UHD
-http://tv.fazoeli.co.za/m3u8/globorj.m3u8
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36968.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
@@ -33,6 +33,9 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/10
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
 http://204.12.227.194:80/4/live.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
+http://conexao-vs.live/GLOBO/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM Bauru 
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/138
@@ -77,7 +80,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/530
 http://xciptv.8888play.one:80/228463308/r576049x/2394
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://ii.mgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES FHD
-
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/42980.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES FHD²
 http://xciptv.8888play.one:80/228463308/r576049x/2395
@@ -2204,7 +2207,7 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunkli
 https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",Rede Brasil HD
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rGJNeou.png" group-title="Canais | ABERTO",Vivax TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
