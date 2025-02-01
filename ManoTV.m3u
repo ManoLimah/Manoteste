@@ -79,7 +79,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/530
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES HD
 http://xciptv.8888play.one:80/228463308/r576049x/2394
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://ii.mgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES FHD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.mgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES FHD
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/42980.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES FHD²
@@ -2218,28 +2218,34 @@ https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="Canais | ABERTO",TERRA VIVA HD
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/81607.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="Canais | ABERTO",Canal do Boi HD
-https://aovivo3.equipea.com.br:5443/aovivort/streams/7JqTuqkq5OwZ89cw1724977438534.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isJAvqM.png" group-title="Canais | ABERTO",Canal do Boi HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/486
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | ABERTO",Agro Canal
 https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="Canais | ABERTO",Agro Brasil 
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WjWjQ2A.png" group-title="Canais | ABERTO",Agro Brasil 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",AgroMais SD
-https://cdn-1.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Canais | ABERTO",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="Canais | ABERTO",Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Canais | ABERTO",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",AgroMais HD
-https://cdn-1.nxplay.com.br/AGROMAIS_HD_TK/tracks-v2a1/mono.m3u8
+https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/3g7ijoK.png" group-title="Canais | ABERTO",XR HEALTH BRASIL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3g7ijoK.png" group-title="Canais | ABERTO",XR HEALTH BRASIL
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbxAkds.png" group-title="Canais | ABERTO",TV Brasil Central
 https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/faofls5.png" group-title="Canais | ABERTO",REDE SECULO 21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/faofls5.png" group-title="Canais | ABERTO",REDE SECULO 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7AKdZrC.png" group-title="Canais | ABERTO",YEEAAH
@@ -2813,6 +2819,9 @@ https://8mwx.short.gy/CANALOFF/index.m3u8
 
 #EXTINF:-1 tvg-id="ge-fest" tvg-name="ge-fast" tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Canais | ESPORTES",Ge Fast HD
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQFWEIS.png" group-title="Canais | ESPORTES",Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="Canais | ESPORTES",PONTV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
