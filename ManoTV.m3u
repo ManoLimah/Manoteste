@@ -245,6 +245,9 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",RedeTV! PI SD
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w157393531.m3u8?ManoTV
 
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",TV Guará Caxias 
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",TV São Luís Maranhão 
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 
@@ -269,14 +272,26 @@ https://ythls.armelin.one/channel/UCL8kOCsi7QxKVlP7G7IC55g.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://i.imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário
 http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
 
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia YT
-https://ythls.armelin.one/channel/UC3croy4Mmkr_CpssQihMytw.m3u8
-
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia HD
 http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
 
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE
+#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE FHD
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE FHD²
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL ES
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL SC
+https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL PB
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://stream1.freetv.fun/tv-gazeta-1.m3u8
@@ -2182,17 +2197,6 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="Canais | ABERTO",Sou TV.
 https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL ES
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL SC
-https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL PB
-https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
-https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Canais | ABERTO",TV Marajoara 
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
