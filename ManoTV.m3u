@@ -79,7 +79,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/530
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES HD
 http://xciptv.8888play.one:80/228463308/r576049x/2394
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.mgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES FHD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES FHD
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/42980.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo ES FHD²
@@ -486,7 +486,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/156
 https://super-cdn.link/premiere6/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/158
+https://s1.embecdn.site/PREMIERE/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
 https://super-cdn.link/premiere7/index.m3u8
@@ -540,22 +540,22 @@ https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
 https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1276
+https://s1.embecdn.site/DISNEY+1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 2
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1275
+https://s1.embecdn.site/DISNEY+2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 3
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1274
+https://s1.embecdn.site/DISNEY+3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 4
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1273
+https://s1.embecdn.site/DISNEY+4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 5
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1270
+https://s1.embecdn.site/DISNEY+5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 6
-http://izcdn.vood.top:80/hls/232232_.m3u8
+https://s1.embecdn.site/DISNEY+6/index.m3u8
 
 
 ############################################################################ CANAIS NBA
@@ -1061,7 +1061,10 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
 http://super-cdn.link/tnt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD [Alter]
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD²
+https://s1.embecdn.site/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD³
 http://conexao-vs.live/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
@@ -2328,16 +2331,19 @@ https://stmv1.srvif.com/2022/2022/playlist.m3u8
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova Portugal
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova SD
-https://cdn-2.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/63630.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova HD
-https://cdn-2.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+https://super-cdn.link/cancaonova/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova PE
-https://tv.vidatel.com.br/hls/tvcancaonovahd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova HD²
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/96
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova HD³
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/97
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QZhhn6FN9to/UlFrsL3Tt0I/AAAAAAAAbHo/ds9DswoDlWo/s400/Logo%2Bdo%2BSite.png" group-title="Canais | ABERTO",CINEPIX
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1295959840.m3u8
