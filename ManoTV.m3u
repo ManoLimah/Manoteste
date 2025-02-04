@@ -319,6 +319,9 @@ https://stmv1.srvsite.com/ely/ely/chunklist_w1041259677.m3u8
 
 ############################################################################ CANAIS SporTV 
 
+#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
+http://185.246.208.74:14662/
+
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD 
 https://cr7v.short.gy/manoiTV/sptv/75991634025/index.m3u8
 
@@ -347,6 +350,9 @@ https://super-cdn.link/sportv3/index.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
 ############################################################################ CANAIS ESPN
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN
+http://185.246.208.74:14493/
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD 
 https://cr7v.short.gy/manoiTV/spnHD/ZAP075991634025/index.m3u8
@@ -539,6 +545,15 @@ https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 6
 https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 7
+https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 8
+https://cr7v.short.gy/live/JOGOO8/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
+https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 
 https://s1.embecdn.site/DISNEY+1/index.m3u8
 
@@ -651,7 +666,7 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/498
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD [Alter]
-https://stream1.freetv.fun/globo-news-2.m3u8
+http://79.127.238.228:14093/
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/445
@@ -937,7 +952,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD²
+http://conexao-vs.live/VIVA/index.m3u8
 
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD³
+http://strawberry.tel:80/live/889281840/Z451m1324a/2536.m3u8
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
 https://cr7v.short.gy/live3/v/Index.m3u8
