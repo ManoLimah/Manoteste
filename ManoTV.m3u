@@ -13,10 +13,13 @@ http://cloudfm.playhdlugo.online/token:s21expires11365uslink1578l2/flm24/OVingad
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ SD
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36968.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD [Alter]
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+https://new.m3u8.one/globorj/index.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
 http://xciptv.8888play.one:80/228463308/r576049x/2375
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
@@ -33,6 +36,9 @@ http://204.12.227.194:80/4/live.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
 http://conexao-vs.live/GLOBO/index.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD³
+https://new.m3u8.one/globosp/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM Bauru 
 
@@ -469,7 +475,7 @@ https://cr7v.short.gy/M/CLUBE1HD/Index.m3u8
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/63093.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD⁴
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/63092.m3u8
+
 
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 SD
@@ -1078,6 +1084,9 @@ http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37046.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36944.m3u8
 
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD²
+https://new.m3u8.one/space/index.m3u8
+
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
 
@@ -1092,6 +1101,12 @@ https://s1.embecdn.site/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD³
 http://conexao-vs.live/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD⁴
+https://new.m3u8.one/tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD⁵
+https://super-cdn.link/tnt/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/314
@@ -2949,27 +2964,68 @@ http://shd12.oneplayer.site/token/SHD12/154822/1x7.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E08 Aguarde
 http://shd12.oneplayer.site/token/SHD12/154822/1x8.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E09
+http://shd12.oneplayer.site/token/SHD12/154822/1x9.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E10
+http://shd12.oneplayer.site/token/SHD12/154822/1x10.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E11
+http://shd12.oneplayer.site/token/SHD12/154822/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E12
+http://shd12.oneplayer.site/token/SHD12/154822/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E13
+http://shd12.oneplayer.site/token/SHD12/154822/1x13.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E14
+http://shd12.oneplayer.site/token/SHD12/154822/1x14.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E15
+http://shd12.oneplayer.site/token/SHD12/154822/1x15.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E16
+http://shd12.oneplayer.site/token/SHD12/154822/1x16.mp4
+
+############################################################################ O MELHOR INFARTO DA MINHA VIDA  01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PM9qq0N" group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01",S01 E01
+http://shd12.oneplayer.site/token/SHD12/280409/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PM9qq0N" group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01",S01 E02
+http://shd12.oneplayer.site/token/SHD12/280409/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PM9qq0N" group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01",S01 E03
+http://shd12.oneplayer.site/token/SHD12/280409/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PM9qq0N" group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01",S01 E04
+http://shd12.oneplayer.site/token/SHD12/280409/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PM9qq0N" group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01",S01 E05
+http://shd12.oneplayer.site/token/SHD12/280409/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PM9qq0N" group-title="Série | O MELHOR INFARTO DA MINHA VIDA S01",S01 E06
+http://shd12.oneplayer.site/token/SHD12/280409/1x6.mp4
 
 ############################################################################ SENNA  01
 
-#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E01
 http://shd12.oneplayer.site/token/SHD12/211039/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E02
 http://shd12.oneplayer.site/token/SHD12/211039/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E03
 http://shd12.oneplayer.site/token/SHD12/211039/1x3.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E04
 http://shd12.oneplayer.site/token/SHD12/211039/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E05
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E05
 http://shd12.oneplayer.site/token/SHD12/211039/1x.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E06
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E06
 http://shd12.oneplayer.site/token/SHD12/211039/1x6.mp4
 
 ################################################################# ROUND 6 S01
