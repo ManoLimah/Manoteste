@@ -2927,7 +2927,25 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Canais | ESPORTES",Realmadrid TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
+############################################################################ Sintonia S05
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E01
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E02
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E03
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E04
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E05
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E06
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x6.mp4
 
 
 ################################################################# PERGUNTE ÀS ESTRELAS S01
