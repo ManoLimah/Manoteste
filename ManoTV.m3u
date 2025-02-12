@@ -1287,13 +1287,13 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Canais | FILMES E SERIES",Bora Filmes
-http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Canais | FILMES E SERIES",Cine Monde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="Canais | FILMES E SERIES",EuropaPlay Nacional 
-https://cdn-2.nxplay.com.br/europaplay/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
@@ -1311,7 +1311,7 @@ https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
 
 #EXTINF:-1  tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="Canais | FILMES E SERIES",HTO FILMES
-https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/AmorAmorsic.png" group-title="Canais | FILMES E SERIES",TV Amor 
 
@@ -1429,10 +1429,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z8BnjPs.png" group-title="Canais | FILMES",Hallo Classic
-https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="Canais | FILMES",Hallo Movies
-https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 
 ############################################################################ Canais | SÉRIES 
 
@@ -1563,34 +1563,34 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball 24
-http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
+?
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z 24
-http://24hrs.homelinux.com:80/24H-dragon.ball.z/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z Kai 24h
-http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Gt 24h
-http://24hrs.homelinux.com:80/24H-dragon.ball.gt/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Super 24h
-http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Naruto 24h
-http://24hrs.homelinux.com:80/24H-naruto.txt/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Naruto Shippuden 24h
-http://24hrs.homelinux.com:80/24H-narutoshippuden.txt/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Boruto 24h
-http://24hrs.homelinux.com:80/24H-boruto/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Hantaro 24h
-http://24hrs.homelinux.com:80/24H-hantaro/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Jiraya 24h
-http://24hrs.homelinux.com:80/24H-Jiraya/video.m3u8
+
 
 ############################################################################ Canais | INFANTIL
 
@@ -1770,84 +1770,90 @@ https://cdn-1.nxplay.com.br/DREAMWORKS/index.m3u8
 https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD
-https://abc.embedmax.site/adultswim/tracks-v1a1/mono.m3u8
+http://cdn33.cc:80/patrickpimentel/topip2010/199850.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD²
-https://embedcanaistv.site/adultswim/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM FHD
-http://cdn33.cc:80/patrickpimentel/topip2010/199850.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/trwd2sT.png" group-title="Canais | INFANTIL",Peppa Pig YT
-https://ythls.armelin.one/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
+http://45.134.141.161:2200/BRX/24HS_Peppa_Pig/index.m3u8
 
 ################################################################################# Canais INFANTIL 24h
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chapolin Colorado 24h
-http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
+http://45.134.141.161:2200/BRX/24HS_Chapolin_Colorado/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chaves 24h
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Masha e o Urso 24h
-http://24hrs.homelinux.com:80/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8
+http://64.31.42.58:14204/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",Bob Esponja 24h
+http://45.134.141.161:2200/BRX/24HS_Bob_Esponja_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Pokemon 24h
-http://24hrs.homelinux.com:80/24H-pokemon/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Digimon 24h
-http://24hrs.homelinux.com:80/24H-digimon/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Ben 10 2005 24h
-http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Ben_10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Poderoso Chefinho 24h
-http://24hrs.homelinux.com:80/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Mickey e Donald 24h
-http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Hantaro 24h
-http://24hrs.homelinux.com:80/24H-hantaro/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Luluzinha 24h
-http://24hrs.homelinux.com:80/24H-luluzinha/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Jaspion 24h
-http://24hrs.homelinux.com:80/24H-jaspion/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Thundercats 24h
-http://24hrs.homelinux.com:80/24H-thundercats/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Mundo De Boby 24h
-http://24hrs.homelinux.com:80/24H-ofantasticomundodeboby/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Tom & Jerry 24h
-http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Tom_e_Jerry/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Scoobdoo 24h
-http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Popeye 24h
-http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Os Simpsons 24h
-http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Simpson1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Os Simpsons 2 24h
+http://45.134.141.161:2200/BRX/24HS_Simpson2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴X-Men Evolution 24h
-http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Wolverine_e_os_X-men/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴PicaPau 24h
-http://24hrs.homelinux.com:80/24H-picapau/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Pica-Pau_O_novo_show/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Cavaleiros Zodiaco 24h
-http://24hrs.homelinux.com:80/24H-cavaleiros/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Os Flistony 24h
-http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8
+
 
 ############################################################################ Canais | MÚSICA 
 
@@ -2027,34 +2033,34 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Um Maluco no Pedaço 24h
-http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Um_maluco_no_pedaco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Os Trapalhões 24h
-http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴2 Homens e Meio 24h
-http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Dois_Homens_e_Meio1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Todo Mundo Odeia O Cris 24h
-http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Todo_mundo_odeia_o_Chris/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Pegadinhas Silvio Santos 24h
-http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8 
+ 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴As Visões da Raven 24h
-http://24hrs.homelinux.com:80/24H-asvisoesdaraven/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴A Grande Família 24h
-http://24hrs.homelinux.com:80/24H-O.Album.da.Grande.Familia.S01/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_A_Grande_Familia/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Escolinha Raimundo 24h
-http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Eu a Patroa e as Crianças 24h
-http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8
+http://45.134.141.161:2200/BRX/24HS_Eu_a_patroa_e_as_criancas/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Tô d Graça 24h
-http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
+
 
 ############################################################################ TV ABERTA 
 
