@@ -34,8 +34,8 @@ http://conexao-vs.live/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
 https://new.m3u8.one/globosp/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD³
-
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP TV Diário 
+https://super-cdn.link/globosp-tvdiario/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Sorocaba 
 http://themegamanx.net:80/live/889281840/Z451m1324a/2339_.m3u8
@@ -73,8 +73,8 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo NSC Blumenau
 
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo NSC Chapecó 
-
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo NSC Florianoplis 
+https://super-cdn.link/globosc-nsctvflorianopolis/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
 http://themegamanx.net:80/live/889281840/Z451m1324a/2378_.m3u8
@@ -769,8 +769,8 @@ http://45.235.0.78/E!-HD/index.m3u8
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box
 http://45.235.0.78/PRIMEBOXBRASIL-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Empreender" tvg-name="Empreender" tvg-logo="https://i.imgur.com/QRxGp7f.png" group-title="Canais | VARIEDADES",Empreender HD
-
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Canais | VARIEDADES",National Geographic HD
+https://super-cdn.link/nationalgeographic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1
 http://45.235.0.78/ARTE1-HD/index.m3u8
@@ -800,7 +800,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/85
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AH3uBDj.png" group-title="Canais | VARIEDADES",Food Network HD
-
+https://super-cdn.link/foodnetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV KFood
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -856,10 +856,7 @@ http://45.235.0.78:80/DISCOVERY-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
 https://super-cdn.link/discoveryscience/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD [Alter]
-
-
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater SD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD²
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
@@ -1074,6 +1071,7 @@ https://ythls.armelin.one/channel/UCCqkBCHOVqhg9N14p-nQlow.m3u8
 
 ############################################################################ Canais | FILMES E SERIES
 
+
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
 
@@ -1086,6 +1084,9 @@ https://new.m3u8.one/space/index.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT SD
+https://cr7v.short.gy/live/JOGOO8/Index.m3u8
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
 http://45.235.0.78:80/TNT-HD/index.m3u8
 
@@ -1097,8 +1098,6 @@ https://new.m3u8.one/tnt/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD⁴
 https://super-cdn.link/tnt/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD⁵
 
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
@@ -1165,7 +1164,7 @@ http://185.246.208.74:14940/
 http://themegamanx.net:80/live/889281840/Z451m1324a/633_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36935.m3u8
+https://super-cdn.link/telecinetouch/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
 http://themegamanx.net:80/live/889281840/Z451m1324a/620_.m3u8
@@ -1221,16 +1220,19 @@ http://185.246.208.74:14460/
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
 http://45.235.0.78/HBO-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ SD
-
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD²
+https://super-cdn.link/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
+https://super-cdn.link/hboplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD²
 http://45.235.0.78/HBOPLUS-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 SD
-
-
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
+https://super-cdn.link/hbo2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD²
 http://45.235.0.78/HBO2-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
@@ -4092,6 +4094,9 @@ http://shd12.oneplayer.site/token/SHD12/66604/1x6.mp4
 http://shd12.oneplayer.site/token/SHD12/66604/1x7.mp4
 
 ############################################################################ FILMES
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Substância
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt17526714.mp4
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",De Volta à Ação
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt18259086.mp4
