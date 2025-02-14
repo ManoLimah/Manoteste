@@ -99,6 +99,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1089
 
 ############################################################################ Canais | REALITY
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
 https://cr7v.short.gy/BBBc1/index.m3u8
 
@@ -388,7 +389,7 @@ https://cr7v.short.gy/manoiTV/ESPNHD³/index.m3u8
 https://cr7v.short.gy/manoiptvfree/ESPN4k/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD 
-http://conexao-vs.live/ESPN2/index.m3u8
+http://45.235.0.78/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 https://super-cdn.link/espn2/index.m3u8
@@ -400,7 +401,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/129 
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD 
-http://conexao-vs.live/ESPN/index.m3u8
+http://45.235.0.78/ESPN2-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 UHD
 https://super-cdn.link/espn3/index.m3u8
@@ -2740,10 +2741,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD3600001Q1
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Canais | INTERNACIONAL",SEO TV Deportes 1
-https://seo.tv.bo/tv/IPSEO-TV-5.1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://seo.tv.bo/LOGOS/LOGO_SEO_TV_DEPORTES_HD.png" group-title="Canais | INTERNACIONAL",SEO TV Deportes 2
-https://seo.tv.bo/tv/IPSEO-TV-5.2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Canais | INTERNACIONAL",Euronews | Rakuten
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -2762,9 +2763,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9J47rsV.png" group-title="Canais | INTERNACIONAL",Sony Canal Comedias
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/lsdruQ0.png" group-title="Canais | INTERNACIONAL",Sony Canal Competencias
-https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
  
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Canais | INTERNACIONAL",Deportes | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
