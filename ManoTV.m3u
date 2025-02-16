@@ -23,7 +23,7 @@ https://new.m3u8.one/globorj/index.m3u8
 http://xciptv.8888play.one:80/228463308/r576049x/2375
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
-
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/504
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
@@ -433,13 +433,16 @@ https://super-cdn.link/combate/index.m3u8
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate FHD²
-
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1001
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
 https://super-cdn.link/ufcfightpass/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD²
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1121
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass 2
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1122
 
 ############################################################################ CANAIS PREMIERE
 
@@ -479,10 +482,10 @@ https://super-cdn.link/premiere7/index.m3u8
 ############################################################################ AO VIVO AGORA 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT
-
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1263
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT 2
-
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1264
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT 3
 
@@ -491,13 +494,13 @@ https://super-cdn.link/premiere7/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
-
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1265
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV 2 HD
-
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1266
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV 3 HD
-
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1145
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV SD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/576p-vtt/index.m3u8
