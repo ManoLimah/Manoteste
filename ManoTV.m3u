@@ -1095,6 +1095,9 @@ https://super-cdn.link/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD²
 https://new.m3u8.one/space/index.m3u8
 
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD³
+http://45.235.0.78:80/SPACE-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE FHD
 http://zutufo.in:80/live/889281840/Z451m1324a/707_.m3u8
 
