@@ -20,10 +20,10 @@ https://super-cdn.link/globorj-globorio/tracks-v1a1/mono.m3u8
 https://new.m3u8.one/globorj/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
-http://xciptv.8888play.one:80/228463308/r576049x/2375
+http://zutufo.in:80/889281840/Z451m1324a/2375
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/504
+http://zutufo.in:80/889281840/Z451m1324a/21319
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
@@ -59,7 +59,7 @@ https://super-cdn.link/globodf-globobrasilia/tracks-v1a1/mono.m3u8
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",RPC Curitiba
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/63695.m3u8
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Asa Branca
 
@@ -111,13 +111,10 @@ https://cr7v.short.gy/Mosaico/index.m3u8
 ############################################################################ Canais | RECORD TV
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD
-http://xciptv.8888play.one:80/228463308/r576049x/244141
-
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD²
-http://xciptv.8888play.one:80/228463308/r576049x/244140
+http://zutufo.in:80/889281840/Z451m1324a/244141
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA UHD
-
+http://zutufo.in:80/889281840/Z451m1324a/244140
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
