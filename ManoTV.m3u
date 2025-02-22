@@ -100,13 +100,13 @@ https://super-cdn.link/globoes-tvgazetavitoria/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
-https://cr7v.short.gy/BBBc1/index.m3u8
+https://cr7v.short.gy/BBB1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 2
-https://cr7v.short.gy/BBBc2/index.m3u8
+https://cr7v.short.gy/BBB2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Reality | BBB",Mosaico
-https://cr7v.short.gy/Mosaico/index.m3u8
+https://cr7v.short.gy/MOSAICO/index.m3u8
 
 ############################################################################ Canais | RECORD TV
 
@@ -344,19 +344,19 @@ https://stmv1.srvsite.com/ely/ely/chunklist_w1041259677.m3u8
 http://185.246.208.74:14662/
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD 
-https://cr7v.short.gy/manoiTV/sptv/75991634025/index.m3u8
+https://cr7v.short.gy/manoiTVOP1/sptv/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD²
-https://cr7v.short.gy/manoiTV/sptvextra/75991634025/index.m3u8
+https://cr7v.short.gy/manoiTVOP2/sptvextra/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD³
-https://cr7v.short.gy/manoiTV/sptvxtra2/75991634025/index.m3u8
+https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD 
-https://cr7v.short.gy/manoiTV/sptvFHD/75991634025/index.m3u8
+https://cr7v.short.gy/manoiTVOP4/sptvFHD/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV 4k 
-https://cr7v.short.gy/manoiTV/sptv4k/75991634025/index.m3u8
+https://cr7v.short.gy/manoiTVOP5/sptv4k/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
 https://super-cdn.link/sportv2/index.m3u8
@@ -376,16 +376,16 @@ https://super-cdn.link/sportv3/index.m3u8
 http://185.246.208.74:14493/
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD 
-https://cr7v.short.gy/manoiTV/spnHD/ZAP075991634025/index.m3u8
+https://cr7v.short.gy/manoiTVOP1/spnHD/ZAP075991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD²
-https://cr7v.short.gy/manoiTV/spnHD²/Index.m3u8
+https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD³
-https://cr7v.short.gy/manoiTV/ESPNHD³/index.m3u8
+https://cr7v.short.gy/manoiTVOP3/ESPNHD³/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD 
-https://cr7v.short.gy/manoiptvfree/ESPN4k/Index.m3u8
+https://cr7v.short.gy/manoiTVOP4/ESPN4k/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD 
 http://45.235.0.78/ESPN-HD/index.m3u8
