@@ -2723,46 +2723,43 @@ https://stitcher.pluto.tv/stitch/hls/channel/66c45afaa72e7b0008a2b153/master.m3u
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-name="SPORTTV 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",SportTV 1 HD
-http://zutufo.in:80/live/889281840/Z451m1324a/111995_.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/111995_.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",SportTV 2 HD
-http://zutufo.in:80/live/889281840/Z451m1324a/111998_.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/111998_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",SportTV 3 HD
-http://zutufo.in:80/live/889281840/Z451m1324a/112000_.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/112000_.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Canais | INTERNACIONAL",SportTV 4 HD
-http://zutufo.in:80/live/889281840/Z451m1324a/112002_.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/112002_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tS7t12k.png" group-title="Canais | INTERNACIONAL",SportTV 5 HD
-http://zutufo.in:80/live/889281840/Z451m1324a/112004_.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/112004_.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 
 https://stream1.freetv.fun/eleven-sports-1-1.ctv
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 HD
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/35
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2
-https://stream1.freetv.fun/eleven-sports-2-1.ctv
+http://zutufo.in:80/live/781487031/K788a6763d/273450_.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 HD
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/36
+http://zutufo.in:80/live/781487031/K788a6763d/273451_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TvV6DtG.png" group-title="Canais | INTERNACIONAL",Eleven sports 3 HD
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/37
+http://zutufo.in:80/live/781487031/K788a6763d/273452_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P0QLHvF.png" group-title="Canais | INTERNACIONAL",Eleven sports 4 HD
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/38
+http://zutufo.in:80/live/781487031/K788a6763d/229989_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NQ3Zpxi.png" group-title="Canais | INTERNACIONAL",Eleven sports 5 HD
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/39
+http://zutufo.in:80/live/781487031/K788a6763d/273453_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FdSRwfr.png" group-title="Canais | INTERNACIONAL",Eleven sports 6 HD
-http://sure.streams.me.uk:25461/GQGGcVHZjBpn/HsuYn7hVT93U/40
+http://zutufo.in:80/live/781487031/K788a6763d/273454_.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BCciK8b.png" group-title="Canais | INTERNACIONAL",CANAL 11
-
+http://zutufo.in:80/live/781487031/K788a6763d/112016_m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jhFxUc1.png" group-title="Canais | INTERNACIONAL",TV5 Mond
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
