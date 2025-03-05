@@ -589,16 +589,16 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 ############################################################################ CANAIS | MAX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX",Max 1
-
+https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX",Max 2 
-
+https://lvstr.cfd/space/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX",Max 3
-
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/73
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | MAX",Max 4
-
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/74
 
 ############################################################################ CANAIS NBA
 
@@ -650,8 +650,11 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tyW3Ppf.png" group-title="Canais | NOTÍCIAS",BM&C NEWS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="Times Brasil Licenciamento CNBC" tvg-name="Times Brasil Licenciamento CNBC" tvg-logo="https://i.imgur.com/FPpNGo0.png" group-title="Canais | NOTÍCIAS",Times Brasil CNBC
+#EXTINF:-1 tvg-id="Times Brasil | CNBC" tvg-name="Times Brasil | CNBC" tvg-logo="https://i.imgur.com/FPpNGo0.png" group-title="Canais | NOTÍCIAS",Times Brasil | CNBC
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+
+#EXTINF:-1 tvg-id="Times Brasil | CNBC" tvg-name="Times Brasil | CNBC" tvg-logo="https://i.imgur.com/FPpNGo0.png" group-title="Canais | NOTÍCIAS",Times Brasil | CNBC
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/679a973a97782f0008ff4bb6livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="Pluto TV Canal UOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Pluto TV Canal UOL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1146,7 +1149,7 @@ https://new.m3u8.one/tnt/index.m3u8
 https://lvstr.cfd/tnt/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
-http://xenali.top:80/live/889281840/Z451m1324a/21285_.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 
@@ -2694,6 +2697,9 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 
 #EXTINF:-1  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp" group-title="Canais | INTERNACIONAL",Demand Africa HD
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png " group-title="Canais | INTERNACIONAL",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rmmvWsX.png " group-title="Canais | INTERNACIONAL",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
