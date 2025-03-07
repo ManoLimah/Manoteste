@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",05/03/2025
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",07/02/2025
 https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lgIoADn.png" group-title="DOAÇÃO VIA PIX",75991634025
@@ -67,11 +67,20 @@ https://lvstr.cfd/globodf-globobrasilia/index.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Belém HD
 
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Mirante 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
+http://zutufo.in:80/live/781487031/K788a6763d/2360_.m3u8
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho FHD
+http://zutufo.in:80/live/781487031/K788a6763d/2361_.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RS SD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Mirante Cocais HD
+http://zutufo.in:80/live/781487031/K788a6763d/2445_.m3u8
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Mirante São Luis HD 
+http://zutufo.in:80/live/781487031/K788a6763d/518710_.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Mirante São Luis FHD 
+http://zutufo.in:80/live/781487031/K788a6763d/518709_.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RS HD
 https://lvstr.cfd/globors-rbstvportoalegre/tracks-v1a1/mono.m3u8
@@ -2907,6 +2916,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Canais | ESPORTES",Realmadrid TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
+
+
+############################################################################ Demolidor: Renascido S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bT6uXXt.png" group-title="Série | DEMOLIDOR: RENASCIDO S01",S01 E01
+http://shd12.oneplayer.site/token/SHD12/202555/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bT6uXXt.png" group-title="Série | DEMOLIDOR: RENASCIDO S01",S01 E02
+http://shd12.oneplayer.site/token/SHD12/202555/1x1.mp4
+
+
+
+
 ############################################################################ Sintonia S05
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E01
@@ -3018,10 +3040,10 @@ http://shd12.oneplayer.site/token/SHD12/154822/1x5.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E06 Aguarde
 http://shd12.oneplayer.site/token/SHD12/154822/1x6.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E07 Aguarde
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E07 
 http://shd12.oneplayer.site/token/SHD12/154822/1x7.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E08 Aguarde
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E08 
 http://shd12.oneplayer.site/token/SHD12/154822/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS5fqnd.png" group-title="Dorama | PERGUNTE ÀS ESTRELAS S01",S01 E09
@@ -3070,22 +3092,22 @@ http://shd12.oneplayer.site/token/SHD12/280409/1x6.mp4
 
 ############################################################################ SENNA  01
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E01
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E01
 http://shd12.oneplayer.site/token/SHD12/211039/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E02
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E02
 http://shd12.oneplayer.site/token/SHD12/211039/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E03
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E03
 http://shd12.oneplayer.site/token/SHD12/211039/1x3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E04
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E04
 http://shd12.oneplayer.site/token/SHD12/211039/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E05
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E05
 http://shd12.oneplayer.site/token/SHD12/211039/1x.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E06
+#EXTINF:-1 tvg-logo="https://imgur.com/HPtzOa3.png" group-title="Série | SENNA S01",S01 E06
 http://shd12.oneplayer.site/token/SHD12/211039/1x6.mp4
 
 ################################################################# ROUND 6 S01
@@ -3990,66 +4012,6 @@ http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E10
 http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x10.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E11
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x11.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E12
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x12.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E13
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x13.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E14
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x14.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E15
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x15.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E16
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x16.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E17
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x17.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E18
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x18.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E19
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x19.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E20
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x20.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E21
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x21.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E22
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x22.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E23
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x23.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E24
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x24.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E25
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x25.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E26
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x26.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E27
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x27.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E28
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x28.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E29
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E30
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x30.mp4
-
 ############################################################################ ORIGEM (FROM)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E01
@@ -4081,6 +4043,7 @@ http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhr
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E10
 http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x10.mp4
+
 
 ############################################################################ LUPIN S01
 
@@ -4184,8 +4147,23 @@ http://shd12.oneplayer.site/token/SHD12/66604/1x7.mp4
 
 ############################################################################ FILMES
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Cão de Briga
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt22489042.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Nova Geração da Máfia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt9010322.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Invasão U.S.A.
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34t345/FHD10/tt0089348.mp4
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Capitão América: Admirável Mundo Novo
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt14513804.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Guarda Costas e Assassinos
+http://hd5.oneplayer.site/FHD5/tt1403130.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Ordem
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt26625693.mp4
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Confia: Sonho de Cria
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt34581855.mp4
@@ -4198,6 +4176,15 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt17526714.mp4
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Bogotá: A Cidade dos Sonhos Perdidos
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt22507374.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Demon City
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt35111035.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Auto da Compadecida 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt28696532.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Agente Oculto 
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt1649418.mp4
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Meio Grávida
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt30253036.mp4
@@ -4652,3 +4639,43 @@ http://fhd1.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD3/tt0377818.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mais um Besteirol ao Extremo
 http://fhd1.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD10/tt0806147.mp4
 
+############################################################################ Anime  S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E01
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E02
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E03
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E04
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E05
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E06
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E07
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E08
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E09
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E10
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E11
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E12
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E13
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x13.mp4
