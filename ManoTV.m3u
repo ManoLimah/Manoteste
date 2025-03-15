@@ -477,6 +477,9 @@ http://zutufo.in:80/live/781487031/K788a6763d/250108_.m3u8
 
 ############################################################################ CANAIS PREMIERE
 
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes
+https://stlvs.click/premiereclubes/index.m3u8
+
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
 https://cr7v.short.gy/M/Clube/Index.m3u8
 
@@ -493,19 +496,19 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 http://zutufo.in:80/live/781487031/K788a6763d/497_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD²
-
+https://stlvs.click/premiere2/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
 http://zutufo.in:80/live/781487031/K788a6763d/502_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD²
-
+https://stlvs.click/premiere3/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
 http://zutufo.in:80/live/781487031/K788a6763d/360925_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
-
+https://stlvs.click/premiere4/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
 http://zutufo.in:80/live/781487031/K788a6763d/360926_.m3u8
@@ -901,7 +904,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/68
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/67
 
 #EXTINF:-1 tvg-id="Discovery ChanneHD" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
-http://zutufo.in:80/live/781487031/K788a6763d/112063_.m3u8
+https://stlvs.click/discoverychannel/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel FHD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/65
