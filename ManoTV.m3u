@@ -2,14 +2,14 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",15/03/2025
-https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lgIoADn.png" group-title="DOAÇÃO VIA PIX",75991634025
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgIoADn.png" group-title="PIX | 75991634025",Canal do Cliente
 https://cloudflare-br-cdn.kwai.net/upic/2025/03/17/04/BMjAyNTAzMTcwNDU3MTFfMTUwMDAwMTg4MDU3ODQ5XzE1MDEwODQyOTUyNTUwOF8yXzM=_b_B9710af104dff2dd08da8357272b9bb1d.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0AVLnGG.png" group-title="QUER UM TEST CHAMA",Whats 75991634025
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0AVLnGG.png" group-title="QUER UM TEST CHAMA",Whats 75991634025
 http://cloudfm.playhdlugo.online/token:s21expires11365uslink1578l2/flm24/OVingadorDaIugoslavia22024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",15/03/2025
+https://cr7v.short.gy/AdcListaNOiptvpro/Index.m3u8
 
 ############################################################################ Canais | ABERTO
 
@@ -193,7 +193,7 @@ http://zutufo.in:80/live/781487031/K788a6763d/244109_.m3u8
 http://zutufo.in:80/live/781487031/K788a6763d/244107_.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV DF
-
+http://zutufo.in:80/live/781487031/K788a6763d/244085_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdnMTtl.png" group-title="Canais | RECORD TV",TV Tropical 
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
