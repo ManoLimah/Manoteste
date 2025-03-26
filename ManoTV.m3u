@@ -361,9 +361,6 @@ https://stmv1.srvsite.com/ely/ely/chunklist_w1041259677.m3u8
 
 ############################################################################ CANAIS SporTV 
 
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
-
-
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD 
 https://cr7v.short.gy/manoiTVOP1/sptv/75991634025/index.m3u8
 
@@ -483,9 +480,6 @@ http://zutufo.in:80/live/781487031/K788a6763d/250108_.m3u8
 
 ############################################################################ CANAIS PREMIERE
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes
-https://stlvs.click/premiereclubes/index.m3u8
-
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
 https://cr7v.short.gy/M/Clube/Index.m3u8
 
@@ -493,7 +487,7 @@ https://cr7v.short.gy/M/Clube/Index.m3u8
 https://cr7v.short.gy/MiTV/CLUBE1HD/Index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD³
-http://ibys.xyz:80/jorgefont/y8949CSGY2U6/719
+
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
