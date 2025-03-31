@@ -266,7 +266,7 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://copanordeste2025.brasilstream.com.br/hls/copanordeste2025/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/tyFtNYn.png" group-title="Canais | SBT",TV ARATU FHD
-
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT CIDADE VERDE FHD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -2931,6 +2931,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
+
 ############################################################################ Demolidor: Renascido S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bT6uXXt.png" group-title="Série | DEMOLIDOR: RENASCIDO S01",S01 E01
@@ -2970,131 +2971,132 @@ http://shd12.oneplayer.site/token/SHD12/249042/1x4.mp4
 ############################################################################ Chewing Gum  S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S01",S01 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/1x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S01",S01 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/1x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S01",S01 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/1x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S01",S01 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/1x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S01",S01 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/1x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S01",S01 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/1x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/1x6.mp4
 
 ############################################################################ Chewing Gum  S02
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S02",S02 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/2x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/2x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S02",S02 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/2x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/2x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S02",S02 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/2x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/2x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S02",S02 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/2x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/2x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S02",S02 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/2x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/2x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZaJxJ3.png" group-title="Série | CHEWING GUM S02",S02 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/64339/2x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/64339/2x6.mp4
 
 
 ############################################################################ Sintonia S05
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E01
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x1.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/78074/5x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E02
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x2.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/78074/5x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E03
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x3.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/78074/5x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E04
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x4.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/78074/5x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E05
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x5.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/78074/5x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fGJEtw.png" group-title="Série | SINTONIA S05",S05 E06
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/78074/5x6.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/78074/5x6.mp4
 
 
 ############################################################################ DOM  S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S01",S01 E01
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/1x1.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S01",S01 E02
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/1x2.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S01",S01 E03
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/1x3.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S01",S01 E04
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/1x4.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S01",S01 E05
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/1x5.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S01",S01 E06
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/1x6.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S01",S01 E07
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/1x7.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S01",S01 E08
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/1x8.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/1x8.mp4
+
 
 ############################################################################ DOM  S02
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S02",S02 E01
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/2x1.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S02",S02 E02
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/2x2.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S02",S02 E03
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/2x3.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S02",S02 E04
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/2x4.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S02",S02 E05
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/2x5.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S02",S02 E06
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/2x6.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S02",S02 E07
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/2x7.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S02",S02 E08
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/2x8.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/2x8.mp4
 
 
 ############################################################################ DOM  S03
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S03",S03 E01
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/3x1.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/3x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S03",S03 E02
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/3x2.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/3x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S03",S03 E03
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/3x3.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/3x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S03",S03 E04
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/3x4.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/123377/3x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S03",S03 E05
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/3x5.mp4
@@ -3192,259 +3194,259 @@ http://shd12.oneplayer.site/token/SHD12/211039/1x6.mp4
 ################################################################# ROUND 6 S01
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0VPCEwe.png" group-title="Série | ROUND 6 S01",S01 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/1x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/1x9.mp4
 
 
 ################################################################# ROUND 6 S02
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I9I5US8.png" group-title="Série | ROUND 6 S02",S02 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/2x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/q5L1NUu.png" group-title="Série | ROUND 6 S02",S02 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/2x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h2Nqpod.png" group-title="Série | ROUND 6 S02",S02 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/2x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I9I5US8.png" group-title="Série | ROUND 6 S02",S02 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/2x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/q5L1NUu.png" group-title="Série | ROUND 6 S02",S02 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/2x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h2Nqpod.png" group-title="Série | ROUND 6 S02",S02 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/2x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/I9I5US8.png" group-title="Série | ROUND 6 S02",S02 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/93405/2x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/93405/2x7.mp4
 
 ################################################################# ADAMAS S01
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E01
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x1.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E02
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x2.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E03
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x3.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E04
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x4.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E05
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x5.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E06
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x6.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E07
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x7.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E08
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x8.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E09
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x9.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E10
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x10.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x10.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E11
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x11.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x11.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E12
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x12.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x12.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E13
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x13.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x13.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E14
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x14.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x14.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E15
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x15.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x15.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TSwMZdw.png" group-title="Série | ADAMAS S01",S01 E16
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtfg43/SHD0/205040/1x16.mp4
+http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/205040/1x16.mp4
 
 ################################################################# iLHA DA TENTAÇÃO ISLAND S01
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E01
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x1.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E02
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x2.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E03
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x3.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E04
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x4.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E05
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x5.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E06
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x6.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E07
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x7.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E08
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x8.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E09
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x9.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E10
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x10.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x10.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S01",S01 E11
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/1x11.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/1x11.mp4
 
 
 ################################################################# iLHA DA TENTAÇÃO ISLAND S02
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E01
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x1.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E02
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x2.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E03
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x3.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E04
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x4.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E05
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x5.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E06
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x6.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E07
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x7.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E08
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x8.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E09
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x9.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E10
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x10.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x10.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E11
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x11.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x11.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E12
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x12.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x12.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S02",S02 E13
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/2x13.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/2x13.mp4
 
 ################################################################# iLHA DA TENTAÇÃO ISLAND S03
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E01
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x1.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E02
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x2.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E03
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x3.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E04
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x4.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E05
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x5.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E06
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x6.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E07
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x7.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E08
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x8.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E09
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x9.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E10
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x10.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x10.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E11
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x11.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x11.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S03",S03 E12
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/3x12.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/3x12.mp4
 
 
 ################################################################# iLHA DA TENTAÇÃO ISLAND S04
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E01
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x1.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E02
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x2.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E03
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x3.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E04
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x4.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E05
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x5.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E06
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x6.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E07
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x7.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E08
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x8.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E09
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x9.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E10
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x10.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x10.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E11
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x11.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x11.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AQKwXj6.png" group-title="Reality | iLHA DA TENTAÇÃO ISLAND S04",S04 E12
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/85904/4x12.mp4
+http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/85904/4x12.mp4
 
 ############################################################################ O DIA DO CHACAL  01
 
@@ -3489,56 +3491,6 @@ http://shd12.oneplayer.site/token/SHD12/234674/1x7.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/4xHmpuC.png" group-title="Dorama | DEPOIS DO ADEUS S01",S01 E08
 http://shd12.oneplayer.site/token/SHD12/234674/1x8.mp4
 
-
-################################################################# LEVANTAMENTO D PESO S01
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E01
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x1.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E02
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x2.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E03
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x3.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E04
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x4.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E05
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x5.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E06
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x6.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E07
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x7.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E08
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x8.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E09
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x9.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E10
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x10.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E11
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x11.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E12
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x12mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E13
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x13.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E14
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x14.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E15
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x15.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/utSk7AG.png" group-title="Dorama | LEVANTAMENTO D PESO S01",S01 E16
-http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju564ju/SHD8/68349/1x16.mp4
 
 ################################################################# O AMOR MORA AO LADO S01
 
@@ -3620,43 +3572,43 @@ http://shd12.oneplayer.site/token/SHD12/257221/1x8.mp4
 #################################################################  S01
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E01
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x1.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E02
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x2.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E03
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x3.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E04
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x4.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E05
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x5.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E06
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x6.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E07
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x7.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E08
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x8.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E09
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x9.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E10
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x10.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x10.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E11
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x11.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x11.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E12
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x12.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x12.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E13
-http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x13.mp4
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/66545/1x13.mp4
 
 
 ################################################################# RESPIRA S01
@@ -3714,472 +3666,472 @@ http://shd12.oneplayer.site/token/SHD12/201834/1x8.mp4
 ############################################################################ CRIADAS E MALVADAS  S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E06
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x6.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E07
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x7.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E08
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x8.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E09
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x9.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E10
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x10.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x10.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E11
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x11.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E12
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x12.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x12.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S01",S01 E13
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/1x13.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/1x13.mp4
 
 ############################################################################ CRIADAS E MALVADAS  S02
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E06
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x6.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E07
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x7.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E08
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x8.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E09
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x9.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E10
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x10.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x10.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E11
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x11.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E12
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x12.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x12.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S02",S02 E13
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/2x13.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/2x13.mp4
 
 
 ############################################################################ CRIADAS E MALVADAS  S03
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E06
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x6.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E07
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x7.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E08
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x8.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E09
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x9.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E10
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x10.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x10.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E11
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x11.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E12
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x12.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x12.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S03",S03 E13
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/3x13.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/3x13.mp4
 
 ############################################################################ CRIADAS E MALVADAS  S04
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E06
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x6.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E07
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x7.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E08
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x8.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E09
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x9.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZFKhxU.png" group-title="Série | CRIADAS E MALVADAS S04",S04 E10
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/44242/4x10.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/44242/4x10.mp4
 
 ################################################################# IMPUROS S01
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S01",S01 E10
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/1x10.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/1x10.mp4
 
 ################################################################ IMPUROS S02
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S02",S02 E10
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/2x10.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/2x10.mp4
 
 ################################################################ IMPUROS S03
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S03",S03 E10
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/3x10.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/3x10.mp4
 
 ################################################################ IMPUROS S04
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S04",S04 E10
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/4x10.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/4x10.mp4
 
 ################################################################# IMPUROS S05
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yo9wBA6.png" group-title="Serie | IMPUROS S05",S05 E10
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/83295/5x10.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/83295/5x10.mp4
  
 ############################################################################ ORIGEM (FROM)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E06
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x6.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E07
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x7.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E08
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x8.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E09
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x9.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E10
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/1x10.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/1x10.mp4
 
 ############################################################################ ORIGEM (FROM)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E06
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x6.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E07
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x7.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E08
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x8.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E09
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x9.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 DUB",S02 E10
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/2x10.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/2x10.mp4
 
 ############################################################################ ORIGEM (FROM)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E06
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x6.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E07
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x7.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E08
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x8.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E09
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x9.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S03 DUB",S03 E10
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/124364/3x10.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/124364/3x10.mp4
 
 
 ############################################################################ LUPIN S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/1x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/1x5.mp4
 
 ############################################################################ LUPIN S02
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/2x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/2x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/2x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/2x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/2x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/2x5.mp4
 
 ############################################################################ LUPIN S03
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E01
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x1.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E02
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x2.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/3x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E03
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x3.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/3x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E04
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x4.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/3x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E05
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x5.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/3x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E06
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x6.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/3x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E07
-http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryt5/SHD7/96677/3x7.mp4
+http://shd7.oneplayer.site/u657uy56y5r4tfg4r3eftg345tgy45hj456th45tjh456uj56ujhryz3/SHD7/96677/3x7.mp4
 
 ############################################################################ MANUAL D ASSASSINATO PARA BOAS GAROTAS S01
 
@@ -4751,320 +4703,279 @@ http://fhd1.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD3/tt0377818.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mais um Besteirol ao Extremo
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0806147.mp4
 
-############################################################################ Anime  S01
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E01
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E02
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x2.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E03
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x3.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E04
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x4.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E05
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x5.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E06
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x6.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E07
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x7.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E08
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x8.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E09
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x9.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E10
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x10.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E11
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x11.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E12
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x12.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcQQlC9.png" group-title="Anime | Chiyu Mahou no Machigatta Tsukaikata  S01",S01 E13
-http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtw34er/SHD9/131365/1x13.mp4
-
 
 ################################################################# ATTACK ON TITAN S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E10
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x10.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x10.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E11
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x11.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E12
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x12.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x12.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E13
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x13.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x13.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E14
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x14.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x14.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E15
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x15.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x15.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E16
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x16.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x16.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E17
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x17.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x17.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E18
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x18.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x18.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E19
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x19.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x19.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E20
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x20.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x20.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E21
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x21.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x21.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E22
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x22.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x22.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E23
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x23.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x23.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E24
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x24.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x24.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S01",S01 E25
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/1x25.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/1x25.mp4
 
 ################################################################# ATTACK ON TITAN S02 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E10
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x10.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x10.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E11
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x11.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S02",S02 E12
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/2x12.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/2x12.mp4
 
 ################################################################# ATTACK ON TITAN S03 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E10
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x10.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x10.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E11
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x11.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E12
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x12.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x12.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E13
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x13.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x13.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E14
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x14.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x14.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E15
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x15.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x15.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E16
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x16.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x16.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E17
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x17.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x17.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E18
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x18.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x18.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E19
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x19.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x19.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E20
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x20.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x20.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E21
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x21.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x21.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S03",S03 E22
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/3x22.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/3x22.mp4
 
 
 ################################################################# ATTACK ON TITAN S04 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E01
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x1.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E02
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x2.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E03
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x3.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E04
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x4.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E05
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x5.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E06
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x6.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E07
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x7.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E08
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x8.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E09
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x9.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x9.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E10
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x10.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x10.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E11
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x11.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x11.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E12
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x12.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x12.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E13
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x13.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x13.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E14
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x14.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x14.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E15
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x15.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x15.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E16
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x16.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x16.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E17
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x17.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x17.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E18
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x18.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x18.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E19
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x19.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x19.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E20
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x20.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x20.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E21
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x21.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x21.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E22
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x22.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x22.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E23
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x23.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x23.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E24
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x24.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x24.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E25
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x25.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x25.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E26
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x26.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x26.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E27
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x27.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x27.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E28
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x28.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x28.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E29
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x29.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzqj3TW.png" group-title="Anime | ATTACK ON TITAN S04",S04 E30
-http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435retyg/SHD1/1429/4x30.mp4
+http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SHD1/1429/4x30.mp4
