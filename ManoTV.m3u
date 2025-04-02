@@ -588,14 +588,23 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 
 ############################################################################ CANAIS | DISNEY+
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 1 HD
 http://zutufo.in:80/live/781487031/K788a6763d/232232_.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 1 FHD
 http://zutufo.in:80/live/781487031/K788a6763d/232230_.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 3 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 2 HD
+http://zutufo.in:80/live/781487031/K788a6763d/232234_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 2 FHD
+http://zutufo.in:80/live/781487031/K788a6763d/232230_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 3 HD
 http://zutufo.in:80/live/781487031/K788a6763d/232235_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 3 FHD
+http://zutufo.in:80/live/781487031/K788a6763d/232238_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 4 
 http://zutufo.in:80/live/781487031/K788a6763d/232239_.m3u8
@@ -605,6 +614,45 @@ http://zutufo.in:80/live/781487031/K788a6763d/232243_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 6 
 http://zutufo.in:80/live/781487031/K788a6763d/232247_.m3u8
+
+############################################################################ CANAIS | MAX
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ SD
+http://zutufo.in:80/live/781487031/K788a6763d/250559_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ HD
+http://zutufo.in:80/live/781487031/K788a6763d/250560_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ FHD
+http://zutufo.in:80/live/781487031/K788a6763d/250563_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 2 SD
+http://zutufo.in:80/live/781487031/K788a6763d/250564_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 2 HD
+http://zutufo.in:80/live/781487031/K788a6763d/250567_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 2 FHD
+http://zutufo.in:80/live/781487031/K788a6763d/368440_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 3 SD
+http://zutufo.in:80/live/781487031/K788a6763d/250568._m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 3 HD
+http://zutufo.in:80/live/781487031/K788a6763d/250569_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 3 FHD
+http://zutufo.in:80/live/781487031/K788a6763d/250571_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 4 SD
+http://zutufo.in:80/live/781487031/K788a6763d/250574_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 4 HD 
+http://zutufo.in:80/live/781487031/K788a6763d/250575._m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 4 FHD
+http://zutufo.in:80/live/781487031/K788a6763d/368448_.m3u8
+
 
 ############################################################################ CANAIS | MAX
 
@@ -3158,6 +3206,45 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/12
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRwUsPt.png" group-title="Série | DOM S03",S03 E05
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/3x5.mp4
+
+
+################################################################# SE A VIDA TE DER TANGERINAS S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E01
+http://shd12.oneplayer.site/token/SHD12/219246/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E02
+http://shd12.oneplayer.site/token/SHD12/219246/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E03
+http://shd12.oneplayer.site/token/SHD12/219246/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E04
+http://shd12.oneplayer.site/token/SHD12/219246/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E05
+http://shd12.oneplayer.site/token/SHD12/219246/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E06
+http://shd12.oneplayer.site/token/SHD12/219246/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E07
+http://shd12.oneplayer.site/token/SHD12/219246/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E08
+http://shd12.oneplayer.site/token/SHD12/219246/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E09
+http://shd12.oneplayer.site/token/SHD12/219246/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E10
+http://shd12.oneplayer.site/token/SHD12/219246/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E11
+http://shd12.oneplayer.site/token/SHD12/219246/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIwrrQC.png" group-title="Dorama | SE A VIDA TE DER TANGERINAS S01",S01 E12
+http://shd12.oneplayer.site/token/SHD12/219246/1x12.mp4
 
 ################################################################# PERGUNTE ÀS ESTRELAS S01
 
