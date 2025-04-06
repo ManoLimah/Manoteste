@@ -22,8 +22,8 @@ http://zutufo.in:80/live/781487031/K788a6763d/2374_.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
 https://new.m3u8.one/globorj/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
-http://zutufo.in:80/live/781487031/K788a6763d/2376_.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD³
+https://futebolhoje.org/globorj/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
 http://zutufo.in:80/live/781487031/K788a6763d/21319_.m3u8
@@ -55,7 +55,7 @@ http://zutufo.in:80/live/781487031/K788a6763d/538100_.m3u8
 http://zutufo.in:80/live/781487031/K788a6763d/2378_.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD²
-http://zutufo.in:80/live/781487031/K788a6763d/2380_.m3u8
+https://futebolhoje.org/globomg/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília
 http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
@@ -292,11 +292,8 @@ https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",TV São Luís Maranhão 
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3z9k2eb.png" group-title="Canais | ABERTO",TV LatinaSat 
-https://alanza.iptv2022.com/sh/TVLatinasat/tracks-v1a1/mono.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",TV A Critica HD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",TV A Critica HD YT
-https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",BDCTV - TV A Critica
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
@@ -304,14 +301,11 @@ https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiyGlGY.png" group-title="Canais | ABERTO",RTN TV SP HD
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV CEARÁ" tvg-name="TV CEARÁ" tvg-logo="https://i.imgur.com/IR0UllK.png" group-title="Canais | ABERTO",TV Ceará YT
+#EXTINF:-1 tvg-id="TV CEARÁ" tvg-name="TV CEARÁ" tvg-logo="https://i.imgur.com/IR0UllK.png" group-title="Canais | ABERTO",TV Ceará HD
 
 
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://i.imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário YT
-
-
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://i.imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário
-http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://i.imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário HD
+http://zutufo.in:80/live/781487031/K788a6763d/530124_.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia HD
 http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
