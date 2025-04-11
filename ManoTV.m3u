@@ -23,19 +23,19 @@ http://zutufo.in:80/live/781487031/K788a6763d/2374_.m3u8
 https://new.m3u8.one/globorj/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD³
-https://new.ejaculacaoretardada.site/globorj/index.m3u8?wmsAuthSign=undefined
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
 http://zutufo.in:80/live/781487031/K788a6763d/21319_.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-http://kobe.kaseline.shop:2095/live3/globo_saopaulo/chunks.m3u8
+https://new.m3u8.one/globosp/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
-https://new.ejaculacaoretardada.site/globosp/index.m3u8?wmsAuthSign=undefined
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD³
-https://new.m3u8.one/globosp/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD 
 http://zutufo.in:80/live/781487031/K788a6763d/289884_.m3u8
@@ -55,7 +55,7 @@ http://zutufo.in:80/live/781487031/K788a6763d/538100_.m3u8
 http://zutufo.in:80/live/781487031/K788a6763d/2378_.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD²
-https://new.ejaculacaoretardada.site/globomg/index.m3u8?wmsAuthSign=undefined
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília
 http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
@@ -150,7 +150,7 @@ https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 http://zutufo.in:80/live/781487031/K788a6763d/244071_.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD²
-http://conexao-vs.live/RECORD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP FHD
 http://zutufo.in:80/live/781487031/K788a6763d/244073_.m3u8
@@ -204,22 +204,24 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1
 ############################################################################ Canais | BAND TV
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band BA HD
-
+http://zutufo.in:80/live/781487031/K788a6763d/286193_.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band BA FHD
 
-
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RJ HD
+http://zutufo.in:80/live/781487031/K788a6763d/255475_.m3u8
 
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RJ FHD
+http://zutufo.in:80/live/781487031/K788a6763d/255474_.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
-http://conexao-vs.live/BAND/index.m3u8
-
-#EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD²
-http://kobe.kaseline.shop:2095/live5/band/chunks.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/255467_.m3u8
 
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP FHD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/48
+http://zutufo.in:80/live/781487031/K788a6763d/255465_.m3u8
+
+#EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP UHD
+http://zutufo.in:80/live/781487031/K788a6763d/255466_.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
@@ -234,7 +236,7 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m
 https://alanza.iptv2022.com/sh/TV_VALE_DO_URUARA/index.m3u8?Manotv
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band MG HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/14
+http://zutufo.in:80/live/781487031/K788a6763d/ _.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSKVrvH.png" group-title="Canais | BAND TV",NEW BRASIL HD
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
@@ -781,7 +783,7 @@ http://79.127.238.228:14093/
 http://zutufo.in:80/live/781487031/K788a6763d/284589_.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD²
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/498
+
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD
 
@@ -2997,6 +2999,12 @@ http://shd12.oneplayer.site/token/SHD12/202555/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bT6uXXt.png" group-title="Série | DEMOLIDOR: RENASCIDO S01",S01 E06
 http://shd12.oneplayer.site/token/SHD12/202555/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bT6uXXt.png" group-title="Série | DEMOLIDOR: RENASCIDO S01",S01 E07
+http://shd12.oneplayer.site/token/SHD12/202555/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bT6uXXt.png" group-title="Série | DEMOLIDOR: RENASCIDO S01",S01 E08
+http://shd12.oneplayer.site/token/SHD12/202555/1x8.mp4
 
 ############################################################################ NEM TÃO PERFEITO ASSIM S01
 
