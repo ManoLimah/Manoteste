@@ -377,6 +377,9 @@ https://cr7v.short.gy/manoiTVOP4/sptvFHD/75991634025/index.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV 4k 
 https://cr7v.short.gy/manoiTVOP5/sptv4k/75991634025/index.m3u8
 
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 SD
+http://zutufo.in:80/live/781487031/K788a6763d/551_.m3u8
+
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
 http://zutufo.in:80/live/781487031/K788a6763d/552_.m3u8
 
