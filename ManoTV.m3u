@@ -853,8 +853,6 @@ http://maistop.net:80/live/free/free/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ju7Ed2g.png" group-title="Canais | VARIEDADES",Oportunidades TV FHD
 http://maistop.net:80/live/free/free/1.m3u8
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
-http://107.152.46.179:80/live/Formigatv/61822495/1542002.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD 
 http://zutufo.in:80/live/781487031/K788a6763d/377243_.m3u8
@@ -863,40 +861,40 @@ http://zutufo.in:80/live/781487031/K788a6763d/377243_.m3u8
 http://zutufo.in:80/889281840/Z451m1324a/377241_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD 
-http://107.152.46.179:80/live/Formigatv/61822495/1541998.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/21258_.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV FHD
-http://107.152.46.179:80/live/Formigatv/61822495/1541996.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/2504_.m3u8
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
-http://107.152.46.179:80/live/Formigatv/61822495/1541974.m3u8
+
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
-http://107.152.46.179:80/live/Formigatv/61822495/1542120.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/21233_.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central FHD
-http://107.152.46.179:80/live/Formigatv/61822495/1542118.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/687_.m3u8
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" logo="https://i.imgur.com/xnGAZOr.png" group-title="Canais | VARIEDADES",TBS HD
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil HD
-http://107.152.46.179:80/live/Formigatv/61822495/1541950.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil FHD
-http://107.152.46.179:80/live/Formigatv/61822495/1541948.m3u8
+
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! HD
-http://107.152.46.179:80/live/Formigatv/61822495/1541982.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/21313_.m3u8
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! FHD
-http://107.152.46.179:80/live/Formigatv/61822495/1541980.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/2472_.m3u8
 
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1 HD
-http://107.152.46.179:80/live/Formigatv/61822495/2563768.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
 
@@ -905,10 +903,10 @@ http://107.152.46.179:80/live/Formigatv/61822495/2563768.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="Canais | VARIEDADES",TLC FHD
-http://107.152.46.179:80/live/Formigatv/61822495/8908.m3u8
+
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
-http://107.152.46.179:80/live/Formigatv/61822495/1541990.m3u8
+
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT FHD
 
@@ -917,13 +915,13 @@ http://107.152.46.179:80/live/Formigatv/61822495/1541990.m3u8
 http://zutufo.in:80/live/781487031/K788a6763d/89182_.m3u8
 
 #EXTINF:-1 tvg-id="MODO VIAGEM" tvg-name="MODO VIAGEM" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="Canais | VARIEDADES",Modo Viagem FHD
-http://107.152.46.179:80/live/Formigatv/61822495/1541771.m3u8
+
 
 #EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://i.imgur.com/X8bDYyO.png" group-title="Canais | VARIEDADES",Receita Fast HD
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AH3uBDj.png" group-title="Canais | VARIEDADES",Food Network HD
-http://107.152.46.179:80/live/Formigatv/61822495/1541986.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV KFood
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -935,73 +933,67 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e
 https://aovivo.doozytv.com.br/31025556/10162730/chunks.m3u8
 
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
-http://107.152.46.179:80/live/Formigatv/61822495/1542085.m3u8
-
-#EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD²
-https://new.m3u8.one/investidiscovery/tracks-v1a1/mono.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/21323_.m3u8
 
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID FHD
-http://107.152.46.179:80/live/Formigatv/61822495/1542083.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/2632_.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD
-https://new.m3u8.one/discoveryturbo/index.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/2590_.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo FHD
-http://107.152.46.179:80/live/Formigatv/61822495/1542059.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/2592_.m3u8
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
-http://107.152.46.179:80/live/Formigatv/61822495/1542064.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD²
-https://new.m3u8.one/discoveryword/index.m3u8
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD 
+http://zutufo.in:80/live/781487031/K788a6763d/2595_.m3u8
 
 #EXTINF:-1 tvg-id=",Discovery World" tvg-name=",Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World FHD
-
+http://zutufo.in:80/live/781487031/K788a6763d/21300_.m3u8
 
 #EXTINF:-1 tvg-id="Disc. Home & Health" tvg-name="Disc. Home & Health" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD
-http://107.152.46.179:80/live/Formigatv/61822495/1542039.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/21295_.m3u8
 
 #EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health FHD
-
+http://zutufo.in:80/live/781487031/K788a6763d/2571_.m3u8
 
 #EXTINF:-1 tvg-id="Discovery ChanneHD" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
-http://107.152.46.179:80/live/Formigatv/61822495/1154046.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/2575_.m3u8
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel FHD
-http://107.152.46.179:80/live/Formigatv/61822495/10079.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/21338_.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
-http://107.152.46.179:80/live/Formigatv/61822495/1542044.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/2582_.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science FHD 
-
+http://zutufo.in:80/live/781487031/K788a6763d/2580_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
-http://107.152.46.179:80/live/Formigatv/61822495/1542049.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/21298_.m3u8
 
 #EXTINF:-1 tvg-id="Discovery theater" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater FHD
-
+http://zutufo.in:80/live/781487031/K788a6763d/2586_.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
-http://107.152.46.179:80/live/Formigatv/61822495/1542081.m3u8
+
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History FHD
-http://107.152.46.179:80/live/Formigatv/61822495/9240.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
 http://zutufo.in:80/live/781487031/K788a6763d/2620_.m3u8
 
 #EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
-http://107.152.46.179:80/live/Formigatv/61822495/1541994.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV FHD
-http://107.152.46.179:80/live/Formigatv/61822495/1541992.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
-http://107.152.46.179:80/live/Formigatv/61822495/1542029.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet FHD
-http://107.152.46.179:80/live/Formigatv/61822495/1542027.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
 
