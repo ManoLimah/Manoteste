@@ -209,7 +209,8 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band BA HD
 http://zutufo.in:80/live/781487031/K788a6763d/286193_.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band BA FHD
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band HD
+https://aovivo.doozytv.com.br/31025556/10161894/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RJ HD
 http://zutufo.in:80/live/781487031/K788a6763d/255475_.m3u8
@@ -452,6 +453,9 @@ http://zutufo.in:80/live/781487031/K788a6763d/235_.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports FHD²
 http://zutufo.in:80/live/781487031/K788a6763d/21225_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
+https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 
 ############################################################################ CANAIS LUTAS
 
@@ -802,9 +806,9 @@ http://zutufo.in:80/live/781487031/K788a6763d/284589_.m3u8
 
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD
+https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 
-
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD²
 http://zutufo.in:80/live/781487031/K788a6763d/467_.m3u8
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News FHD
@@ -2373,14 +2377,14 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/486
 #EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | ABERTO",Agro Canal
 https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WjWjQ2A.png" group-title="Canais | ABERTO",Agro Brasil 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",Agro Plus 
+https://video09.logicahost.com.br/agroplus/agroplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Canais | ABERTO",Canal do Criador
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="Canais | ABERTO",Nova TV Agrotour
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Canais | ABERTO",Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
