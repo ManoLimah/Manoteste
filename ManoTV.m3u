@@ -388,7 +388,7 @@ http://zutufo.in:80/live/781487031/K788a6763d/552_.m3u8
 http://zutufo.in:80/live/781487031/K788a6763d/557_.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
-
+http://zutufo.in:80/live/781487031/K788a6763d/21274_.m3u8
 
 ############################################################################ CANAIS ESPN
 
@@ -601,6 +601,19 @@ https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
+
+
+
+############################################################################ CANAIS | NOSSO FUTEBOL 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 1
+http://zutufo.in:80/live/781487031/K788a6763d/301420_.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 2
+http://zutufo.in:80/live/781487031/K788a6763d/301421_.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 3
+http://zutufo.in:80/live/781487031/K788a6763d/301422_.m3u
 
 ############################################################################ CANAIS | DISNEY+
 
