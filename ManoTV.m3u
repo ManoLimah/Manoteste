@@ -47,21 +47,22 @@ http://zutufo.in:80/live/781487031/K788a6763d/284587_.m3u8
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Recife HD
-http://zutufo.in:80/live/781487031/K788a6763d/538100_.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Sergipe 
+http://zutufo.in:80/live/781487031/K788a6763d/538100_.m3u8 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
 http://zutufo.in:80/live/781487031/K788a6763d/2378_.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD²
-
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília
 http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/avP1MT8.png" group-title="Canais | GLOBO",TV Verde Mares CE HD
+http://zutufo.in:80/live/781487031/K788a6763d/2433_.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/avP1MT8.png" group-title="Canais | GLOBO",TV Verde Mares CE FHD
+http://zutufo.in:80/live/781487031/K788a6763d/2434_.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/OkFRcFd.png" group-title="Canais | GLOBO",Globo TV Subaé HD
 http://zutufo.in:80/live/781487031/K788a6763d/2314_.m3u8
@@ -77,9 +78,6 @@ http://zutufo.in:80/live/781487031/K788a6763d/2293_.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
 http://zutufo.in:80/live/781487031/K788a6763d/2449_.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV Verde Mares CE 
-
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
 http://zutufo.in:80/live/781487031/K788a6763d/2357_.m3u8
@@ -107,9 +105,6 @@ http://zutufo.in:80/live/781487031/K788a6763d/2327_.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Santa Maria HD
 http://zutufo.in:80/live/781487031/K788a6763d//2333_.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Santa Maria FHD
-http://zutufo.in:80/live/781487031/K788a6763d/2334._m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/7RU6OC9.png" group-title="Canais | GLOBO",NSC TV Florianopolis FHD
 http://zutufo.in:80/live/781487031/K788a6763d/2302_.m3u8
