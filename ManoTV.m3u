@@ -58,17 +58,17 @@ http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/avP1MT8.png" group-title="Canais | GLOBO",TV Verde Mares CE HD
-http://zutufo.in:80/live/781487031/K788a6763d/2433_.m3u8
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/avP1MT8.png" group-title="Canais | GLOBO",TV Verde Mares CE FHD
-http://zutufo.in:80/live/781487031/K788a6763d/2434_.m3u8
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/OkFRcFd.png" group-title="Canais | GLOBO",Globo TV Subaé HD
 http://zutufo.in:80/live/781487031/K788a6763d/2314_.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/OkFRcFd.png" group-title="Canais | GLOBO",Globo TV Subaé FHD
 http://zutufo.in:80/live/781487031/K788a6763d/390951_.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",TV Verde Mares CE HD
+http://7semfronteiras.cc:8080/live/julia3387/jpc374856/22241.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",TV Verde Mares CE FHD
+http://7semfronteiras.cc:8080/live/julia3387/jpc374856/29577.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Cascavel HD
 http://zutufo.in:80/live/781487031/K788a6763d/2298_.m3u8
@@ -602,13 +602,13 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 ############################################################################ CANAIS | NOSSO FUTEBOL 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 1
-http://zutufo.in:80/live/781487031/K788a6763d/301420_.m3u
+http://7semfronteiras.cc:8080/julia3387/jpc374856/119434
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 2
-http://zutufo.in:80/live/781487031/K788a6763d/301421_.m3u
+http://7semfronteiras.cc:8080/julia3387/jpc374856/42917
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 3
-http://zutufo.in:80/live/781487031/K788a6763d/301422_.m3u
+http://7semfronteiras.cc:8080/julia3387/jpc374856/18816
 
 ############################################################################ CANAIS | DISNEY+
 
