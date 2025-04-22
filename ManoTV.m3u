@@ -1710,37 +1710,37 @@ https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball 24
-http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
+http://24hrs.homelinux.com:8080/24H-dragon.ball/video.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z 24
-http://24hrs.homelinux.com:80/24H-dragon.ball.z/tracks-v1a1/index.m3u8
+http://24hrs.homelinux.com:8080/24H-dragon.ball.z/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z Kai 24h
-http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
+http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Gt 24h
-http://24hrs.homelinux.com:80/24H-dragon.ball.gt/video.m3u8
+http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Super 24h
-http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
+http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Os Cavaleiros Dos Zodiacos 24h
-http://24hrs.homelinux.com:80/24H-cavaleiros/tracks-v1a1/index.m3u8
+http://24hrs.homelinux.com:8080/24H-cavaleiros/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Naruto 24h
-http://24hrs.homelinux.com:80/24H-naruto.txt/video.m3u8
+http://24hrs.homelinux.com:8080/24H-naruto.txt/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Naruto Shippuden 24h
-http://24hrs.homelinux.com:80/24H-narutoshippuden.txt/video.m3u8
+http://24hrs.homelinux.com:8080/24H-narutoshippuden.txt/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Boruto 24h
-http://24hrs.homelinux.com:80/24H-boruto/video.m3u8
+http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Hantaro 24h
-http://24hrs.homelinux.com:80/24H-hantaro/video.m3u8
+http://24hrs.homelinux.com:8080/24H-hantaro/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Jiraya 24h
-http://24hrs.homelinux.com:80/24H-Jiraya/video.m3u8?
+http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8?
 
 
 ############################################################################ Canais | INFANTIL
@@ -1933,19 +1933,19 @@ http://45.134.141.161:2200/BRX/24HS_Chapolin_Colorado/index.m3u8
 http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chaves 24h op2
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Masha e o Urso 24h
-http://64.31.42.58:14204/
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",Bob Esponja 24h
 http://45.134.141.161:2200/BRX/24HS_Bob_Esponja_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Pokemon 24h
-http://24hrs.homelinux.com:80/24H-pokemon/video.m3u8
+http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Digimon 24h
-http://24hrs.homelinux.com:80/24H-digimon/video.m3u8
+http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Ben 10 2005 24h
 http://45.134.141.161:2200/BRX/24HS_Ben_10/index.m3u8
@@ -1981,10 +1981,10 @@ http://45.134.141.161:2200/BRX/24HS_Tom_e_Jerry/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Os Simpsons 24h
-http://45.134.141.161:2200/BRX/24HS_Simpson1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Os Simpsons 2 24h
-http://45.134.141.161:2200/BRX/24HS_Simpson2/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴X-Men Evolution 24h
 http://45.134.141.161:2200/BRX/24HS_Wolverine_e_os_X-men/tracks-v1a1/mono.m3u8
@@ -2185,7 +2185,7 @@ http://45.134.141.161:2200/BRX/24HS_Um_maluco_no_pedaco/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴2 Homens e Meio 24h
-http://45.134.141.161:2200/BRX/24HS_Dois_Homens_e_Meio1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Todo Mundo Odeia O Cris 24h
 http://45.134.141.161:2200/BRX/24HS_Todo_mundo_odeia_o_Chris/index.m3u8
