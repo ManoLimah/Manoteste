@@ -594,7 +594,20 @@ https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 
+############################################################################ AO VIVO | LIBERTADORES 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtXiJ1g.png" group-title="ao vivo | LIBERTADORES",Canal 1
+https://cr7v.short.gy/Canal1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtXiJ1g.png" group-title="ao | LIBERTADORES",Canal 2
+https://cr7v.short.gy/Canal2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtXiJ1g.png" group-title="ao vivo | LIBERTADORES",Canal 3
+https://cr7v.short.gy/Canal3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtXiJ1g.png" group-title="ao vivo | LIBERTADORES",Canal 4
+https://cr7v.short.gy/Canal4/index.m3u8
 
 ############################################################################ CANAIS | NOSSO FUTEBOL 
 
@@ -2649,9 +2662,6 @@ http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gQ4GDzQ.png" group-title="Canais | ABERTO",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7A5sCF.png" group-title="Canais | ABERTO",TVE ES YT
-https://ythls.armelin.one/channel/UC94kyY3rSw4j4LjAd8tUBBw.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLBwn2Z.png" group-title="Canais | ABERTO",RS News WebTV 1
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 
@@ -2683,7 +2693,7 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uMdQYEe.png" group-title="Canais | ABERTO",TV Sonata 
-https://video01.kshost.com.br:4443/tiago2001/tiago2001/playlist.m3u8
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="Canais | ABERTO",TV Jornal HD
 https://streaming.jornalmn.com.br/live/tvjornalmn.m3u8
@@ -2777,6 +2787,12 @@ https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cfjqStG.png" group-title="Canais | ABERTO",TV Nostalgia 
 https://stmv1.srvif.com/tvnostalgia/tvnostalgia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JPpKN78.png" group-title="Canais | ABERTO",TV Santa Maria
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/htzprG4.png" group-title="Canais | ABERTO",TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 
 ############################################################################ Canais | INTERNACIONAL
 
