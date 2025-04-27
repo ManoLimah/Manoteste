@@ -1789,10 +1789,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f9200078
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon HD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/768
+http://zutufo.in:80/live/781487031/K788a6763d/370.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon FHD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/365
+http://zutufo.in:80/live/781487031/K788a6763d/371.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Canais | INFANTIL",Nick Jr. Club
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
@@ -1856,25 +1856,34 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/360
+http://zutufo.in:80/live/781487031/K788a6763d/377234.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
-
+http://zutufo.in:80/live/781487031/K788a6763d/377231.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB FHD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/357
+http://zutufo.in:80/live/781487031/K788a6763d/377229.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/557
+http://zutufo.in:80/live/781487031/K788a6763d/374.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM FHD
+http://zutufo.in:80/live/781487031/K788a6763d/375.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/364
+http://zutufo.in:80/live/781487031/K788a6763d/367.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. FHD
+http://zutufo.in:80/live/781487031/K788a6763d/368.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/347
+http://zutufo.in:80/live/781487031/K788a6763d/351.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network FHD
+http://zutufo.in:80/live/781487031/K788a6763d/352.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/345
+http://zutufo.in:80/live/781487031/K788a6763d/110684.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Canais | INFANTIL",TRU TV
@@ -1887,10 +1896,10 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
-
+http://zutufo.in:80/live/781487031/K788a6763d/362.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS FHD
-
+http://zutufo.in:80/live/781487031/K788a6763d/363.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
 
