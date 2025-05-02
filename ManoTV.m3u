@@ -16,8 +16,11 @@ http://148.153.194.134/upic/2024/10/08/02/BMjAyNDEwMDgwMjU5NTJfMTUwMDAxNjQyMTAzN
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ SD
+http://pfsv.io:80/6783460679/1233/427.ts
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+http://pfsv.io:80/6783460679/1233/392.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
 https://new.m3u8.one/globorj/index.m3u8
@@ -26,34 +29,37 @@ https://new.m3u8.one/globorj/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
+http://pfsv.io:80/6783460679/1233/352.ts
 
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
+http://pfsv.io:80/6783460679/1233/429.ts
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-
+http://pfsv.io:80/6783460679/1233/354.ts
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
-
-
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD³
-
+http://pfsv.io:80/6783460679/1233/394.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
+http://pfsv.io:80/6783460679/1233/168251.ts
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP 4k
+http://pfsv.io:80/6783460679/1233/300470.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM Sorocaba 
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM 
+http://pfsv.io:80/6783460679/1233/69090.ts
 
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Recife HD
- 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Nordeste HD
+http://pfsv.io:80/6783460679/1233/389.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
-
+http://pfsv.io:80/6783460679/1233/388.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília
-
+http://pfsv.io:80/6783460679/1233/385.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -71,98 +77,90 @@ http://7semfronteiras.cc:8080/live/julia3387/jpc374856/22241.ts
 http://7semfronteiras.cc:8080/live/julia3387/jpc374856/29577.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Cascavel HD
+http://pfsv.io:80/6783460679/1233/56133.ts
 
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba FHD
-
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Maringa FHD
+http://pfsv.io:80/6783460679/1233/419.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
-
+http://pfsv.io:80/6783460679/1233/395.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
-
+http://pfsv.io:80/6783460679/1233/56132.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
-
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho FHD
-
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",TV Mirante Cocais HD
-
+http://pfsv.io:80/6783460679/1233/56130.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",TV Mirante São Luis HD 
+http://pfsv.io:80/6783460679/1233/403.ts
 
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",TV Mirante São Luis FHD 
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre SD
-http://7semfronteiras.cc:8080/julia3387/jpc374856/29888
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",TV Mirante Cocais FHD 
+http://pfsv.io:80/6783460679/1233/300928.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
-http://7semfronteiras.cc:8080/julia3387/jpc374856/56075
+http://pfsv.io:80/6783460679/1233/391.ts
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre FHD
+http://pfsv.io:80/6783460679/1233/365.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Caxias do Sul HD
-http://7semfronteiras.cc:8080/julia3387/jpc374856/18554
+http://pfsv.io:80/6783460679/1233/412.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Pelotas HD
-http://7semfronteiras.cc:8080/julia3387/jpc374856/75929
+http://pfsv.io:80/6783460679/1233/414.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Santa Maria HD
-http://7semfronteiras.cc:8080/julia3387/jpc374856/101564
+http://pfsv.io:80/6783460679/1233/43839.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/7RU6OC9.png" group-title="Canais | GLOBO",NSC TV Florianopolis FHD
-
+http://pfsv.io:80/6783460679/1233/390.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/TevIGQZ.png" group-title="Canais | GLOBO",Globo TV Liberal Belém 
-
+http://pfsv.io:80/6783460679/1233/43818.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
-http://7semfronteiras.cc:8080/julia3387/jpc374856/71064
+http://pfsv.io:80/6783460679/1233/401.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES FHD
-http://7semfronteiras.cc:8080/julia3387/jpc374856/29884
+http://pfsv.io:80/6783460679/1233/358.ts
 
 ############################################################################ Canais | REALITY
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
+#EXTINF:-1 tvg-logo="https://i.imgrcom/OeB3Ply.png" group-title="Canais | Reality",Power Couple Cam 1
+http://pfsv.io:80/6783460679/1233/303183.ts
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 2
-
+#EXTINF:-1 tvg-logo="https://i.imgurom/OeB3Ply.png" group-title="Canais | Reality",Power Couple Cam 2
+http://pfsv.io:80/6783460679/1233/303184.ts
 
 ############################################################################ Canais | RECORD TV
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD
 http://7semfronteiras.cc:8080/julia3387/jpc374856/28783
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA UHD
-
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD²
+http://pfsv.io:80/6783460679/1233/69086.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA FHD
+http://pfsv.io:80/6783460679/1233/61.ts
 
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA FHD²
+http://pfsv.io:80/6783460679/1233/199616.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP SD
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
-
-
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD²
-
+http://pfsv.io:80/6783460679/1233/52.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP FHD
-
-
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP FHD
-
+http://pfsv.io:80/6783460679/1233/30178.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
-
+http://pfsv.io:80/6783460679/1233/57.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ FHD
-
+http://pfsv.io:80/6783460679/1233/50880.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV PE
 
@@ -189,10 +187,10 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8?ManoTV
 
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RS HD
-
+http://pfsv.io:80/6783460679/1233/59.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RS FHD
-
+http://pfsv.io:80/6783460679/1233/120714.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV DF
 
@@ -210,19 +208,16 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1
 https://aovivo.doozytv.com.br/31025556/10161894/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RJ HD
-
+http://pfsv.io:80/6783460679/1233/122447.ts
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RJ FHD
-
+http://pfsv.io:80/6783460679/1233/122446.ts
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
-
+http://pfsv.io:80/6783460679/1233/113584.ts
 
 #EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP FHD
-
-
-#EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP UHD
-
+http://pfsv.io:80/6783460679/1233/113585.ts
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
@@ -375,20 +370,17 @@ https://cr7v.short.gy/manoiTVOP4/sptvFHD/75991634025/index.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV 4k 
 https://cr7v.short.gy/manoiTVOP5/sptv4k/75991634025/index.m3u8
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 SD
-
-
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-
+http://pfsv.io:80/6783460679/1233/557.ts
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 FHD 
- 
+ http://pfsv.io:80/6783460679/1233/553.ts
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
-
+http://pfsv.io:80/6783460679/1233/558.ts
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
-
+http://pfsv.io:80/6783460679/1233/554.ts
 
 ############################################################################ CANAIS ESPN
 
@@ -407,52 +399,46 @@ https://cr7v.short.gy/manoiTVOP3/ESPNHD³/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD 
 https://cr7v.short.gy/manoiTVOP4/ESPN4k/Index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 SD
-
-
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD 
-
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD²
-
+http://pfsv.io:80/6783460679/1233/261.ts
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 FHD
-
+http://pfsv.io:80/6783460679/1233/251.ts
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD 
-
+http://pfsv.io:80/6783460679/1233/258.ts
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 FHD
-
+http://pfsv.io:80/6783460679/1233/254.ts
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
 http://185.236.183.118:14191/
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD²
-
+http://pfsv.io:80/6783460679/1233/262.ts
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
-
+http://pfsv.io:80/6783460679/1233/255.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-
+http://pfsv.io:80/6783460679/1233/263.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
-
+http://pfsv.io:80/6783460679/1233/260.ts
 
 ############################################################################ CANAIS ESPORTES
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
-
+http://pfsv.io:80/6783460679/1233/265.ts
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD²
-
+http://pfsv.io:80/6783460679/1233/256.ts
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports FHD
-
+http://pfsv.io:80/6783460679/1233/247.ts
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports FHD²
-
+http://pfsv.io:80/6783460679/1233/30275.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
@@ -460,28 +446,28 @@ https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 ############################################################################ CANAIS LUTAS
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
-
+http://pfsv.io:80/6783460679/1233/266.ts
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD²
-
+http://pfsv.io:80/6783460679/1233/257.ts
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate FHD
+http://pfsv.io:80/6783460679/1233/249.ts
 
-
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate FHD²
-
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate 4k
+http://pfsv.io:80/6783460679/1233/300462.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
-
+http://pfsv.io:80/6783460679/1233/227562.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass FHD
-
+http://pfsv.io:80/6783460679/1233/132342.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass 1
-
+http://pfsv.io:80/6783460679/1233/292202.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass 2
-
+http://pfsv.io:80/6783460679/1233/294232.ts
 
 ############################################################################ CANAIS PREMIERE
 
@@ -829,25 +815,22 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/KF83ue2TI0VeknNNDtUtuxji7RBfAMqw/62248
+http://pfsv.io:80/6783460679/1233/516.ts
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD²
 http://79.127.238.228:14093/
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD
-
+http://pfsv.io:80/6783460679/1233/512.ts
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD²
-
+http://pfsv.io:80/6783460679/1233/300469.ts
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD
 https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD²
-
-
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News FHD
-
+http://pfsv.io:80/6783460679/1233/510.ts
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="Canais | NOTÍCIAS",AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
