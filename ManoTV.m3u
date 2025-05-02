@@ -99,15 +99,20 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/VXnAgJOfbY8l17LaIL28atJB4d3x8HZ
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",TV Mirante São Luis FHD 
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre SD
+http://7semfronteiras.cc:8080/julia3387/jpc374856/29888
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
+http://7semfronteiras.cc:8080/julia3387/jpc374856/56075
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Caxias do Sul HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/18554
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Pelotas HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/75929
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Santa Maria HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/101564
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/7RU6OC9.png" group-title="Canais | GLOBO",NSC TV Florianopolis FHD
 
@@ -116,10 +121,10 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/VXnAgJOfbY8l17LaIL28atJB4d3x8HZ
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/71064
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES FHD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/29884
 
 ############################################################################ Canais | REALITY
 
@@ -133,13 +138,13 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/VXnAgJOfbY8l17LaIL28atJB4d3x8HZ
 ############################################################################ Canais | RECORD TV
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD
-http://zutufo.in:80/live/781487031/K788a6763d/244141_.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/28783
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA UHD
 
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA FHD
-http://zutufo.in:80/live/781487031/K788a6763d/244140_.m3u8
+
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP SD
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
