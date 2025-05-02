@@ -53,6 +53,9 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/VXnAgJOfbY8l17LaIL28atJB4d3x8HZ
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília
+
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo BA SD
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/VXnAgJOfbY8l17LaIL28atJB4d3x8HZC/62199
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo BA HD
@@ -421,7 +424,7 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/VXnAgJOfbY8l17LaIL28atJB4d3x8HZ
 
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
-
+http://185.236.183.118:14191/
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD²
 
