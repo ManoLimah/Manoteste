@@ -400,45 +400,45 @@ https://cr7v.short.gy/manoiTVOP3/ESPNHD³/index.m3u8
 https://cr7v.short.gy/manoiTVOP4/ESPN4k/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD 
-http://pfsv.io:80/6783460679/1233/261.ts
+http://pfsv.io:80/6783460679/1233/261
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 FHD
-http://pfsv.io:80/6783460679/1233/251.ts
+http://pfsv.io:80/6783460679/1233/251
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD 
-http://pfsv.io:80/6783460679/1233/258.ts
+http://pfsv.io:80/6783460679/1233/258
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 FHD
-http://pfsv.io:80/6783460679/1233/254.ts
+http://pfsv.io:80/6783460679/1233/254
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
 http://185.236.183.118:14191/
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD²
-http://pfsv.io:80/6783460679/1233/262.ts
+http://pfsv.io:80/6783460679/1233/262
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
-http://pfsv.io:80/6783460679/1233/255.ts
+http://pfsv.io:80/6783460679/1233/255
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-http://pfsv.io:80/6783460679/1233/263.ts
+http://pfsv.io:80/6783460679/1233/263
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
-http://pfsv.io:80/6783460679/1233/260.ts
+http://pfsv.io:80/6783460679/1233/260
 
 ############################################################################ CANAIS ESPORTES
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
-http://pfsv.io:80/6783460679/1233/265.ts
+http://pfsv.io:80/6783460679/1233/265
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD²
-http://pfsv.io:80/6783460679/1233/256.ts
+http://pfsv.io:80/6783460679/1233/256
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports FHD
-http://pfsv.io:80/6783460679/1233/247.ts
+http://pfsv.io:80/6783460679/1233/247
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports FHD²
-http://pfsv.io:80/6783460679/1233/30275.ts
+http://pfsv.io:80/6783460679/1233/30275
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
@@ -446,28 +446,28 @@ https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 ############################################################################ CANAIS LUTAS
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
-http://pfsv.io:80/6783460679/1233/266.ts
+http://pfsv.io:80/6783460679/1233/266
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD²
-http://pfsv.io:80/6783460679/1233/257.ts
+http://pfsv.io:80/6783460679/1233/257
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate FHD
-http://pfsv.io:80/6783460679/1233/249.ts
+http://pfsv.io:80/6783460679/1233/249
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate 4k
-http://pfsv.io:80/6783460679/1233/300462.ts
+http://pfsv.io:80/6783460679/1233/300462
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
-http://pfsv.io:80/6783460679/1233/227562.ts
+http://pfsv.io:80/6783460679/1233/227562
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass FHD
-http://pfsv.io:80/6783460679/1233/132342.ts
+http://pfsv.io:80/6783460679/1233/132342
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass 1
-http://pfsv.io:80/6783460679/1233/292202.ts
+http://pfsv.io:80/6783460679/1233/292202
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass 2
-http://pfsv.io:80/6783460679/1233/294232.ts
+http://pfsv.io:80/6783460679/1233/294232
 
 ############################################################################ CANAIS PREMIERE
 
