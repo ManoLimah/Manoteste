@@ -11,8 +11,11 @@ http://148.153.194.134/upic/2024/10/08/02/BMjAyNDEwMDgwMjU5NTJfMTUwMDAxNjQyMTAzN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0AVLnGG.png" group-title="QUER UM TEST CHAMA",Whats 75991634025
 https://cr7v.short.gy/CanalDoCliente/video.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",23/04/2025
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",06/045/2025
 http://148.153.194.134/upic/2024/10/08/02/BMjAyNDEwMDgwMjU5NTJfMTUwMDAxNjQyMTAzNjIxXzE1MDEwNzI2MDIzOTYyOF8yXzM=_sl200Ohd1_B91e81e367a67cec9d2f4e2d57685ea74.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PV0thvm.png" group-title="https://forum.forcaweb.net/",Novo Forum Visitem
+https://abre.ai/forumforcaweb
 
 ############################################################################ Canais | ABERTO
 
@@ -301,7 +304,7 @@ https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://i.imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário HD
-
+http://fonte.lista.luxe:80/iptvgood/101011/7913
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia HD
 http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
@@ -608,7 +611,7 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 1
 https://cr7v.short.gy/Canal1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao | LIBERTADORES",Canal 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 2
 https://cr7v.short.gy/Canal2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 3
@@ -820,16 +823,16 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD
-http://pfsv.io:80/6783460679/1233/516.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3930
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD²
 http://79.127.238.228:14093/
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD
-http://pfsv.io:80/6783460679/1233/512.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3931
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD²
-http://pfsv.io:80/6783460679/1233/300469.ts
+http://fonte.lista.luxe:80/iptvgood/101011/6811
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD
 https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
@@ -886,58 +889,61 @@ http://maistop.net:80/live/free/free/1.m3u8
 
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD 
-http://pfsv.io:80/6783460679/1233/16.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3880
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow FHD
-http://pfsv.io:80/6783460679/1233/300476.ts
+http://fonte.lista.luxe:80/iptvgood/101011/6822
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD 
-http://pfsv.io:80/6783460679/1233/15.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3883
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV FHD
-http://pfsv.io:80/6783460679/1233/1.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3884
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
-http://pfsv.io:80/6783460679/1233/18.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4056
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
-http://pfsv.io:80/6783460679/1233/106.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4027
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central FHD
-http://pfsv.io:80/6783460679/1233/97.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4028
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" logo="https://i.imgur.com/xnGAZOr.png" group-title="Canais | VARIEDADES",TBS HD
-http://pfsv.io:80/6783460679/1233/321.ts
+http://fonte.lista.luxe:80/iptvgood/101011/6831
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil HD
 http://pfsv.io:80/6783460679/1233/322.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil HD
+http://fonte.lista.luxe:80/iptvgood/101011/4052
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil FHD
-http://pfsv.io:80/6783460679/1233/298.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4764
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! HD
-http://pfsv.io:80/6783460679/1233/108.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3982
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! FHD
-http://pfsv.io:80/6783460679/1233/99.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4788
 
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box
-http://pfsv.io:80/6783460679/1233/113.ts
+http://fonte.lista.luxe:80/iptvgood/101011/6841
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1 HD
-http://pfsv.io:80/6783460679/1233/180.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4836
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
-http://pfsv.io:80/6783460679/1233/92668.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3972
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="Canais | VARIEDADES",TLC HD
-http://pfsv.io:80/6783460679/1233/314.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3766
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
-http://pfsv.io:80/6783460679/1233/111.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3926
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="Canais | VARIEDADES",Modo Viagem HD
-http://pfsv.io:80/6783460679/1233/112.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3888
 
 #EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://i.imgur.com/X8bDYyO.png" group-title="Canais | VARIEDADES",Receita Fast HD
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
@@ -954,68 +960,68 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFkmVqX.png" group-title="Canais | VARIEDADES",Hallo! Doc.
 https://aovivo.doozytv.com.br/31025556/10162730/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD
+http://fonte.lista.luxe:80/iptvgood/101011/3994
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo FHD
+http://fonte.lista.luxe:80/iptvgood/101011/4872
+
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
-http://pfsv.io:80/6783460679/1233/190.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3893
 
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID FHD
-http://pfsv.io:80/6783460679/1233/190.ts
-
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD
-http://pfsv.io:80/6783460679/1233/186.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4920
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD 
 http://15.235.50.112:14112/
 
 #EXTINF:-1 tvg-id=",Discovery World" tvg-name=",Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World FHD
-http://pfsv.io:80/6783460679/1233/187.ts
+http://fonte.lista.luxe:80/iptvgood/101011/6802
 
 #EXTINF:-1 tvg-id="Disc. Home & Health" tvg-name="Disc. Home & Health" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD
-http://pfsv.io:80/6783460679/1233/183.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4004
 
 #EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health FHD
-http://pfsv.io:80/6783460679/1233/168.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4010
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
-http://pfsv.io:80/6783460679/1233/181.ts
-
-#EXTINF:-1 tvg-id="Discovery ChanneHD" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD²
-http://pfsv.io:80/6783460679/1233/166.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4008
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel FHD
-http://pfsv.io:80/6783460679/1233/300464.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4009
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
-http://pfsv.io:80/6783460679/1233/184.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3999
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science FHD 
-http://pfsv.io:80/6783460679/1233/30255.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
-http://pfsv.io:80/6783460679/1233/185.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3997
 
 #EXTINF:-1 tvg-id="Discovery theater" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater FHD
-http://pfsv.io:80/6783460679/1233/170.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4786
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
-http://pfsv.io:80/6783460679/1233/189.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3897
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History FHD
-http://pfsv.io:80/6783460679/1233/174.ts
+http://fonte.lista.luxe:80/iptvgood/101011/3895
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
-http://pfsv.io:80/6783460679/1233/188.ts
 
-#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
-http://pfsv.io:80/6783460679/1233/182.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
+http://fonte.lista.luxe:80/iptvgood/101011/4006
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV FHD
-http://pfsv.io:80/6783460679/1233/167.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4036
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
-http://pfsv.io:80/6783460679/1233/179.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4079
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet FHD
-http://pfsv.io:80/6783460679/1233/164.ts
+http://fonte.lista.luxe:80/iptvgood/101011/4080
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
 
@@ -1747,10 +1753,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f9200078
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon HD
-
+http://fonte.lista.luxe:80/iptvgood/101011/3863
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon FHD
-
+http://fonte.lista.luxe:80/iptvgood/101011/6827
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Canais | INFANTIL",Nick Jr. Club
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
@@ -1814,53 +1820,40 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
-
+http://fonte.lista.luxe:80/iptvgood/101011/4839
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB FHD
-
+http://fonte.lista.luxe:80/iptvgood/101011/3928
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM FHD
-
+http://fonte.lista.luxe:80/iptvgood/101011/3826
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. FHD
-
+http://fonte.lista.luxe:80/iptvgood/101011/3867
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network FHD
-
+http://fonte.lista.luxe:80/iptvgood/101011/4038
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
-
-
+http://fonte.lista.luxe:80/iptvgood/101011/4054
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Canais | INFANTIL",TRU TV
-
+http://fonte.lista.luxe:80/iptvgood/101011/4961
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Canais | INFANTIL",Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
-
+http://fonte.lista.luxe:80/iptvgood/101011/3758
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
-
+http://fonte.lista.luxe:80/iptvgood/101011/4002
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS FHD
-
+http://fonte.lista.luxe:80/iptvgood/101011/4785
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
-
+http://fonte.lista.luxe:80/iptvgood/101011/3736
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Canais | INFANTIL",Léo e Lully
 
@@ -1887,13 +1880,10 @@ https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD²
-
+http://fonte.lista.luxe:80/iptvgood/101011/7921
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM FHD
-
+http://fonte.lista.luxe:80/iptvgood/101011/7920
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
