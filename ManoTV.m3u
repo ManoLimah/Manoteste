@@ -645,32 +645,17 @@ http://fonte.lista.luxe:80/iptvgood/101011/4014
 
 ############################################################################ CANAIS | DISNEY+
 
-#EXTINF:-1 tvg-id="Disney plus" tvg-name="Disney plus" tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 1 HD
+#EXTINF:-1 tvg-id="Disney plus" tvg-name="Disney plus" tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 1 
 http://fonte.lista.luxe:80/iptvgood/101011/8100
 
-#EXTINF:-1 tvg-id="Disney plus 1" tvg-name="Disney plus 1" tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 1 FHD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 2 
 http://fonte.lista.luxe:80/iptvgood/101011/8101
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 2 FHD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 3 
 http://fonte.lista.luxe:80/iptvgood/101011/8102
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 3 FHD
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 4 
 http://fonte.lista.luxe:80/iptvgood/101011/8103
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 5 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 6 
-
 
 ############################################################################ CANAIS | MAX
 
@@ -712,6 +697,12 @@ http://fonte.lista.luxe:80/iptvgood/101011/6856
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 4
 http://fonte.lista.luxe:80/iptvgood/101011/7915
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max Extra 1
+https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max Extra 2
+https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 
 ############################################################################ CANAIS | PRIME VIDEO
 
