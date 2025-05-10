@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/phTOaXq.png" group-title="ManoTV",CANAL DO CLIENTE HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PHZC9Vs.png" group-title="ManoTV",CANAL DO CLIENTE HD
 https://abre.ai/canalcliente11mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lgIoADn.png" group-title="DOAÇÃO PIX",75991634025
@@ -579,31 +579,31 @@ https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 #EXTINF:-1 tvg-id="JP ESPORTES" tvg-name="JP ESPORTES" tvg-logo="https://i.imgur.com/UbT12bX.png" group-title="Canais | ESPORTES",JP Esportes YT
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT24n3l.png" group-title="ao vivo | FUTEBOL",ManoFUT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT24n3l.png" group-title="ao vivo | FUTEBOL",ManoFUT 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 2
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT24n3l.png" group-title="ao vivo | FUTEBOL",ManoFUT 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 3
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT24n3l.png" group-title="ao vivo | FUTEBOL",ManoFUT 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 4
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT24n3l.png" group-title="ao vivo | FUTEBOL",ManoFUT 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 5
 https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT24n3l.png" group-title="ao vivo | FUTEBOL",ManoFUT 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 6
 https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT24n3l.png" group-title="ao vivo | FUTEBOL",ManoFUT 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 7
 https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT24n3l.png" group-title="ao vivo | FUTEBOL",ManoFUT 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 8
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT24n3l.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 
 ############################################################################ AO VIVO | LIBERTADORES 
@@ -619,6 +619,18 @@ https://cr7v.short.gy/Canal3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 4
 https://cr7v.short.gy/Canal4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 5
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 6
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 7
+https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 8
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
 ############################################################################ CANAIS | NOSSO FUTEBOL 
 
