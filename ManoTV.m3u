@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gqnca8g.png" group-title="ManoTV",CANAL DO CLIENTE HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ManoTV",CANAL DO CLIENTE HD
 https://abre.ai/canalcliente11mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lgIoADn.png" group-title="DOAÇÃO PIX",75991634025
@@ -2012,41 +2012,46 @@ https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 
 ############################################################################ RÁDIOS 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Pagode 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/BNyxPr8.png" group-title="RÁDIO",Pagode 
 https://hls.hunter.fm/pagode/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
 
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Anos 80 retrô
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zIZlgsn.png" group-title="RÁDIO",Anos 80 retrô
 https://hls.hunter.fm/80s/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
 
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Sertanejo
+#EXTINF:-1  tvg-logo="https://i.imgur.com/I3pDcOW.png" group-title="RÁDIO",Sertanejo
 https://hls.hunter.fm/sertanejo/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
 
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Hits Brasil 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/q9qGILb.png" group-title="RÁDIO",Hits Brasil 
 https://hls.hunter.fm/hitsbrasil/64.m3u8?shtl=7KWu3SjMvgY-GhV1-8B6b9rB.lpykqpyxgqfSK4vGJSb3tqheOVp2UggEshcePVZJDVw
 
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Pisadinha
+#EXTINF:-1  tvg-logo="https://i.imgur.com/frAXSr8.png" group-title="RÁDIO",Pisadinha
 https://hls.hunter.fm/pisadinha/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MD1dcaA.png" group-title="RÁDIO",K-Pop
+https://stream.hunter.fm/kpop/64.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Pop
+#EXTINF:-1  tvg-logo="https://i.imgur.com/uq88JPV.png" group-title="RÁDIO",Pop
 https://hls.hunter.fm/pop/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
 
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Pop 2
+#EXTINF:-1  tvg-logo="https://i.imgur.com/D2pbbPX.png" group-title="RÁDIO",Pop 2
 https://hls.hunter.fm/pop2k/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/spf0rU1.png" group-title="RÁDIO",Gospel
+https://hls.hunter.fm/gospel/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/eT8XaE3.png" group-title="RÁDIO",Moda Sertaneja
+https://hls.hunter.fm/modasertaneja/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/uoQafom.png" group-title="RÁDIO", Tropical 
+https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xAD9aHh.png" group-title="RÁDIO",Rock
+https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/zHMxF3o.png" group-title="RÁDIO",Iofi
+https://stream.hunter.fm/lofi/64.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Rádio POP
 https://stm16.xcast.com.br:12918/stream
-
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Gospel
-https://hls.hunter.fm/gospel/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Moda Sertaneja
-https://hls.hunter.fm/modasertaneja/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO", Tropical 
-https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
-
-#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="RÁDIO",Rock
-https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
 
 #EXTINF:-1  tvg-logo="https://imgur.com/11DH4AQ.png" group-title="RÁDIO",ATIVIDADE FM 87.9 Canudos BA
 https://1.stmip.net:8070/stream?type=.flv
