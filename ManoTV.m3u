@@ -23,16 +23,16 @@ https://abre.ai/forumforcawebmp4
 http://fonte.lista.luxe:80/iptvgood/101011/6929
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
-https://new.m3u8.one/globorj/index.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/3945
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD³
-http://fonte.lista.luxe:80/iptvgood/101011/3945
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
 http://fonte.lista.luxe:80/iptvgood/101011/6928
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/3942
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 http://fonte.lista.luxe:80/iptvgood/101011/3943
@@ -47,7 +47,7 @@ http://fonte.lista.luxe:80/iptvgood/101011/4880
 http://fonte.lista.luxe:80/iptvgood/101011/4795
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM  
-http://cdn-3.nxplay.com.br/TV_TEM_TK/tracks-v2a1/mono.m3u8
+http://fonte.lista.luxe:80/iptvgood/101011/6969
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM 
 http://fonte.lista.luxe:80/iptvgood/101011/6967
@@ -349,7 +349,7 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1449
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura RN FHD
-https://tv02.zas.media:1936/futurotv21/futurotv21/chunklis.m3u8?ManoTV
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElyTV" tvg-name="ElyTV" tvg-logo="https://imgur.com/m3u6JEx.png" group-title="Canais | ABERTO",ElyTV
 https://stmv1.srvsite.com/ely/ely/chunklist_w1041259677.m3u8
@@ -2967,28 +2967,28 @@ https://stitcher-ipv4.pluto.tv/v2/stitch/hls/channel/64b02be14ea480000831ec78liv
 ############################################################################ CANAIS ESPORTES
 
 #EXTINF:-1  tvg-logo="https://imgur.com/ytIaNN0.png" group-title="Canais | UNIQUE TV",uniqueTV Sports
-https://stream.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
+https://pop.uniquetv.com.br/uniquetv/index.fmp4.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.uniquetvplay.com.br/upload/uniquesport1.png" group-title="Canais | UNIQUE TV",uniqueTV Sports
-https://stream.uniquetv.com.br/uniquesports1/video.m3u8
+https://srv4.zcast.com.br/tvcultural/tvcultural/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.uniquetvplay.com.br/upload/uniquesport2.png" group-title="Canais | UNIQUE TV",uniqueTV Sports 2
-https://stream.uniquetv.com.br/uniquesports2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.uniquetvplay.com.br/upload/uniquesport3.png" group-title="Canais | UNIQUE TV",uniqueTV Sports 3
-https://stream.uniquetv.com.br/uniquesports3/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/ytIaNN0.png" group-title="Canais | UNIQUE TV",UNIQUE SuperCAST
-https://stream.uniquetv.com.br/supercast/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/ytIaNN0.png" group-title="Canais | UNIQUE TV",Unique Travel and Food
-https://stream.uniquetv.com.br/uniquefood/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/ytIaNN0.png" group-title="Canais | UNIQUE TV",REISEN CLUBE TV
-https://stream.uniquetv.com.br/reisenclubetv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/ytIaNN0.png" group-title="Canais | UNIQUE TV",PROGRAMA O REPORTER
-https://stream.uniquetv.com.br/tvoreporter/tracks-v1a1/mono.m3u8
+
 
 ############################################################################ Canais Live | YOUTUBE 
 
