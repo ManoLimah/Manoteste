@@ -385,13 +385,13 @@ https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 ############################################################################ CANAIS ESPN
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN SD
-
+http://185.236.183.118:14177/
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
-
+http://185.236.183.118:14180/
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
-
+http://185.236.183.118:14179/
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD²
 
@@ -1017,7 +1017,7 @@ http://15.235.50.112:14112/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
-
+http://185.236.183.117:14430/
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV FHD
 
