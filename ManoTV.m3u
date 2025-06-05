@@ -239,8 +239,11 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 ############################################################################ Canais | SBT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",SBT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT SP HD
+https://cdn2.easy.tv.br/sbt/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/x6CNPWS.png" group-title="Canais | SBT",SBT Interior SP 
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
