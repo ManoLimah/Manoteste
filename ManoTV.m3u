@@ -1076,12 +1076,8 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="Canais | VARIEDADES",DiaTV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | VARIEDADES",D.P.A
-https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | VARIEDADES",Fit Dance 
-https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Fit_Dance_BR/Fit_Dance.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BLTWN9D.png " group-title="Canais | VARIEDADES",Fit Dance 
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Offgrid/Fitdance_BR/Fitdance.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IE8xwt4.png" group-title="Canais | VARIEDADES",Trace Brasil
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
@@ -1133,11 +1129,11 @@ http://185.236.183.117:14668/TNTNovelasfhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9bIhIR.png" group-title="Canais | NOVELAS",PLUTO TV NOVELAS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tvqin.png" group-title="Canais | NOVELAS",Novelando HD
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iB1K7Xk.png" group-title="Canais | NOVELAS",A Terra Prometica
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/ATerraPrometida.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tzYimlq.png" group-title="Canais | NOVELAS",Os Dez Mandamentos 
-https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
 
 #EXTINF:-1 tvg-id="malhacao-fast" tvg-name="malhacao-fast" tvg-logo="https://i.imgur.com/0gDjNFs.png" group-title="Canais | NOVELAS",Malhação Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/576p-vtt/index.m3u8
@@ -1223,7 +1219,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4XvPWQa.png" group-title="Canais | REALITY",Self Service SEG/SEX as 12h YT
 
 
 ############################################################################ Canais | FILMES E SERIES
@@ -1733,10 +1728,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f9200078
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon HD
-http://fonte.lista.luxe:80/iptvgood/101011/3863
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon FHD
-http://fonte.lista.luxe:80/iptvgood/101011/6827
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Canais | INFANTIL",Nick Jr. Club
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
@@ -1800,40 +1795,40 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
-http://fonte.lista.luxe:80/iptvgood/101011/4839
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
-http://fonte.lista.luxe:80/iptvgood/101011/3928
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
-http://fonte.lista.luxe:80/iptvgood/101011/3826
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
-http://fonte.lista.luxe:80/iptvgood/101011/3867
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-http://fonte.lista.luxe:80/iptvgood/101011/4038
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
-http://fonte.lista.luxe:80/iptvgood/101011/4054
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Canais | INFANTIL",TRU TV
-http://fonte.lista.luxe:80/iptvgood/101011/4961
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Canais | INFANTIL",Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
-http://fonte.lista.luxe:80/iptvgood/101011/3758
+
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
-http://fonte.lista.luxe:80/iptvgood/101011/4002
+
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS FHD
-http://fonte.lista.luxe:80/iptvgood/101011/4785
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
-http://fonte.lista.luxe:80/iptvgood/101011/3736
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Canais | INFANTIL",Léo e Lully
 
@@ -1856,14 +1851,21 @@ https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Canais | INFANTIL", DREAM WORKS
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rbc6oFF.png " group-title="Canais | INFANTIL",D.P.A
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eu93gIQ.png " group-title="Canais | INFANTIL",Mr Bean Animated
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Canais | INFANTIL",DCPC Infantil 
 https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD
-http://fonte.lista.luxe:80/iptvgood/101011/7921
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM FHD
-http://fonte.lista.luxe:80/iptvgood/101011/7920
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
@@ -1874,10 +1876,10 @@ http://45.134.141.161:2200/BRX/24HS_Peppa_Pig/index.m3u8
 ################################################################################# Canais INFANTIL 24h
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chapolin Colorado 24h
-http://45.134.141.161:2200/BRX/24HS_Chapolin_Colorado/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chaves 24h
-http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chaves 24h op2
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
@@ -1886,7 +1888,7 @@ http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",Bob Esponja 24h
-http://45.134.141.161:2200/BRX/24HS_Bob_Esponja_1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Pokemon 24h
 http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8
@@ -1895,7 +1897,7 @@ http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8
 http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Ben 10 2005 24h
-http://45.134.141.161:2200/BRX/24HS_Ben_10/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Poderoso Chefinho 24h
 
@@ -1919,7 +1921,7 @@ http://45.134.141.161:2200/BRX/24HS_Ben_10/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Tom & Jerry 24h
-http://45.134.141.161:2200/BRX/24HS_Tom_e_Jerry/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Scoobdoo 24h
 
@@ -1934,10 +1936,10 @@ http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴X-Men Evolution 24h
-http://45.134.141.161:2200/BRX/24HS_Wolverine_e_os_X-men/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴PicaPau 24h
-http://45.134.141.161:2200/BRX/24HS_Pica-Pau_O_novo_show/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Cavaleiros Zodiaco 24h
 
