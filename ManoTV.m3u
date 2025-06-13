@@ -528,30 +528,30 @@ http://185.236.183.118:14527/
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 FHD
 
 
-############################################################################ ao vivo | BRASILEIRÃO
+############################################################################ AO VIVO | MUNDIAL DE CLUBES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 1
 https://cr7v.short.gy/Canal1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 2
 https://cr7v.short.gy/Canal2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 3
 https://cr7v.short.gy/Canal3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 4
 https://cr7v.short.gy/Canal4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 5
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 6
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 7
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 8
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
 ############################################################################ AO VIVO AGORA 
@@ -614,31 +614,6 @@ https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 
-############################################################################ AO VIVO | LIBERTADORES 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 1
-https://cr7v.short.gy/Canal1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 2
-https://cr7v.short.gy/Canal2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 3
-https://cr7v.short.gy/Canal3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 4
-https://cr7v.short.gy/Canal4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 5
-https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 6
-https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 7
-https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 8
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
 ############################################################################ CANAIS | NOSSO FUTEBOL 
 
