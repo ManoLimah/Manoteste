@@ -1848,8 +1848,11 @@ http://45.134.141.161:2200/BRX/24HS_Peppa_Pig/index.m3u8
 
 ################################################################################# Canais INFANTIL 24h
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chapolin Colorado 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chapolin Colorado 
 http://15.235.9.200:14844/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chapolin Colorado 24h
+http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chaves 24h
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
@@ -1860,10 +1863,10 @@ http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Masha e o Urso 24h
 http://24hrs.homelinux.com:8080/24H-Masha.e.o.Urso.S01eS02eS03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",Bob Esponja 2 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",Bob Esponja 24h
 http://24hrs.homelinux.com:8080/24H-bobesponja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",Bob Esponja 24h
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",Bob Esponja 2
 http://15.235.9.200:14823/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Pokemon 24h
@@ -1873,6 +1876,9 @@ http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8
 http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Ben 10 2005 24h
+http://24hrs.homelinux.com:8080/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Ben 10 
 http://15.235.9.200:14819/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Poderoso Chefinho 24h
@@ -1880,6 +1886,18 @@ http://24hrs.homelinux.com:8080/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Mickey e Donald 24h
 http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Corrida Maluca 24h
+http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Super Mario Bross 24h
+http://24hrs.homelinux.com:8080/24H-supermario/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Patolino 24h
+http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Aladdin 24h
+http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Hantaro 24h
 http://24hrs.homelinux.com:8080/24H-hantaro/playlist.m3u8
@@ -2138,7 +2156,7 @@ http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
 http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Os Trapalhões 24h
-
+http://24hrs.homelinux.com:8080/24H-ostrapalhoes/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴João Cleber
 http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
@@ -2159,9 +2177,12 @@ http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
 http://24hrs.homelinux.com:8080/24H-asvisoesdaraven/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴A Grande Família 24h
-
+http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Escolinha Raimundo 24h
+http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Escolinha Raimundo 2
 http://15.235.9.200:14904/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",🔴Eu a Patroa e as Crianças 24h
