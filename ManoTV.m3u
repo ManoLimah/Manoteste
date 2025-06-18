@@ -239,9 +239,6 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT SP HD
-https://cdn2.easy.tv.br/sbt/index.m3u8
-
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/x6CNPWS.png" group-title="Canais | SBT",SBT Interior SP 
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
@@ -2208,8 +2205,6 @@ http://maistop.net:80/live/free/free/1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="Canais | ABERTO",TV Evangelizar 
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="Canais | ABERTO",TV Evangelizar Maringá
-
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="Canais | ABERTO",TV Guará MA
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
@@ -2292,8 +2287,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8?Ma
 #EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="Canais | ABERTO", Rede Vida
 https://aovivo.doozytv.com.br/31025556/10150829/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="Canais | ABERTO", Rede Vida HD
-https://cdn2.easy.tv.br/redevida/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uJfsfJV.png" group-title="Canais | ABERTO",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
@@ -2320,7 +2313,7 @@ https://serv2.videovox.pw/video13154/video13154/playlist.m3u8?ManoTV
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV HD
-https://cdn2.easy.tv.br/istv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais | ABERTO",ISTV FHD
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
@@ -2372,10 +2365,10 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="Canais | ABERTO",TERRA VIVA HD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/81607.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isJAvqM.png" group-title="Canais | ABERTO",Canal do Boi HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/486
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | ABERTO",Agro Canal
 https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
@@ -2402,7 +2395,7 @@ http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faofls5.png" group-title="Canais | ABERTO",REDE SECULO 21
-https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7AKdZrC.png" group-title="Canais | ABERTO",YEEAAH
 http://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
@@ -2470,9 +2463,6 @@ https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w636630499.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QqdFSOV.png" group-title="Canais | ABERTO",TV Vianney
 https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/MUUXCDM.png" group-title="Canais | ABERTO",TV Gospa Mira YouTube 
-https://ythls.armelin.one/channel/UC6oZlH7_E0fT90pblY7rX4g.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/usK7kMl.png" group-title="Canais | ABERTO",Tv Recanto da Fé
 https://stmv1.srvif.com/2022/2022/playlist.m3u8
 
@@ -2486,7 +2476,7 @@ https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova HD
-https://cdn2.easy.tv.br/cancaonova/index.m3u8
+http://dnscine.top:80/249568646/711524116/15.ts
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QZhhn6FN9to/UlFrsL3Tt0I/AAAAAAAAbHo/ds9DswoDlWo/s400/Logo%2Bdo%2BSite.png" group-title="Canais | ABERTO",CINEPIX
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1295959840.m3u8
@@ -2502,9 +2492,6 @@ https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9N1RL3.png" group-title="Canais | ABERTO",TV Mais
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="Canais | ABERTO",RIT TV YT
-https://ythls.armelin.one/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="Canais | ABERTO",RIT TV
 https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
