@@ -29,7 +29,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/1069
 https://jeowoa.jeowoa.workers.dev/globorj/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2004003
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 https://jeowoa.jeowoa.workers.dev/globosp/index.m3u8
@@ -38,13 +38,10 @@ https://jeowoa.jeowoa.workers.dev/globosp/index.m3u8
 http://79.127.238.228:14211/
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/1071
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/318
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP 4k
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2105
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM  Bauru 
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/935
@@ -353,19 +350,18 @@ https://stmv1.srvsite.com/ely/ely/chunklist_w1041259677.m3u8
 ############################################################################ CANAIS SporTV 
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/184471
+https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
+
+https://o5uftzrqlf.o5uftzrqlf.workers.dev/sportv/index.m3u8
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD²
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/600
+https://aipapai.shop/_temp/sportv.m3u8
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD³
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/598
+
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2284
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD²
-https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8 
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 SD
 http://185.236.183.117:14646/
