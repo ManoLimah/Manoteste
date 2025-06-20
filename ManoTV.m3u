@@ -368,7 +368,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/591
 
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
-
+http://metalgear.bemtv.cn:80/STREAM/8312/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/595
@@ -376,7 +376,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/595
 ############################################################################ CANAIS ESPN
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN SD
-
+https://metalgear.bemtv.cn/STREAM/8322/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
 https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
@@ -385,7 +385,7 @@ https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/221
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2223
+https://metalgear.bemtv.cn/STREAM/8324/chunks.m3u8
  
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 FHD
 http://46.151.196.223:14438/
@@ -397,7 +397,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2224
 http://46.151.196.223:14444/
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
-
+https://metalgear.bemtv.cn/STREAM/8328/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://46.151.196.223:14450/
@@ -409,7 +409,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/237
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/197136
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
-
+https://metalgear.bemtv.cn/STREAM/8320/chunks.m3u8
 
 ############################################################################ CANAIS ESPORTES
 
