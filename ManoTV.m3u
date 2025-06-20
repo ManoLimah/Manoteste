@@ -388,19 +388,19 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/221
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2223
  
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 FHD
-
+http://46.151.196.223:14438/
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD 
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2224
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 FHD
-
+http://46.151.196.223:14444/
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
 
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
-
+http://46.151.196.223:14450/
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/237
@@ -440,7 +440,7 @@ http://79.127.238.233:14408/
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/158
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate 4k
-
+http://46.151.196.223:14468/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/748
