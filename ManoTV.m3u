@@ -352,26 +352,20 @@ https://stmv1.srvsite.com/ely/ely/chunklist_w1041259677.m3u8
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD²
-
-
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD³
-
-
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
 https://cr7v.short.gy/manoiTVOP1/sptv/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/591
+https://metalgear.bemtv.cn/STREAM/8307/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 FHD
-https://gonero1637.gonero1637.workers.dev/sportv2/tracks-v1a1/mono.m3u8
+https://tovocag624.tovocag624.workers.dev/sportv2/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
 http://metalgear.bemtv.cn:80/STREAM/8312/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/595
+https://tovocag624.tovocag624.workers.dev/sportv3/index.m3u8
 
 ############################################################################ CANAIS ESPN
 
@@ -443,9 +437,6 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/158
 http://46.151.196.223:14468/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
-https://gonero1637.gonero1637.workers.dev/ufcfightpass/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD²
 https://cr7v.short.gy/manoiTVOP1/spnHD/ZAP075991634025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass FHD
