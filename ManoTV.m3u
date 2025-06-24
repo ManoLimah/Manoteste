@@ -26,7 +26,7 @@ http://79.127.238.228:14217/
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD³
-https://jeowoa.jeowoa.workers.dev/globorj/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
 
@@ -356,7 +356,7 @@ https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 https://cr7v.short.gy/manoiTVOP1/sptv/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/sportv2/index.m3u8
+https://cr7v.short.gy/manoitv/sp2/Index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 FHD
 https://mpjaq3evvk.mpjaq3evvk.workers.dev/sportv2/index.m3u8
