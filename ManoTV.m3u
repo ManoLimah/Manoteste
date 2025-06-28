@@ -139,13 +139,13 @@ https://cr7v.short.gy/live3/v/Index.m3u8
 
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP SD
-https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
+
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
-http://new.m3u8.one:80/recordsp/index.m3u8
+
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP FHD
-http://185.236.183.117:14567/Recordhd
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
 
@@ -153,23 +153,19 @@ http://185.236.183.117:14567/Recordhd
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ FHD
 
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV PE
-
-
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",Record SicTV (RO)
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Juara HD
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?ManoTV
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Juina HD
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SC HD
-https://caikron.com.br:19360/criciuma/criciuma.m3u8?ManoTV
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",Record SicTV (RO)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Brasília 
 
@@ -181,7 +177,7 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8?ManoTV
 
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RS FHD
-http://pfsv.io:80/6783460679/1233/120714.ts
+
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV DF
 
@@ -335,7 +331,7 @@ https://stmv1.srvsite.com/ely/ely/chunklist_w1041259677.m3u8
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
-https://cr7v.short.gy/manoiTVOP1/sptv/75991634025/index.m3u8
+https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
 https://cr7v.short.gy/manoitv/sp2/Index.m3u8
@@ -837,7 +833,7 @@ http://15.235.11.7:14146/MultiShowSD
 http://185.236.183.117:14130/
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central FHD
-
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/116
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" logo="https://i.imgur.com/xnGAZOr.png" group-title="Canais | VARIEDADES",TBS HD
 
@@ -1711,7 +1707,7 @@ http://dnscine.top:80/249568646/711524116/272.ts
 http://dnscine.top:80/249568646/711524116/67.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
-http://dnscine.top:80/249568646/711524116/526.ts
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/15
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
 http://dnscine.top:80/249568646/711524116/17.ts
@@ -2412,11 +2408,11 @@ https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova Portugal
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1282186408.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova SD
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova HD
 http://dnscine.top:80/249568646/711524116/15.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova FHD
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/5
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QZhhn6FN9to/UlFrsL3Tt0I/AAAAAAAAbHo/ds9DswoDlWo/s400/Logo%2Bdo%2BSite.png" group-title="Canais | ABERTO",CINEPIX
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1295959840.m3u8
@@ -2922,7 +2918,7 @@ https://srv4.zcast.com.br/tvcultural/tvcultural/playlist.m3u8
 ############################################################################ Canais Live | YOUTUBE 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES",Woohoo Surf
-
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/73
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nk19QkO.png" group-title="Canais | ESPORTES",National Sports Channel 
 
