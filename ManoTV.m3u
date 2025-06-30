@@ -29,10 +29,10 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1
 http://45.134.141.162:3366/stream/globo/rj/master720.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
-https://metalgear.bemtv.cn/STREAM/8224/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP 
-https://metalgear.bemtv.cn/STREAM/8223/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 http://79.127.238.228:14211/
@@ -44,7 +44,7 @@ https://tovocag624.tovocag624.workers.dev/globosp/index.m3u8
 http://45.134.141.162:3366/stream/globo/cam/master1080.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM  Bauru 
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/935
+https://metalgear.bemtv.cn/STREAM/8224/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM Sorocaba 
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/937
@@ -94,10 +94,10 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/321
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",Globo Maranhão FHD 
 
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre FHD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/306
-
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
+https://metalgear.bemtv.cn/STREAM/8223/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD²
 https://metalgear.bemtv.cn/STREAM/8295/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Caxias do Sul HD
