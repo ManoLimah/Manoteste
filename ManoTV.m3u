@@ -29,10 +29,10 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1
 http://45.134.141.162:3366/stream/globo/rj/master720.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
+https://metalgear.bemtv.cn/STREAM/8224/chunks.m3u8
 
-
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
-https://jeowoa.jeowoa.workers.dev/globosp/index.m3u8
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP 
+https://metalgear.bemtv.cn/STREAM/8223/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 http://79.127.238.228:14211/
@@ -394,7 +394,10 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/158
 http://46.151.196.223:14468/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
-https://cr7v.short.gy/manoiTVOP1/spnHD/ZAP075991634025/index.m3u8
+https://cr7v.short.gy/manofree/UFC/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD²
+https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass FHD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/748
@@ -800,7 +803,7 @@ http://15.235.11.7:14146/MultiShowSD
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD 
-
+https://metalgear.bemtv.cn/STREAM/8441/chunks.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV FHD
 
@@ -1750,7 +1753,7 @@ https://cdn-1.nxplay.com.br/dcpc/index.m3u8
 http://dnscine.top:80/249568646/711524116/422.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM FHD
-
+https://metalgear.bemtv.cn/STREAM/8354/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
