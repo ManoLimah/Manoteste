@@ -730,7 +730,7 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 http://79.127.238.228:14093/
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News HD²
-
+https://metalgear.bemtv.cn/STREAM/8448/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/298
@@ -1003,19 +1003,19 @@ https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
 ############################################################################ Canais | NOVELAS
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas SD
+#EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas SD
 
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas HD
+#EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas HD
 http://79.127.238.228:14455/
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas FHD
+#EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas FHD
 http://79.127.238.228:14455/VIVA
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas FHD²
+#EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas FHD²
 https://metalgear.bemtv.cn/STREAM/8249/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas 4k
+#EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas 4k
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2116
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
@@ -1178,9 +1178,7 @@ https://metalgear.bemtv.cn/STREAM/8291/chunks.m3u8?Paramoun
 
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
-
-
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime FHD
+https://metalgear.bemtv.cn/STREAM/8446/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
@@ -1196,19 +1194,19 @@ https://metalgear.bemtv.cn/STREAM/8272/chunks.m3u8?TCPREMIUM
 https://metalgear.bemtv.cn/STREAM/8270/chunks.m3u8?TCTOUCH
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
-
+https://metalgear.bemtv.cn/STREAM/8437/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
 https://metalgear.bemtv.cn/STREAM/8276/chunks.m3u8?TCFUN
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
-
+http://168.205.55.212:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
 https://metalgear.bemtv.cn/STREAM/8381/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
-
+https://metalgear.bemtv.cn/STREAM/8453/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX FHD
 
@@ -1467,7 +1465,7 @@ https://aovivo.doozytv.com.br/31025556/10162080/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFkmVqX.png" group-title="Canais | SÉRIES",Hallo! Doramas
 https://aovivo.doozytv.com.br/31025556/10163906/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/TWDbyAMC_400x200.png" group-title="Canais | SERIES",The Walking Dead by AMC
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/TWDbyAMC_400x200.png" group-title="Canais | SÉRIES",The Walking Dead by AMC
 https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | SÉRIES",XENA 24h
