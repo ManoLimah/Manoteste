@@ -67,6 +67,12 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/OkFRcFd.png" group-title="Canais | GLOBO",Globo TV Subaé FHD
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xAPAkE.png" group-title="Canais | ABERTO",TV Clube HD
+http://7semfronteiras.cc:8080/julia3387/jpc374856/44427
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xAPAkE.png" group-title="Canais | ABERTO",TV Clube HD²
+http://7semfronteiras.cc:8080/julia3387/jpc374856/109052
+
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",TV Verde Mares CE HD
 http://45.134.141.162:3366/stream/globo/ce1/master720.m3u8
 
@@ -2223,7 +2229,7 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0zSVzOc.png" group-title="Canais | ABERTO",TV Osório News 
-https://serv2.videovox.pw/video13154/video13154/playlist.m3u8?ManoTV
+https://stmv2.srvsh.com.br/0614/0614/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n232OSq.png" group-title="Canais | ABERTO",Tela Viva TV 
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
@@ -2597,9 +2603,6 @@ https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1mGOJl.png" group-title="Canais | ABERTO",Rede Mundo d Televisão 
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3xAPAkE.png" group-title="Canais | ABERTO",TV Clube
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcIpMWI.png" group-title="Canais | ABERTO",Primer TV
 http://177.74.174.57:8080/hls/primertv.m3u8
