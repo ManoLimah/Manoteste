@@ -32,7 +32,7 @@ http://45.134.141.162:3366/stream/globo/rj/master720.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP 
-
+http://45.134.141.162:3366/stream/globo/sp1/master.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 http://79.127.238.228:14211/
@@ -80,7 +80,7 @@ http://45.134.141.162:3366/stream/globo/ce1/master720.m3u8
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/30968
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
-
+http://45.134.141.162:3366/stream/globo/sc1/master.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Maringa FHD
 
@@ -89,7 +89,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/30968
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/321
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
-
+http://45.134.141.162:3366/stream/globo/ma1/master.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
 
@@ -101,7 +101,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/321
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
-
+http://45.134.141.162:3366/stream/globo/rs1/master.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD²
 
