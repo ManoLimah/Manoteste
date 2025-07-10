@@ -433,39 +433,57 @@ http://7semfronteiras.cc:8080/julia3387/jpc374856/56943
 
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-https://tovocag624.tovocag624.workers.dev/premiere2/tracks-v1a1/mono.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/18853
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 FHD
 http://104.238.222.251:8989/278940_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-https://tovocag624.tovocag624.workers.dev/premiere3/tracks-v1a1/mono.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/22263
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 FHD
 
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-https://tovocag624.tovocag624.workers.dev/premiere4/tracks-v1a1/mono.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/18855
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-name="PREMIERE 4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
 
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
-https://tovocag624.tovocag624.workers.dev/premiere5/tracks-v1a1/mono.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/65746
 
 #EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 FHD
 
 
 #EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/22275
 
 #EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 FHD
 
 
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/22279
 
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 FHD
+
+
+############################################################################ ao vivo | BRASILEIRÃO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 1
+https://cr7v.short.gy/Canal1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 2
+https://cr7v.short.gy/Canal2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 3
+https://cr7v.short.gy/Canal3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 4
+https://cr7v.short.gy/Canal4/index.m3u8
+
+
+############################################################################ Canais | FREE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RSHGmuX.png" group-title="Canais | ESPORTES",Desempedido HD
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
@@ -481,28 +499,17 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 
 ############################################################################ AO VIVO | MUNDIAL DE CLUBES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 1
-https://cr7v.short.gy/Canal1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 2
-https://cr7v.short.gy/Canal2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 3
-https://cr7v.short.gy/Canal3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 4
-https://cr7v.short.gy/Canal4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES FINAL",CHE X PSG CazéTV 
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES FINAL",CHE X PSG Globo
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES FINAL",CHE X PSG SporTV
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES",Canal 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES FINAL",CHE X PSG SporTV
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
 ############################################################################ AO VIVO AGORA 
@@ -550,13 +557,13 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 ############################################################################ CANAIS | NOSSO FUTEBOL 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 1
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/42917
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 2
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/42919
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 3
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/18817
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a7zyROB.png" group-title="Canais | PPV ESPORTES",Nosso Futebol 4
 
@@ -565,10 +572,10 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | PPV ESPORTES",DAZN 1 HD
+http://7semfronteiras.cc:8080/julia3387/jpc374856/18820
 
-
-#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | PPV ESPORTES",DAZN 1 FHD
-
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/DAZN.png" group-title="Canais | PPV ESPORTES",DAZN 2 HD
+http://7semfronteiras.cc:8080/julia3387/jpc374856/69823
 
 ############################################################################ CANAIS | DISNEY+
 
@@ -587,25 +594,25 @@ http://45.134.141.162:3366/stream/disneyplus/event4/master.m3u8
 ############################################################################ CANAIS | MAX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/299147
 
 #EXTINF:-1 tvg-id="Paramount+ HD" tvg-name="Paramount+ HD" tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ FHD
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 2 HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/299148
 
 #EXTINF:-1 tvg-id="Paramount+ 2 HD" tvg-name="Paramount+ 2 HD" tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 2 FHD
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 3 HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/299149
 
 #EXTINF:-1 tvg-id="Paramount+ 3 HD" tvg-name="Paramount+ 3 HD" tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 3 FHD
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 4 HD 
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/299150
 
 #EXTINF:-1 tvg-id="Paramount+ 4 HD" tvg-name="Paramount+ 4 HD" tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ 4 FHD
 
@@ -614,16 +621,16 @@ http://45.134.141.162:3366/stream/disneyplus/event4/master.m3u8
 ############################################################################ CANAIS | MAX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 1
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/63011
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 2 
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/69815
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 3
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/59962
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 4
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/69820
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max Extra 1
 
@@ -634,19 +641,19 @@ http://45.134.141.162:3366/stream/disneyplus/event4/master.m3u8
 ############################################################################ CANAIS | PRIME VIDEO
 
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 1 HD
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/126616
 
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 1 FHD
 
 
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 2
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/126617
 
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 3
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/311692
 
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 4
-
+http://7semfronteiras.cc:8080/julia3387/jpc374856/311693
 
 ############################################################################ CANAIS NBA
 
