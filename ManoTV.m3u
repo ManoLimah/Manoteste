@@ -420,14 +420,14 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/748
 
 ############################################################################ CANAIS PREMIERE
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes SD
-
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes 
+http://7semfronteiras.cc:8080/julia3387/jpc374856/22255
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-https://tovocag624.tovocag624.workers.dev/premiereclubes/tracks-v1a1/mono.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/65745
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD²
-http://104.238.222.251:8989/278940_.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/56943
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
 
@@ -436,7 +436,7 @@ http://104.238.222.251:8989/278940_.m3u8
 https://tovocag624.tovocag624.workers.dev/premiere2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 FHD
-
+http://104.238.222.251:8989/278940_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
 https://tovocag624.tovocag624.workers.dev/premiere3/tracks-v1a1/mono.m3u8
