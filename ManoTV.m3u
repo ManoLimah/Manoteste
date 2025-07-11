@@ -1192,7 +1192,6 @@ http://7semfronteiras.cc:8080/julia3387/jpc374856/22616
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
 http://7semfronteiras.cc:8080/julia3387/jpc374856/18845
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 http://7semfronteiras.cc:8080/julia3387/jpc374856/18868
 
@@ -1211,8 +1210,11 @@ http://7semfronteiras.cc:8080/julia3387/jpc374856/18869
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
 http://7semfronteiras.cc:8080/julia3387/jpc374856/18870
 
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC SD
+http://7semfronteiras.cc:8080/julia3387/jpc374856/22292
+
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
-http://168.205.55.212:8000/play/a078/index.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/22637
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
 http://7semfronteiras.cc:8080/julia3387/jpc374856/22704
