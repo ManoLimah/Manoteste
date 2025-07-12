@@ -55,7 +55,13 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/301
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
 https://dpetftvwrc.dpetftvwrc.workers.dev/globomg/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
+http://45.134.141.162:3366/stream/globo/mt/master720.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília HD
+http://45.134.141.162:3366/stream/globo/df/master720.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília FHD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/278
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo BA HD
@@ -80,7 +86,7 @@ http://45.134.141.162:3366/stream/globo/ce1/master720.m3u8
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/30968
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
-
+http://45.134.141.162:3366/stream/globo/cur/master720.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Maringa FHD
 
@@ -89,7 +95,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/30968
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/321
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
-
+http://45.134.141.162:3366/stream/globo/man/master720.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
 
@@ -116,7 +122,7 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/895
 http://45.134.141.162:3366/stream/globo/sc1/master.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/TevIGQZ.png" group-title="Canais | GLOBO",Globo TV Liberal Belém 
-
+http://45.134.141.162:3366/stream/globo/bel/master720.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/333
