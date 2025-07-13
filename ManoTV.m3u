@@ -485,6 +485,17 @@ https://cr7v.short.gy/Canal3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 4
 https://cr7v.short.gy/Canal4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 5
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 6
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 7
+https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 8
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
 ############################################################################ Canais | FREE
 
@@ -499,21 +510,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",CazéTV FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-############################################################################ AO VIVO | MUNDIAL DE CLUBES
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES FINAL",CHE X PSG CazéTV 
-https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES FINAL",CHE X PSG Globo
-https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES FINAL",CHE X PSG SporTV
-https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KGiJkrW.png" group-title="ao vivo | MUNDIAL DE CLUBES FINAL",CHE X PSG SporTV
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
 ############################################################################ AO VIVO AGORA 
 
