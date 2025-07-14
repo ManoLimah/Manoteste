@@ -181,13 +181,10 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RJ HD
-
-
-#EXTINF:-1tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP SD
-
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
-https://aovivo.doozytv.com.br/31025556/10161894/chunks.m3u8
+https://02.multicanaistv.xyz/hls/WkNuVWt2eEpCaGhTMFNnaDdPYjkzNFhRWVdPMVpaK21tVDdXVkxTejBWQ0hjY3ljbkdZTm9KWFhqL25ia0dpQzZaQW40VldUTEFCSk1NWXlWc1ZkMnc9PQ,,/master.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RS
 http://15.235.50.115:14522/
@@ -202,7 +199,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band MG HD
-
+http://168.205.87.198:8555/live/1143/123456/19.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band Mato Grosso HD
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
