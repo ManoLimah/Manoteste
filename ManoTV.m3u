@@ -577,16 +577,19 @@ http://7semfronteiras.cc:8080/julia3387/jpc374856/69823
 ############################################################################ CANAIS | DISNEY+
 
 #EXTINF:-1 tvg-id="Disney plus" tvg-name="Disney plus" tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 1 
-http://45.134.141.162:3366/stream/disneyplus/event1/master.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/59969
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 2 
-http://45.134.141.162:3366/stream/disneyplus/event2/master.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/59970
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 3 
-http://45.134.141.162:3366/stream/disneyplus/event3/master.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/59971
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 4 
-http://45.134.141.162:3366/stream/disneyplus/event4/master.m3u8
+http://7semfronteiras.cc:8080/julia3387/jpc374856/297171
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 5
+http://7semfronteiras.cc:8080/julia3387/jpc374856/297172
 
 ############################################################################ CANAIS | MAX
 
