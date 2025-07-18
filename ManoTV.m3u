@@ -1990,10 +1990,11 @@ https://servidor17-5.brlogic.com:8300/live?source=links_page
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h3CwbgQ.png" group-title="RÁDIO",Gavião FM 
 https://stm11.xcast.com.br:11000
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YEV3p7r.png.png" group-title="RÁDIO",Rádio Muriaé Play
+#EXTINF:-1 tvg-logo="https://imgur.com/YEV3p7r.png" group-title="RÁDIO",Rádio Muriaé Play
 https://stream.zeno.fm/d42wceognggtv.m3u3
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WUStL3.png" group-title="RÁDIO",Web Rádio JP
+https://stream.zeno.fm/a7klgcfvvw9uv.m3u
 
 ############################################################################ Canais | VARIEDADES
 
