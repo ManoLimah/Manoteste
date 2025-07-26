@@ -800,16 +800,16 @@ http://maistop.net:80/live/free/free/1.m3u8
 http://15.235.11.7:14146/MultiShowSD
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow FHD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2255
+http://cdn.bomberstream.xyz/huan/multishowhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD 
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/428
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV FHD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/427
+http://cdn.bomberstream.xyz/huan/mtvhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
-
+http://cdn.bomberstream.xyz/huan/bishd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
 http://185.236.183.117:14130/
@@ -840,19 +840,19 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/116
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="Canais | VARIEDADES",TLC HD
-
+http://cdn.bomberstream.xyz/huan/tlchd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
-
+http://cdn.bomberstream.xyz/huan/gnthd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ou3X8zC.png" group-title="Canais | VARIEDADES",Modo Viagem HD
-
+http://cdn.bomberstream.xyz/huan/modoviagemhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://i.imgur.com/X8bDYyO.png" group-title="Canais | VARIEDADES",Receita Fast HD
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AH3uBDj.png" group-title="Canais | VARIEDADES",Food Network HD
-
+http://cdn.bomberstream.xyz/huan/foodnetworkhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV KFood
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -864,7 +864,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e
 https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD
-
+http://cdn.bomberstream.xyz/huan/discoveryturbohd/chunks.m3u8
 
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID SD
 http://15.235.50.112:14115/IDsd
@@ -888,13 +888,13 @@ http://15.235.50.112:14112/
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2212
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel FHD
-http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2115
+http://cdn.bomberstream.xyz/huan/discoverychannelhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
-
+http://cdn.bomberstream.xyz/huan/discoverysciencehd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
-
+http://cdn.bomberstream.xyz/huan/discoverytheaterhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Discovery theater" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater FHD
 
@@ -907,6 +907,9 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2249
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2239
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD²
+http://cdn.bomberstream.xyz/huan/h2hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
 http://cdn.bomberstream.xyz/huan/hgtvhd/chunks.m3u8
@@ -1007,7 +1010,7 @@ http://cdn.bomberstream.xyz/huan/vivahd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-http://br01.p2cdn.ovh:80/962728817/42872/4296492
+
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas FHD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/841
@@ -1111,34 +1114,34 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
-https://03-mcteteu.shop/secret_key/4b9d9e6e909ef0d278c2af2c15fce784.m3u8
+http://cdn.bomberstream.xyz/huan/spacehd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE fHD
-http://cdn.bomberstream.xyz/huan/spacehd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
 http://79.127.238.228:14629/
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD²
-https://03-mcteteu.shop/secret_key/4a40f0a7a241bfac8b3e5cf44cf565e7.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
 http://cdn.bomberstream.xyz/huan/tnthd/chunks.m3u8
 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT FHD
+
+
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
-https://03-mcteteu.shop/secret_key/6150dd099b469e1dbe132caced1eeca6.m3u8
+http://cdn.bomberstream.xyz/huan/tntserieshd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES"  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries FHD
-http://cdn.bomberstream.xyz/huan/tntserieshd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD
 http://79.127.238.228:14647/
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD²
-
+http://cdn.bomberstream.xyz/huan/warnerchannelhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel FHD
-http://br01.p2cdn.ovh:80/962728817/42872/4296418
+
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
 http://79.127.238.228:14551/
@@ -1159,19 +1162,19 @@ http://cdn.bomberstream.xyz/huan/paramounthd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | FILMES E SERIES",USA Network HD
-
+http://cdn.bomberstream.xyz/huan/usahd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oj2sWRk.png" group-title="Canais | FILMES E SERIES",Syfy HD
 
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
-
+http://cdn.bomberstream.xyz/huan/lifetimehd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-https://03-mcteteu.shop/secret_key/8146214f9b8a57a5ac64d27381f6ccd7.m3u8
+http://cdn.bomberstream.xyz/huan/telecineactionhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action FHD
-http://cdn.bomberstream.xyz/huan/telecineactionhd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
 http://cdn.bomberstream.xyz/huan/telecinepipocahd/chunks.m3u8
@@ -1180,13 +1183,13 @@ http://cdn.bomberstream.xyz/huan/telecinepipocahd/chunks.m3u8
 http://cdn.bomberstream.xyz/huan/telecinepremiumhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-https://03-mcteteu.shop/secret_key/8d9dbbe5d4ffff733653a48b4a7b2eb5.m3u8
+http://cdn.bomberstream.xyz/huan/telecinetouchhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
-https://03-mcteteu.shop/secret_key/bdfc1a3f7ee4e3a15a945db928ecec3d.m3u8
+http://cdn.bomberstream.xyz/huan/telecineculthd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-https://03-mcteteu.shop/secret_key/3be2a29659236e81da7d0aea5fae4ed2.m3u8
+http://cdn.bomberstream.xyz/huan/telecinefunhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 http://cdn.bomberstream.xyz/huan/amchd/chunks.m3u8
@@ -1195,7 +1198,7 @@ http://cdn.bomberstream.xyz/huan/amchd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
-https://03-mcteteu.shop/secret_key/ca304ed6cb2d08b7eee03a2df7ba3f7d.m3u8
+
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
 http://185.236.183.118:14115/
@@ -1207,34 +1210,34 @@ http://79.127.238.228:14592/
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-https://03-mcteteu.shop/secret_key/15b08b896a9e898ec542b062b7b27a5c.m3u8
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO FHD
 http://cdn.bomberstream.xyz/huan/hbohd/chunks.m3u8
 
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
-https://03-mcteteu.shop/secret_key/124c10953899360bcabc4311e02a12a9.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO FHD
 
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ fHD
+
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
 http://cdn.bomberstream.xyz/huan/hboplushd/chunks.m3u8
 
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ FHD
+
+
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
-https://03-mcteteu.shop/secret_key/2da25ee3bf3a5cca05bfae5b3e235aab.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 FHD
 http://cdn.bomberstream.xyz/huan/hbo2hd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-https://03-mcteteu.shop/secret_key/f8e73fe8ac26fc94f116c22060fda6fe.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family FHD
 http://15.235.50.112:14192/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
-https://03-mcteteu.shop/secret_key/bde67be4e7f692cbdd2d5c0d87f2ef6e.m3u8
+http://cdn.bomberstream.xyz/huan/hboxtremehd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme FHD
-http://cdn.bomberstream.xyz/huan/hboxtremehd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
 http://cdn.bomberstream.xyz/huan/hbosignature/chunks.m3u8
@@ -1246,10 +1249,10 @@ https://03-mcteteu.shop/secret_key/71068da159da7b0b1b90e59b65510153.m3u8
 http://cdn.bomberstream.xyz/huan/studiouniversalhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
-https://03-mcteteu.shop/secret_key/aed2dd06e8cb2fe1f03a50e62baf5509.m3u8
+http://cdn.bomberstream.xyz/huan/universalchannelhd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel fHD
-http://cdn.bomberstream.xyz/huan/universalhd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",BangBang
 https://abre.ai/lSy5
