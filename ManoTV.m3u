@@ -459,31 +459,85 @@ http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/31031
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 FHD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/487
 
+
 ############################################################################ ao vivo | BRASILEIRÃO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 1
 https://cr7v.short.gy/Canal1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 2
 https://cr7v.short.gy/Canal2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 3
 https://cr7v.short.gy/Canal3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 4
 https://cr7v.short.gy/Canal4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 5
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 6
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 7
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Brasileirão 8
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
+
+############################################################################ AO VIVO | LIBERTADORES 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 1
+https://cr7v.short.gy/Canal1/index.m3u8?mtv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 2
+https://cr7v.short.gy/Canal2/index.m3u8?mtv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 3
+https://cr7v.short.gy/Canal3/index.m3u8?mtv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 4
+https://cr7v.short.gy/Canal4/index.m3u8?mtv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 5
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8?mtv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 6
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8?mtv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 7
+https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8?mtv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Liberta 8
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8?mt
+
+############################################################################ ao vivo | BRASILEIRÃO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 1
+https://cr7v.short.gy/Canal1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | BRASILEIRÃO",Brasa 2
+https://cr7v.short.gy/Canal2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 3
+https://cr7v.short.gy/Canal3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 4
+https://cr7v.short.gy/Canal4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 5
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 6
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 7
+https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PyqxOj.png" group-title="ao vivo | COPA DO BRASIL",Copa do Brasil 8
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
+
 
 ############################################################################ Canais | FREE
 
@@ -567,10 +621,10 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 ############################################################################ CANAIS | DISNEY+
 
 #EXTINF:-1 tvg-id="Disney plus" tvg-name="Disney plus" tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 1 
-http://45.134.141.162:3366/stream/disneyplus/event1/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 2 
-http://45.134.141.162:3366/stream/disneyplus/event2/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | PPV ESPORTES",Disney+ 3 
 http://45.134.141.162:3366/stream/disneyplus/event3/master.m3u8
@@ -584,7 +638,7 @@ http://45.134.141.162:3366/stream/disneyplus/event3/master.m3u8
 ############################################################################ CANAIS | MAX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ HD
-http://7semfronteiras.cc:8080/julia3387/jpc374856/299147
+
 
 #EXTINF:-1 tvg-id="Paramount+ HD" tvg-name="Paramount+ HD" tvg-logo="https://i.imgur.com/AtwQSpz.png" group-title="Canais | PPV ESPORTES",Paramount+ FHD
 
@@ -902,7 +956,7 @@ http://cdn.bomberstream.xyz/huan/discoverytheaterhd/chunks.m3u8
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2249
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD²
-
+http://15.235.11.7:14132/HISTORYSD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
 http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/2239
@@ -1106,7 +1160,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="Canais | REALITY",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-
 
 
 ############################################################################ Canais | FILMES E SERIES
@@ -1468,6 +1521,9 @@ https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg018
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | SÉRIES",XENA 24h
 
+
+#EXTINF:-1 tvg-logo="png" group-title="Canais | SÉRIES",Rookie Blue 
+https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
 
 ############################################################################ Canais | ANIMES
 
@@ -5403,9 +5459,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14513804.mp4
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Guarda Costas e Assassinos
 http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1403130.mp4
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Ordem
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26625693.mp4
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Confia: Sonho de Cria
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34581855.mp4
