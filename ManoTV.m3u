@@ -156,7 +156,7 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
-https://ok595c221h.ok595c221h.workers.dev/bandsp/index.m3u8
+https://sinalpublictv.vercel.app/bandplay/k5NtnzZViMrWiHCLTEu/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band RS
 http://15.235.50.115:14522/
@@ -2787,13 +2787,11 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 HD
-
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 FHD
+http://domainconnect.gd.domaincontrol.com.fastcdn-delivery.lat:80/play/aXZv_zgIFKrqYRHG5C4EC7MA1ETCO5Vd7kXTK9jLwPySNzMiQEv-6m0C_m_1wA_I
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 HD
-
+http://domainconnect.gd.domaincontrol.com.fastcdn-delivery.lat/play/aXZv_zgIFKrqYRHG5C4ECzwwkxP7FSmtNZBDIaogu9zbOMki1vgvqLTNqkMCybSz
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 FHD
 
