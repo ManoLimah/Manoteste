@@ -563,13 +563,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/pla
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES",Woohoo Surf
-https://load1.megafilmeshd.lol/playlist/03a362f8432f9c98e7e0849d20281e66/58dcd135f6e987dee8c8ae7484f9dd12/master.m3u8
+http://cdn.bomberstream.xyz/huan/woohoohd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nk19QkO.png" group-title="Canais | ESPORTES",National Sports Channel 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppym5u9.png" group-title="Canais | ESPORTES",OFF
-https://load1.megafilmeshd.lol/playlist/03a362f8432f9c98e7e0849d20281e66/66d2264cc20fa2ba5cfefaf4ae86bc82/master.m3u8
+http://cdn.bomberstream.xyz/huan/offhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ge-fest" tvg-name="ge-fast" tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Canais | ESPORTES",Ge Fast HD
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
