@@ -21,25 +21,25 @@ http://148.153.194.134/upic/2024/10/08/02/BMjAyNDEwMDgwMjU5NTJfMTUwMDAxNjQyMTAzN
 http://79.127.238.228:14217/
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
-
+http://cdn.bomberstream.xyz/huan/globorjhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
 http://79.127.238.228:14211/
- 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM Sorocaba 
 
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
+http://cdn.bomberstream.xyz/huan/globosphd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM  
+http://meucb.top:80/douglas20102010/Ss12345678/91432.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Nordeste HD
-
+http://meucb.top:80/douglas20102010/Ss12345678/131157.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
-
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
-
+http://meucb.top:80/douglas20102010/Ss12345678/131159.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília FHD
-
+http://meucb.top:80/douglas20102010/Ss12345678/131164.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="Canais | GLOBO",Globo BA HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -51,13 +51,13 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3xAPAkE.png" group-title="Canais | GLOBO",TV Clube HD
+http://meucb.top:80/douglas20102010/Ss12345678/131110.ts
 
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",TV Verde Mares CE FHD
-
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",TV Verde Mares CE HD
+http://meucb.top:80/douglas20102010/Ss12345678/72096.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
-
+http://meucb.top:80/douglas20102010/Ss12345678/72626.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Maringa FHD
 
@@ -78,28 +78,25 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
-
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD²
-
+http://meucb.top:80/douglas20102010/Ss12345678/72017.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Caxias do Sul HD
-
+http://meucb.top:80/douglas20102010/Ss12345678/72014.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Pelotas HD
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/7RU6OC9.png" group-title="Canais | GLOBO",NSC Curitiba FHD
-
+http://meucb.top:80/douglas20102010/Ss12345678/72008.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/TevIGQZ.png" group-title="Canais | GLOBO",Globo TV Liberal Belém 
-
+http://meucb.top:80/douglas20102010/Ss12345678/72071.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
-
+http://meucb.top:80/douglas20102010/Ss12345678/131154.ts
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES FHD
-
+http://meucb.top:80/douglas20102010/Ss12345678/72061.ts
 
 ############################################################################ Canais | REALITY
 
@@ -110,16 +107,13 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 ############################################################################ Canais | RECORD TV
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD
-
-
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP 
-
+http://cdn.bomberstream.xyz/huan/recordtvbahiahd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
-
+http://cdn.bomberstream.xyz/huan/recordtvhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
-
+http://cdn.bomberstream.xyz/huan/recordtvrjhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ FHD
 
@@ -137,7 +131,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RS HD
-
+http://meucb.top:80/douglas20102010/Ss12345678/72974.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdnMTtl.png" group-title="Canais | RECORD TV",TV Tropical 
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
@@ -293,13 +287,13 @@ https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-
+http://cdn.bomberstream.xyz/huan/sportv2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 FHD
 
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
-
+http://cdn.bomberstream.xyz/huan/sportv3/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
 
@@ -527,7 +521,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Canais | ESPORTES",Realmadrid TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L6mLyhD.png" group-title="Canais | ESPORTES",Barça TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6mLyhD.png" group-title="Canais | ESPORTES",Barça One
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8
 
 #EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Canais | ESPORTES",FUEL TV
