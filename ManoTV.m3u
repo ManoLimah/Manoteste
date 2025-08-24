@@ -2653,6 +2653,12 @@ https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/htzprG4.png" group-title="Canais | ABERTO",TV Sol Comunidade
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCaOOL8.png" group-title="Canais | ABERTO",Igreja Mundial SD
+https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b896000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCaOOL8.png" group-title="Canais | ABERTO",Igreja Mundial HD
+https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w1960836974_b1596000.m3u8
+
 ############################################################################ Canais | INTERNACIONAL
 
 #EXTINF:-1  tvg-logo="https://imgur.com/11aNWuU.png" group-title="Canais | INTERNACIONAL",Sic TV
