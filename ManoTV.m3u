@@ -98,6 +98,11 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oF
 
 ############################################################################ Canais | REALITY
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title="Canais | REALITY",Estrela da Casa 1
+https://cr7v.short.gy/ManoTV/esc1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title="Canais | REALITY",Estrela da Casa 2
+https://cr7v.short.gy/ManoTV/esc2/index.m3u8
 
 ############################################################################ Canais | RECORD TV
 
@@ -214,7 +219,7 @@ https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
 https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",BDCTV - TV A Critica
-https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+https://cr7v.short.gy/ManoTV/BDCTV/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",TV Cristal - TV A Crítica TO
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
