@@ -95,13 +95,8 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oF
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
 
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES FHD
-
 
 ############################################################################ Canais | REALITY
-
-
-
 
 
 ############################################################################ Canais | RECORD TV
@@ -219,10 +214,13 @@ https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
 https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",BDCTV - TV A Critica
-https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+https://video01.kshost.com.br:4443/bdctv/bdctv/chunklist_w2004307765.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",TV Cristal - TV A Crítica TO
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiyGlGY.png" group-title="Canais | ABERTO",RTN TV SP HD
-
+https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV CEARÁ" tvg-name="TV CEARÁ" tvg-logo="https://i.imgur.com/IR0UllK.png" group-title="Canais | ABERTO",TV Ceará HD
 
