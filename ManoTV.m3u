@@ -376,7 +376,7 @@ http://104.238.222.251:8989/278940_.m3u8
 http://45.93.9.150/pre2/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-http://46.151.194.72:80/live/861296629/K376B5181g/508.m3u8
+http://104.238.222.251:8989/278941_.m3u8?ppv4
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 FHD
 http://45.93.9.150/pre3/index.m3u8
@@ -394,16 +394,16 @@ http://104.238.222.251:8989/278935_.m3u8?ppv5
 http://45.93.9.150/pre5/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-http://46.151.194.72:80/live/861296629/K376B5181g/516.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 FHD
 http://45.93.9.150/pre6/index.m3u8
 
+#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 FHD
+
+
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
-http://46.151.194.72:80/live/861296629/K376B5181g/519.m3u8
+http://45.93.9.150/pre7/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 FHD
-http://45.93.9.150/pre7/index.m3u8
+
 
 
 ############################################################################ ao vivo | BRASILEIRÃO
