@@ -2001,9 +2001,6 @@ https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/brj5bHE.png" group-title="Canais | ABERTO",LASSTV 
 https://tv02.zas.media:1936/lasstv/lasstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Canais | ABERTO",AmazonSat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7FvEEO.png" group-title="Canais | ABERTO",BR Super TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
 
@@ -2083,6 +2080,9 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="Canais | ABERTO",Life Channel Brasil
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7ikR69.png" group-title="Canais | ABERTO",TV Diário do Sertão 
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="Canais | ABERTO",Sou TV.
 https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
 
@@ -2108,32 +2108,32 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/21W4K2J.png" group-title="Canais | ABERTO",TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="Canais | ABERTO",TERRA VIVA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Canais | ABERTO",AmazonSat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
 
+#EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="Canais | ABERTO",TERRA VIVA HD
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/82
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isJAvqM.png" group-title="Canais | ABERTO",Canal do Boi HD
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/7
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNiNQFX.png" group-title="Canais | ABERTO",TV Notícias Agrícolas
+https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | ABERTO",Agro Canal
 https://aovivo.equipea.com.br:5443/aovivort/streams/RmvrJTkqJYoGD6gD1725309082818.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",Agro Plus 
-https://video09.logicahost.com.br/agroplus/agroplus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Canais | ABERTO",Canal do Criador
-
-
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/brn/linear_channel/logo/711x400/ZP4EdKIMjgiFEgKLr5giAheqKZQ0crZlae45JV670m8.png" group-title="Canais | ABERTO",Canal Rural
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Canais | ABERTO",Canal Rural HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14073 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Canais | ABERTO",Canal Rural
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Canais | ABERTO",Canal Rural HD²
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",AgroMais HD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3g7ijoK.png" group-title="Canais | ABERTO",XR HEALTH BRASIL
-http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Canais | ABERTO",Agro Plus 
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbxAkds.png" group-title="Canais | ABERTO",TV Brasil Central
 https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
