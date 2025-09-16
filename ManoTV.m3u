@@ -107,6 +107,14 @@ https://cr7v.short.gy/ManoTV/esc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title="Canais | REALITY",Mosaico 
 http://uniflow.zip:80/live/861296629/K376B5181g/582798.m3u8
 
+############################################################################ Canais | REALITY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgWDZuX.png" group-title="Canais | REALITY",A Fazenda Cam 1
+https://cr7v.short.gy/ManoTV/af1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgWDZuX.png" group-title="Canais | REALITY",A Fazenda Cam 2
+https://cr7v.short.gy/ManoTV/af2/index.m3u8
+
 ############################################################################ Canais | RECORD TV
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD
@@ -121,7 +129,7 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ FHD
 
 
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo"" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Juara HD
@@ -311,7 +319,7 @@ https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 https://cr7v.short.gy/live25/spn/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
-
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/287.m3u8
  
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 http://46.151.196.223:14438/
