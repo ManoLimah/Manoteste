@@ -104,8 +104,6 @@ https://cr7v.short.gy/ManoTV/esc1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title="Canais | REALITY",Estrela da Casa 2
 https://cr7v.short.gy/ManoTV/esc2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMvY4wb.png" group-title="Canais | REALITY",Mosaico 
-http://uniflow.zip:80/live/861296629/K376B5181g/582798.m3u8
 
 ############################################################################ Canais | REALITY
 
@@ -200,7 +198,7 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://copanordeste2025.brasilstream.com.br/hls/copanordeste2025/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/tyFtNYn.png" group-title="Canais | SBT",TV ARATU HD²
-https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT CIDADE VERDE FHD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
