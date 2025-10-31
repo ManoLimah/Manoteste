@@ -66,10 +66,10 @@ http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
-http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/435129859/4231273
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
-http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/435129859/4231439
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",Globo Maranhão HD 
 
@@ -78,25 +78,25 @@ http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/4351298
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
-http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/435129859/4231467
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Caxias do Sul HD
-http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/435129859/4231448
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Pelotas HD
-http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/435129859/4231463
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/7RU6OC9.png" group-title="Canais | GLOBO",NSC Curitiba HD
-http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/435129859/4231485
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/TevIGQZ.png" group-title="Canais | GLOBO",Globo TV Liberal Belém 
-http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/435129859/4231347
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES SD
-http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/435129859/4231244
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
-http://gumid23.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/127946341/435129859/4231243
+
 
 ############################################################################ Canais | REALITY
 
@@ -237,7 +237,7 @@ https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://i.imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário HD
 
 
-#EXTINF:-1 tvg-id="TV MAANAIM" tvg-name="TV MAANAIM" tvg-logo="https://i.imgur.com/71mif2R.png" group-title="Canais | ABERTO",TV
+#EXTINF:-1 tvg-id="TV MAANAIM" tvg-name="TV MAANAIM" tvg-logo="https://i.imgur.com/71mif2R.png" group-title="Canais | ABERTO",TV Maanaim
 https://58c8a6b3c74e2.streamlock.net:1936/maranatalive/smil:maranatalive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/tve.png" group-title="Canais | ABERTO",TVE Bahia HD
