@@ -358,9 +358,6 @@ http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD²
 http://46.151.196.223:14468/
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate FHD
-https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/1cc9547b5ce2e83687d1cd7a407e027e/combate.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
 https://cr7v.short.gy/manofree/UFC/tracks-v2a1/mono.m3u8
 
@@ -379,43 +376,28 @@ https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD²
 http://104.238.222.251:8989/278939_.m3u8
 
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
-
-
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
 http://104.238.222.251:8989/278940_.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 FHD
-
+https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
 http://104.238.222.251:8989/278941_.m3u8?ppv4
 
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 FHD
-https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/26799382557e9333e80990f347e14c84/premiere3.m3u8
+https://cr7v.short.gy/Canal3/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere4 HD" tvg-name="Premiere4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/26799382557e9333e80990f347e14c84/premiere4.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE4 HD" tvg-name="PREMIERE4 HF" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
-
+https://cr7v.short.gy/Canal4/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE5 HD" tvg-name="PREMIERE5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
-https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/fbd28122c4f78e454da200c8d7110881/premiere5.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE5 HD" tvg-name="PREMIERE5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 FHD
-
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-name="PREMIERE6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/26799382557e9333e80990f347e14c84/premiere6.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-name="PREMIERE6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 FHD
-
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-name="PREMIERE7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
-https://dm5-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/6394b75ac874a44f352b272a602d72f3/premiere7.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-name="PREMIERE7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 FHD
 
 
 
