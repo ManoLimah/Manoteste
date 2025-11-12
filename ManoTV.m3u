@@ -116,14 +116,14 @@ https://cr7v.short.gy/ManoTV/af2/index.m3u8
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV BA HD
 
 
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Campinas 
+http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62200.m3u8
+
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62201
+http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62201.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
-
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ FHD
-
+https://gerenciar.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
@@ -1815,7 +1815,11 @@ https://stream.zeno.fm/d42wceognggtv.m3u3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hDsCVEY.png" group-title="RÁDIO",Web Rádio JP
 https://stream.zeno.fm/a7klgcfvvw9uv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Rádio Cidade BA
+https://streaming.livespanel.com:20959/cidadefmlem
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Mix Bahia 
+https://8175.brasilstream.com.br/stream
 
 ############################################################################ Canais | VARIEDADES
 
