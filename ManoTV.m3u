@@ -123,6 +123,9 @@ http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC
 http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62201.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
+http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/450418.m3u8
+
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD²
 https://gerenciar.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
@@ -131,10 +134,10 @@ https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Juara HD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Brasília 
-
-
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MG 
 
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RS HD
@@ -276,6 +279,9 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura RN FHD
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="Canais | ABERTO",Web Rádio Lairton Teclas
+https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
+
 ############################################################################ CANAIS SporTV 
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
@@ -355,18 +361,12 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oF
 https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD²
-http://104.238.222.251:8989/278939_.m3u8
+https://cr7v.short.gy/Canal1/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-http://104.238.222.251:8989/278940_.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 FHD
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-http://104.238.222.251:8989/278941_.m3u8?ppv4
-
-#EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 FHD
 https://cr7v.short.gy/Canal3/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere4 HD" tvg-name="Premiere4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
@@ -1569,6 +1569,14 @@ http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KEQvBuF.png" group-title="Canais | INFANTIL",Sonic
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
 
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1NPDhgI.png" group-title="Canais | INFANTIL",TV Itapetinga
+https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/EXJhYFi.png" group-title="Canais | INFANTIL",TV Itapetinga Kids
+https://stmv2.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8?hls_ctx=6w6o1x4w
+
+
 ################################################################################# Canais INFANTIL 24h
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Chapolin Colorado 
@@ -1820,6 +1828,9 @@ https://streaming.livespanel.com:20959/cidadefmlem
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Mix Bahia 
 https://8175.brasilstream.com.br/stream
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="Canais | RÁDIO",Web Rádio Lairton Teclas
+https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
 
 ############################################################################ Canais | VARIEDADES
 
