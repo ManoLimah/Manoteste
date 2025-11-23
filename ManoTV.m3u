@@ -29,8 +29,8 @@ http://79.127.238.228:14211/
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD²
 http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62196.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM  
-
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",Globo SP FHD
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/286.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Nordeste HD
 
@@ -299,7 +299,7 @@ http://104.238.222.251:8989/278944_.m3u8
 
 ############################################################################ CANAIS ESPN
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD²
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
 https://cr7v.short.gy/live25/spn/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
@@ -318,7 +318,7 @@ http://46.151.196.223:14444/
 http://46.151.196.223:14450/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-http://audirect.fun:80/tanaka/302718/2361159.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
@@ -329,7 +329,7 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 https://02.arlivre.online/bandsport/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports FHD
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62206
+http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62206.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6LMMa5f.png" group-title="Canais | ESPORTES",DAZN F1
 
@@ -663,7 +663,7 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 ############################################################################ Canais | VARIEDADES
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD 
-http://15.235.11.7:14146/MultiShowSD
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/280.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
 
@@ -732,7 +732,10 @@ http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62216
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62215
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/281.m3u8
+
+#EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD²
+http://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62215.m3u8
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel FHD
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
@@ -850,7 +853,7 @@ http://79.127.238.228:14455/
 
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/290.m3u8
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas FHD
 
@@ -2805,6 +2808,109 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E10
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x10.mp4
 
+################################################################# O MANIPULADO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E01
+http://shd13.oneplayer.site/SHD13/239385/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E02
+http://shd13.oneplayer.site/SHD13/239385/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E03
+http://shd13.oneplayer.site/SHD13/239385/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E04
+http://shd13.oneplayer.site/SHD13/239385/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E05
+http://shd13.oneplayer.site/SHD13/239385/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E06
+http://shd13.oneplayer.site/SHD13/239385/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E07
+http://shd13.oneplayer.site/SHD13/239385/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E08
+http://shd13.oneplayer.site/SHD13/239385/1x8.mp4
+
+
+############################################################################ Desprazer em Te Conhecer S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E01
+http://shd13.oneplayer.site/SHD13/285770/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E02
+http://shd13.oneplayer.site/SHD13/285770/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E03
+http://shd13.oneplayer.site/SHD13/285770/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E04
+http://shd13.oneplayer.site/SHD13/285770/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E05
+http://shd13.oneplayer.site/SHD13/285770/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E06
+http://shd13.oneplayer.site/SHD13/285770/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E07
+http://shd13.oneplayer.site/SHD13/285770/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E08
+http://shd13.oneplayer.site/SHD13/285770/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E09
+http://shd13.oneplayer.site/SHD13/285770/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E10
+http://shd13.oneplayer.site/SHD13/285770/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E11
+http://shd13.oneplayer.site/SHD13/285770/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E12
+http://shd13.oneplayer.site/SHD13/285770/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E13
+http://shd13.oneplayer.site/SHD13/285770/1x13.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E14
+http://shd13.oneplayer.site/SHD13/285770/1x14.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E15
+http://shd13.oneplayer.site/SHD13/285770/1x15.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/seT01oP.png" group-title="Dorama | DESPRAZER EM TE CONHECER S01",S01 E16
+http://shd13.oneplayer.site/SHD13/285770/1x16.mp4
+
+
+################################################################# Românticos Anônimos S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgCiBDo.png" group-title="Dorama | ROMÂNTICOS ANÔNIMOS S01",S01 E01
+http://shd13.oneplayer.site/SHD13/249054/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgCiBDo.png" group-title="Dorama | ROMÂNTICOS ANÔNIMOS S01",S01 E02
+http://shd13.oneplayer.site/SHD13/249054/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgCiBDo.png" group-title="Dorama | ROMÂNTICOS ANÔNIMOS S01",S01 E03
+http://shd13.oneplayer.site/SHD13/249054/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgCiBDo.png" group-title="Dorama | ROMÂNTICOS ANÔNIMOS S01",S01 E04
+http://shd13.oneplayer.site/SHD13/249054/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgCiBDo.png" group-title="Dorama | ROMÂNTICOS ANÔNIMOS S01",S01 E05
+http://shd13.oneplayer.site/SHD13/249054/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgCiBDo.png" group-title="Dorama | ROMÂNTICOS ANÔNIMOS S01",S01 E06
+http://shd13.oneplayer.site/SHD13/249054/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgCiBDo.png" group-title="Dorama | ROMÂNTICOS ANÔNIMOS S01",S01 E07
+http://shd13.oneplayer.site/SHD13/249054/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgCiBDo.png" group-title="Dorama | ROMÂNTICOS ANÔNIMOS S01",S01 E08
+http://shd13.oneplayer.site/SHD13/249054/1x8.mp4
 
 ################################################################# GOSTINHO DE AMOR S01
 
@@ -5410,11 +5516,39 @@ http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SH
 
 ############################################################################ FILMES
 
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Arte das Oito Armas
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt10079652.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Caçada Final
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28637902.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Veterano
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15431864.mp4
+
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Trust
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31314745.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Paris Errada
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt33039440.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",REBEL RIDGE
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11301886.mp4
+
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Missão Resgate: Vingança
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27621210.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Corra Que a Polícia Vem Aí!
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt3402138.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bater ou Correr em Londres
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0300471.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bater ou Correr
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0184894.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Willy's Wonderland - Parque Maldito
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8114980.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Velocidade Total
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27357183.mp4
@@ -6021,4 +6155,5 @@ http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD/FHD5/tt0092746.m
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Acampamento do pecado
 http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt8949056.mp4
+
 
