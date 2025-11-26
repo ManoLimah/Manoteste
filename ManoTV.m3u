@@ -497,15 +497,18 @@ https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 ############################################################################ CANAIS | MAX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 1
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 2
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
+https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 3
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
+https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 4
+https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 5
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
 ############################################################################  REPRISE
