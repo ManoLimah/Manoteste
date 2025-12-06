@@ -692,8 +692,14 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD 
 http://domainforxc.cfd:80/live/186320718/c348w1911c/377243.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV FHD
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow FHD
 http://domainforxc.cfd:80/live/186320718/c348w1911c/377241.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
+http://domainforxc.cfd:80/live/186320718/c348w1911c/2503.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV FHD
+http://domainforxc.cfd:80/live/186320718/c348w1911c/21258.m3u8
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
 
