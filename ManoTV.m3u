@@ -101,16 +101,16 @@ http://onebox.sbs:80/tanaka/302718/7746944.ts
 
 ############################################################################ Canais | REALITY
 
+#EXTINF:-1 tvg-logo="jpg" group-title="Canais | REALITY",BBB 26 em breve
+https://cr7v.short.gy/ManoTV/bbb1/index.m3u8
 
+#EXTINF:-1 tvg-logo="http.jpg" group-title="Canais | REALITY",BBB 26 aguarde
+https://cr7v.short.gy/ManoTV/BBB2/index.m3u8
 
 
 ############################################################################ Canais | REALITY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgWDZuX.png" group-title="Canais | REALITY",A Fazenda Cam 1
-https://cr7v.short.gy/ManoTV/af1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgWDZuX.png" group-title="Canais | REALITY",A Fazenda Cam 2
-https://cr7v.short.gy/ManoTV/af2/index.m3u8
 
 ############################################################################ Canais | RECORD TV
 
@@ -131,6 +131,9 @@ https://gerenciar.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Conquista HD
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | ABERTO",Record Internacional 
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV Juara HD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -184,8 +187,8 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="Canais | SBT",+SBT HD
 https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT RJ YT 24h
-https://live.utojuli.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/F35mKJK.png" group-title="Canais | SBT",TV Difusora (SBT São Luís) 
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
@@ -261,6 +264,9 @@ https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Canais | ABERTO",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LMeLMRn.png" group-title="Canais | ABERTO",Canal Educação 
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2azaf982" group-title="Canais | ABERTO",Guia TV
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
