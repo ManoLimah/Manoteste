@@ -101,10 +101,10 @@ http://onebox.sbs:80/tanaka/302718/7746944.ts
 
 ############################################################################ Canais | REALITY
 
-#EXTINF:-1 tvg-logo="jpg" group-title="Canais | REALITY",BBB 26 em breve
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 em breve
 https://cr7v.short.gy/ManoTV/bbb1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http.jpg" group-title="Canais | REALITY",BBB 26 aguarde
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 aguarde
 https://cr7v.short.gy/ManoTV/BBB2/index.m3u8
 
 
