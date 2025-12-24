@@ -694,10 +694,10 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 ############################################################################ Canais | VARIEDADES
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD 
-http://45.235.0.78/Multishow/playlist.m3u8
+http://onebox.sbs:80/tanaka/302718/7698368.ts
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow FHD
-
+http://onebox.sbs:80/tanaka/302718/7698369.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
 http://45.235.0.78/MTV/playlist.m3u8
@@ -1033,7 +1033,7 @@ http://45.235.0.78/Syfy/playlist.m3u8
 http://45.235.0.78/Lifetime/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-http://45.235.0.78/Telecine_Action/playlist.m3u8
+http://onebox.sbs:80/tanaka/302718/7750014.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
 http://200.4.96.59:8825/play/a03k/index.m3u8
@@ -1065,26 +1065,26 @@ http://45.235.0.78/Cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164950
 
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD²
+http://onebox.sbs:80/tanaka/302718/7690046.ts
 
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD
+http://onebox.sbs:80/tanaka/302718/7753428.ts
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
-
+http://onebox.sbs:80/tanaka/302718/7690052.ts
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-
+http://onebox.sbs:80/tanaka/302718/7690049.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
-
+http://onebox.sbs:80/tanaka/302718/7690034.ts
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
-
+http://onebox.sbs:80/tanaka/302718/7690037.ts
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
-http://45.235.0.78/Studio_Universal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal FHD
-
+http://onebox.sbs:80/tanaka/302718/7692289.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
 http://45.235.0.78/Universal_TV/playlist.m3u8
@@ -1510,16 +1510,16 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon HD
-http://domainforxc.cfd:80/live/186320718/c348w1911c/367323.m3u8
+http://45.235.0.78/Nickelodeon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="png" group-title="Canais | INFANTIL",Nick jr. HD
-http://domainforxc.cfd:80/live/186320718/c348w1911c/367322.m3u8
+http://45.235.0.78/Nick_Jr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
-http://domainforxc.cfd:80/live/186320718/c348w1911c/377235.m3u8
+http://45.235.0.78/Gloobinho/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
-http://domainforxc.cfd:80/live/186320718/c348w1911c/377230.m3u8
+http://45.235.0.78/Gloob/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/15
@@ -1528,12 +1528,9 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/15
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-http://domainforxc.cfd:80/live/186320718/c348w1911c/367317.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD²
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Canais | INFANTIL",TRU TV
@@ -1549,10 +1546,10 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
-http://domainforxc.cfd:80/live/186320718/c348w1911c/367320.m3u8
+http://45.235.0.78/Discovery_Kids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
-
+http://onebox.sbs:80/tanaka/302718/7689965.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Canais | INFANTIL",Léo e Lully
 
@@ -1590,7 +1587,7 @@ https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD
-http://domainforxc.cfd:80/live/186320718/c348w1911c/376345.m3u8
+http://onebox.sbs:80/tanaka/302718/7689963.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM FHD
 
@@ -2530,7 +2527,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png" group-title="Canais | INTERNACIONAL",Sic Noticias
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp" group-title="Canais | INTERNACIONAL",TVi
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
