@@ -234,6 +234,9 @@ https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiyGlGY.png" group-title="Canais | ABERTO",RTN TV SP HD
 https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qU1cTOi.png" group-title="Canais | ABERTO",Rede Meio
+https://maystreaming.cloudecast.com/redemeio/index.m3u8
+
 #EXTINF:-1 tvg-id="TV CEARÁ" tvg-name="TV CEARÁ" tvg-logo="https://i.imgur.com/IR0UllK.png" group-title="Canais | ABERTO",TV Ceará HD
 
 
@@ -1047,7 +1050,7 @@ http://45.235.0.78/AMC/playlist.m3u8
 http://45.235.0.78/Cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
-https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/f40817a14883409a50284540b380b23c/megapix.m3u8
+https://cr7v.short.gy/ManoTV/HBO/temporário/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164950
@@ -2815,6 +2818,130 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNAgbnl.png" group-title="Série | TRAPPED S02",S02 E10
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/64852/2x10.mp4
 
+################################################################# SPEED AND LOVE S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E01
+http://shd13.oneplayer.site/SHD13/279041/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E02
+http://shd13.oneplayer.site/SHD13/279041/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E03
+http://shd13.oneplayer.site/SHD13/279041/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E04
+http://shd13.oneplayer.site/SHD13/279041/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E05
+http://shd13.oneplayer.site/SHD13/279041/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E06
+http://shd13.oneplayer.site/SHD13/279041/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E07
+http://shd13.oneplayer.site/SHD13/279041/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E08
+http://shd13.oneplayer.site/SHD13/279041/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E09
+http://shd13.oneplayer.site/SHD13/279041/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E10
+http://shd13.oneplayer.site/SHD13/279041/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E11
+http://shd13.oneplayer.site/SHD13/279041/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4Hj5bZ.png" group-title="Dorama | SPEED AND LOVE S01",S01 E12
+http://shd13.oneplayer.site/SHD13/279041/1x12.mp4
+
+
+################################################################# PRO BONO S01
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E01
+http://shd13.oneplayer.site/SHD13/284744/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E02
+http://shd13.oneplayer.site/SHD13/284744/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E03
+http://shd13.oneplayer.site/SHD13/284744/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E0
+http://shd13.oneplayer.site/SHD13/284744/1x.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E04
+http://shd13.oneplayer.site/SHD13/284744/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E05
+http://shd13.oneplayer.site/SHD13/284744/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E06
+http://shd13.oneplayer.site/SHD13/284744/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E07
+http://shd13.oneplayer.site/SHD13/284744/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E08
+http://shd13.oneplayer.site/SHD13/284744/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E09
+http://shd13.oneplayer.site/SHD13/284744/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E10
+http://shd13.oneplayer.site/SHD13/284744/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E11
+http://shd13.oneplayer.site/SHD13/284744/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E12
+http://shd13.oneplayer.site/SHD13/284744/1x12.mp4
+
+################################################################# BEIJO EXPLOSIVO S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E01
+http://shd13.oneplayer.site/SHD13/281013/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E02
+http://shd13.oneplayer.site/SHD13/281013/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E03
+http://shd13.oneplayer.site/SHD13/281013/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E04
+http://shd13.oneplayer.site/SHD13/281013/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E05
+http://shd13.oneplayer.site/SHD13/281013/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E06
+http://shd13.oneplayer.site/SHD13/281013/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E07
+http://shd13.oneplayer.site/SHD13/281013/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E08
+http://shd13.oneplayer.site/SHD13/281013/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E09
+http://shd13.oneplayer.site/SHD13/281013/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E10
+http://shd13.oneplayer.site/SHD13/281013/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E11
+http://shd13.oneplayer.site/SHD13/281013/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E12
+http://shd13.oneplayer.site/SHD13/281013/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E13
+http://shd13.oneplayer.site/SHD13/281013/1x13.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKKVPuy.png" group-title="Dorama | BEIJO EXPLOSIVO S01",S01 E14
+http://shd13.oneplayer.site/SHD13/281013/1x14.mp4
+
 ################################################################# O MANIPULADO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E01
@@ -2840,6 +2967,18 @@ http://shd13.oneplayer.site/SHD13/239385/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E08
 http://shd13.oneplayer.site/SHD13/239385/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E09
+http://shd13.oneplayer.site/SHD13/239385/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E10
+http://shd13.oneplayer.site/SHD13/239385/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E11
+http://shd13.oneplayer.site/SHD13/239385/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di2Bx9W.png" group-title="Dorama | O MANIPULADO S01",S01 E12
+http://shd13.oneplayer.site/SHD13/239385/1x12.mp4
 
 
 ############################################################################ Desprazer em Te Conhecer S01
@@ -3969,28 +4108,28 @@ http://shd13.oneplayer.site/SHD13/248830/1x10.mp4
 ################################################################# Carême – O Rebelde da Culinária S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsqM3Ib.png" group-title="Series | Carême – O Rebelde da Culinária S01",S01 E01
-http://shd12.oneplayer.site/token/SHD13/231001/1x1.mp4
+http://shd13.oneplayer.site/SHD13/231001/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsqM3Ib.png" group-title="Series | Carême – O Rebelde da Culinária S01",S01 E02
-http://shd12.oneplayer.site/token/SHD13/231001/1x2.mp4
+http://shd13.oneplayer.site/SHD13/231001/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsqM3Ib.png" group-title="Series | Carême – O Rebelde da Culinária S01",S01 E03
-http://shd12.oneplayer.site/token/SHD13/231001/1x3.mp4
+http://shd13.oneplayer.site/SHD13/231001/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsqM3Ib.png" group-title="Series | Carême – O Rebelde da Culinária S01",S01 E04
-http://shd12.oneplayer.site/token/SHD13/231001/1x4.mp4
+http://shd13.oneplayer.site/SHD13/231001/1x4.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsqM3Ib.png" group-title="Series | Carême – O Rebelde da Culinária S01",S01 E05
-http://shd12.oneplayer.site/token/SHD13/231001/1x5.mp4
+http://shd13.oneplayer.site/SHD13/231001/1x5.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsqM3Ib.png" group-title="Series | Carême – O Rebelde da Culinária S01",S01 E06
-http://shd12.oneplayer.site/token/SHD13/231001/1x6.mp4
+http://shd13.oneplayer.site/SHD13/231001/1x6.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsqM3Ib.png" group-title="Series | Carême – O Rebelde da Culinária S01",S01 E07
-http://shd12.oneplayer.site/token/SHD13/231001/1x7.mp4
+http://shd13.oneplayer.site/SHD13/231001/1x7.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsqM3Ib.png" group-title="Series | Carême – O Rebelde da Culinária S01",S01 E08
-http://shd12.oneplayer.site/token/SHD13/231001/1x8.mp4
+http://shd13.oneplayer.site/SHD13/231001/1x8.mp4
 
 
 ############################################################################ O MELHOR INFARTO DA MINHA VIDA  01
@@ -5523,6 +5662,45 @@ http://shd1.oneplayer.site/y45y456y45y54eytg345t4rfwserdfwe4rtrf34t65435redso/SH
 
 ############################################################################ FILMES
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Jogos de Sedução
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31030120.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Desastre no Voo US57
+ertg43r5g34ty34yt543t43wer234t34y3s7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Duquesa Vingadora
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18300732.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",100 Coisas Para Fazer Antes de Virar Zumbi
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt20672534.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Gatos, Fios Dentais e Amassos
+http://hd5.oneplayer.site/token/FHD5/tt0963743.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Meia-irmã Feia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29344903.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Troll da Montanha 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29232158.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Natal Bem Jonas Brothers
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35600079.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Veterano
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15431864.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Outro Amor Fora do Tempo
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35672930.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Chainsaw Man – O Filme: Arco da Reze
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30472557.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Melhor Fim de Semana de Todos
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14827898.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Humane: Até Onde O Ser Humano Pode Chegar
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt16280912.mp4
+
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Arte das Oito Armas
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt10079652.mp4
 
@@ -5532,8 +5710,13 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28637902.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Veterano
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15431864.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Meu Namorado é um Zumbi 
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1588173.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Trust
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Nós Somos Zumbis
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5478456.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Trust
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31314745.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Paris Errada
@@ -6162,5 +6345,4 @@ http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD/FHD5/tt0092746.m
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Acampamento do pecado
 http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt8949056.mp4
-
 
