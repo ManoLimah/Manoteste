@@ -2695,7 +2695,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
-
 ############################################################################ NCIS: Tony & Ziva S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qn3en2G.png" group-title="Série | NCIS: Tony & Ziva S01",S01 E01
@@ -2867,9 +2866,6 @@ http://shd13.oneplayer.site/SHD13/284744/1x2.mp4
 
 #EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E03
 http://shd13.oneplayer.site/SHD13/284744/1x3.mp4
-
-#EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E0
-http://shd13.oneplayer.site/SHD13/284744/1x.mp4
 
 #EXTINF:-1 tvg-logo="https://i.Imgur.com/6aM0uv6.png" group-title="Dorama | PRO BONO S01",S01 E04
 http://shd13.oneplayer.site/SHD13/284744/1x4.mp4
