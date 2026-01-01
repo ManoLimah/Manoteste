@@ -11,7 +11,7 @@ https://abre.ai/canaldoarmp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0AVLnGG.png" group-title="QUER UM TEST CHAMA",Whats 75991634025
 https://abre.ai/canaldocliente7mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",22/12/2025
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",01/01/2026
 https://abre.ai/manotv8mp4
 
 
@@ -2556,25 +2556,25 @@ https://stitcher.pluto.tv/stitch/hls/channel/66c45afaa72e7b0008a2b153/master.m3u
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-name="SPORTTV 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",SportTV 1 HD
-
+http://148.113.160.49:14458/
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-name="SPORTTV 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",SportTV 1 FHD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167742
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",SportTV 2 HD
-https://stream1.freetv.fun/sport-tv2-1.ctv
+http://148.113.160.49:14454/
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",SportTV 2 FHD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167743
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",SportTV 3 HD
-https://stream1.freetv.fun/sport-tv3-1.ctv
+http://148.113.160.49:14451/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",SportTV 3 FHD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167744
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Canais | INTERNACIONAL",SportTV 4 HD
-https://stream1.freetv.fun/sport-tv4-1.ctv
+http://148.113.160.49:14449/
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Canais | INTERNACIONAL",SportTV 4 FHD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167745
@@ -2586,11 +2586,14 @@ http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167745
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 HD
+http://148.113.160.49:14475/
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 HD²
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/35264
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 HD
-
+http://148.113.160.49:14472/
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 FHD
 
@@ -2608,7 +2611,7 @@ http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167749
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167750
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NQ3Zpxi.png" group-title="Canais | INTERNACIONAL",Eleven sports 5 HD
-
+http://148.113.160.49:14464/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NQ3Zpxi.png" group-title="Canais | INTERNACIONAL",Eleven sports 5 FHD
 
