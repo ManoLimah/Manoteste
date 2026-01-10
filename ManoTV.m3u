@@ -97,11 +97,11 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 ############################################################################ Canais | REALITY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 em breve
-https://cr7v.short.gy/ManoTV/bbb1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 Cam 1
+https://cr7v.short.gy/ManoTV-Free/ManoTV1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 aguarde
-https://cr7v.short.gy/ManoTV/BBB2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 Cam 2
+https://cr7v.short.gy/ManoTV-Free/ManoTV2/index.m3u8
 
 
 ############################################################################ Canais | REALITY
@@ -337,11 +337,14 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 
 ############################################################################ CANAIS ESPORTES
 
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports
+http://45.235.0.78:80/Band_Sports/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
 http://45.235.0.78/Band_Sports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports FHD
-https://02.arlivre.online/bandsport/index.m3u8
+http://200.4.96.59:8825/play/a06c/62074302.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6LMMa5f.png" group-title="Canais | ESPORTES",DAZN F1
 
@@ -2038,7 +2041,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8?Ma
 #EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="Canais | ABERTO", Rede Vida
 https://aovivo.doozytv.com.br/31025556/10150829/chunks.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/uJfsfJV.png" group-title="Canais | ABERTO",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 
@@ -2046,10 +2048,13 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0BoUkWv.png " group-title="Canais | ABERTO",TV LITORAL 
-https://cdnhd.iblups.com/hls/FU91GRJ5XT.m3u8
+https://srv2.tvmais.net.br/hls/tvlitoral/1_0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png " group-title="Canais | ABERTO",TV LITORAL RN
-https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w1263783526.m3u8
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png " group-title="Canais | ABERTO",TV LITORAL Macau
+https://video10.logicahost.com.br/zapnovelas/zapnovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="Canais | ABERTO",Soul Cine Clube
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
@@ -2356,7 +2361,7 @@ https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
 https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="Canais | ABERTO",O Dia TV
-https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BJVNmJv.png" group-title="Canais | ABERTO",CATVE 2
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
