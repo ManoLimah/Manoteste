@@ -373,17 +373,15 @@ https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
 
 ############################################################################ CANAIS PREMIERE
 
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes SD
-http://45.235.0.78/Premiere_Clubes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD²
 https://cr7v.short.gy/Canal1/index.m3u8
 
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
+https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
+https://cr7v.short.gy/Canal2/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
 https://cr7v.short.gy/Canal3/index.m3u8
@@ -398,7 +396,7 @@ https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-name="PREMIERE7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
-http://45.235.0.78/Premiere_7/playlist.m3u8
+
 
 
 ############################################################################ ao vivo | BRASILEIRÃO
