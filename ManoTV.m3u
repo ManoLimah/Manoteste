@@ -1366,6 +1366,12 @@ https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z 24
+http://15.235.9.200:14885/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Gt 24h
+http://15.235.9.200:14888/
+
 ############################################################################ Canais | INFANTIL
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x0Ugzq4.png" group-title="Canais | INFANTIL",Dora A aventura
