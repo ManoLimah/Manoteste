@@ -1276,6 +1276,10 @@ http://15.235.9.200:14888/
 
 ############################################################################ Canais | INFANTIL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Canais | INFANTIL",,🔴 Os Simpsons 24h
+http://15.235.9.200:14984/
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/clouding.png" group-title="Canais | INFANTIL",Clouding
 https://stmv.webtvninjas.com.br/abner5597/abner5597/playlist.m3u8
 
