@@ -933,6 +933,10 @@ http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
 
 
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC SD
+https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164938
 
@@ -1023,22 +1027,22 @@ https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 ############################################################################ Canais | HALLO!
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="Canais | HALLO!",Hallo! Series
-https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOSERIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lFkmVqX.png" group-title="Canais | HALLO!",Hallo! Doramas
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z8BnjPs.png" group-title="Canais | HALLO!",Hallo! Classic
-https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOCLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q16ZNjl.png" group-title="Canais | HALLO!",Hallo! Movies
-https://cdn-3.nxplay.com.br/HALLOMOVIES/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais | HALLO!",Hallo Anime HD²
-https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFkmVqX.png" group-title="Canais | HALLO!",Hallo! Doc.
-https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
+https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8
 
 ############################################################################ CANAIS RUNTIME & PLUTO FILMES
 
