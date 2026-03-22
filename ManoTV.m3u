@@ -36,7 +36,7 @@ http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/21020
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG FHD
-http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164944
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília FHD
 
@@ -323,10 +323,13 @@ https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-http://79.127.243.211:14469/
+http://79.127.243.211:14473/
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD²
+https://02.arlivre.online/sportv2/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
-http://79.127.243.211:14473/
+https://02.arlivre.online/sportv3/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 F1 ao Vivo 
 https://cr7v.short.gy/FuncionaSoquandoTemF1/ManoTVfree.m3u8
@@ -397,6 +400,8 @@ https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-name="PREMIERE7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
 
 
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title=""ao vivo | FUTEBOL",Prime Vídeo 
+https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 
 ############################################################################ ao vivo | BRASILEIRÃO
 
@@ -1247,6 +1252,77 @@ https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9bIhIR.png" group-title="Pluto TV | Novelas",PLUTO TV NOVELAS
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+
+
+############################################################################ PlutoTV Canais | REALITY
+
+#EXTINF:-1 tvg-id="MasterChef" tvg-logo="https://i.imgur.com/qKwrAUT.png" group-title="Pluto TV | REALITY",MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+
+#EXTINF:-1 tvg-id="MasterChef Profissionais" tvg-logo="https://i.imgur.com/Vd2HfJo.png" group-title="Pluto TV | REALITY",MasterChef Profissionais
+https://jmp2.uk/plu-681110afc188aa63faa147e0.m3u8
+
+#EXTINF:-1 tvg-id="MasterChef Mais Júnior" tvg-logo="https://i.imgur.com/qKwrAUT.png" group-title="Pluto TV | REALITY",MasterChef Mais Brasil 
+https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
+
+#EXTINF:-1 tvg-id="Shark Tank Brasil" tvg-logo="https://i.imgur.com/RXKOU0b.png" group-title="Pluto TV | REALITY",Shark Tank Brasil
+https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
+
+############################################################################ PlutoTV Canais | MTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of1yJaj.png" group-title="Pluto TV | MTV",MTV Pluto TV
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MwnYTtX.png" group-title="Pluto TV | MTV",MTV Reality Pluto
+https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SVQ28Q.png" group-title="Pluto TV | MTV",MTV Dating
+https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="Pluto TV | MTV",MTV Drag
+https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="Pluto TV | MTV",MTV Shore
+https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Pluto TV | MTV",MTV Com o Ex
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Pluto TV | MTV",MTV Jovens e Mães
+https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Pluto TV | MTV",MTV Catfish
+https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHVMcJ9.png" group-title="Pluto TV | MTV",MTV Are you the One?
+https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9FWemc.png" group-title="Pluto TV | MTV",MTV Just Tattoo of Us
+https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZFKmUW6.png" group-title="Pluto TV | MTV",MTV Ridiculousness
+https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p3BDDSY.png" group-title="Pluto TV | MTV",MTV Rocks
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkGS2FS.png" group-title="Pluto TV | MTV",MTV Classic
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+
+#EXTINF:-1 tvg-id="MTV Biggest Pop" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/8uGhB6m.png" group-title="Pluto TV | MTV",MTV Biggest Pop
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+
+############################################################################ PlutoTV Canais | MÚSICAS 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJmYT8V.png" group-title="Pluto TV | MÚSICAS",TikToK Rádio Brasil
+https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mDqFnG.png" group-title="Pluto TV | MÚSICAS",Shows por Stingray
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JOVuei.png" group-title="Pluto TV | MÚSICAS",Pluto TV Karaokê por Stingray
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
 
 
 
