@@ -515,6 +515,9 @@ https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Canais | ESPORTES",Realmadrid TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hPGZiUS.png" group-title="Pluto TV | REALITY",Top Barça
+https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6mLyhD.png" group-title="Canais | ESPORTES",Barça One
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8
 
@@ -583,11 +586,17 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3G9NiWt.png" group-title="Canais | NOTÍCIAS",TVD News FHD
 http://201.159.95.110:25461/live/site/site/666.m3u8
 
+#EXTINF:-1 tvg-logo="tyW3Ppf.png" group-title="Canais | NOTÍCIAS",CBS NEWS
+https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
+
+#EXTINF:-1 tvg-logo="tyW3Ppf.png" group-title="Canais | NOTÍCIAS",EuroNews Português
+https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tyW3Ppf.png" group-title="Canais | NOTÍCIAS",BM&C NEWS
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 
 #EXTINF:-1 tvg-id="Times Brasil | CNBC" tvg-name="Times Brasil | CNBC" tvg-logo="https://i.imgur.com/FPpNGo0.png" group-title="Canais | NOTÍCIAS",Times Brasil | CNBC
-https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 
 #EXTINF:-1 tvg-id="Times Brasil | CNBC" tvg-name="Times Brasil | CNBC" tvg-logo="https://i.imgur.com/FPpNGo0.png" group-title="Canais | NOTÍCIAS",Times Brasil | CNBC
 https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
@@ -595,13 +604,10 @@ https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 #EXTINF:-1 tvg-id="Pluto TV Canal UOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Pluto TV Canal UOL
 https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 
-#EXTINF:-1 tvg-id="Pluto TV Canal UOL" tvg-name="Pluto TV Canal UOL" tvg-logo="https://imgur.com/VnDkr2s.png" group-title="Canais | NOTÍCIAS",Canal UOL HD
-
-
 #EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" tvg-logo="https://i.imgur.com/3rHuAWH.png" group-title="Canais | NOTÍCIAS",CNN Brasil Money HD
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lge-static.ottera.tv/prod/gpa/linear_channel/thumbnails/poster/280x400/1400x2000_0.png" group-title="Canais | NOTÍCIAS",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lge-static.ottera.tv/prod/gpa/linear_channel/thumbnails/poster/280x400/1400x2000_0.png" group-title="Canais | NOTÍCIAS",Veja+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15964&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 #EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS SD
@@ -609,6 +615,9 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 
 #EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Canais | NOTÍCIAS",JP NEWS
+https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL SD
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-640x360/playlist.m3u8
@@ -648,6 +657,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Record News
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Canais | NOTÍCIAS",Record News
+https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TlqB0Uo.png" group-title="Canais | NOTÍCIAS",TV Câmera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
@@ -1325,6 +1337,88 @@ https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3JOVuei.png" group-title="Pluto TV | MÚSICAS",Pluto TV Karaokê por Stingray
 https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+
+
+############################################################################ Pluto TV | NATUREZA 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbQg86V.png" group-title="Pluto TV | NATUREZA",Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEF4EHR.png" group-title="Pluto TV | NATUREZA",NatureTime
+https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ctozao4.png" group-title="Pluto TV | NATUREZA",Pluto TV Paisagens por Stingray
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Pluto TV | NATUREZA",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YaDYTrN.png" group-title="Pluto TV | NATUREZA",O Encantador de Cães
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+
+############################################################################ Pluto TV | CURIOSIDADES 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R3bVmTX.png" group-title="Pluto TV | CURIOSIDADES",Pluto TV Curiosidade
+https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/odrU1Gm.png" group-title="Pluto TV | CURIOSIDADES",Pluto TV Vida Real
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Minha Obsessão Favorita
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q13XTSB.png" group-title="Pluto TV | CURIOSIDADES",ACUMULADORES OBSESSIVOS
+https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dqgnRP.png" group-title="Pluto TV | CURIOSIDADES",Pronto-Socorro: Histórias de Emergência
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1QvmTZ.png" group-title="Pluto TV | CURIOSIDADES",Negócio Fechado 
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Turbo
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llEiDMh.png" group-title="Pluto TV | CURIOSIDADES",Pluto TV História
+https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Pluto TV | CURIOSIDADES",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+
+############################################################################ Pluto TV | MISTÉRIOS E SOBRENATURAL 
+
+#EXTINF:-1 tvg-id="Pluto TV MISTÉRIOS" tvg-name="Pluto TV MISTÉRIOS" tvg-logo="https://i.imgur.com/NhguLFB.png" group-title="Pluto | MISTÉRIOS E SOBRENATURAL",Pluto TV Mistérios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ktlcZV.png" group-title="Pluto | MISTÉRIOS E SOBRENATURAL",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Pluto | MISTÉRIOS E SOBRENATURAL",Assombrações
+https://jmp2.uk/plu-620d1512c7986a0007220213.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TlNQcz.png" group-title="Pluto | MISTÉRIOS E SOBRENATURAL",Estado Paranormal
+https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63hgt4q.png" group-title="Pluto | MISTÉRIOS E SOBRENATURAL",Caçadores de Ovnis
+https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
+
+############################################################################ Pluto TV | INVESTIGAÇÃO 
+
+#EXTINF:-1 tvg-id="Pluto TV Investigação" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Pluto TV | INVESTIGAÇÃO",Pluto TV Investigação
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHZJcij.png" group-title="Pluto TV | INVESTIGAÇÃO",Pluto TV Policial
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="Pluto TV | INVESTIGAÇÃO",Os Arquivos do FBI
+https://jmp2.uk/plu-620d12a82e8ac50007c269c3.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Pluto TV | INVESTIGAÇÃO",Detetives Médicos
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UyGoXvs.png" group-title="Pluto TV | INVESTIGAÇÃO",Mistérios sem Solução
+https://jmp2.uk/plu-62b5c5a064163d0007b2efe6.m3u8
+
 
 
 
