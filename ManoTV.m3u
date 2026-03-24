@@ -586,10 +586,10 @@ https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3G9NiWt.png" group-title="Canais | NOTÍCIAS",TVD News FHD
 http://201.159.95.110:25461/live/site/site/666.m3u8
 
-#EXTINF:-1 tvg-logo="tyW3Ppf.png" group-title="Canais | NOTÍCIAS",CBS NEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ej7GL5D.png" group-title="Canais | NOTÍCIAS",CBS NEWS
 https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
 
-#EXTINF:-1 tvg-logo="tyW3Ppf.png" group-title="Canais | NOTÍCIAS",EuroNews Português
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZcMJMtz.png" group-title="Canais | NOTÍCIAS",EuroNews Português
 https://jmp2.uk/plu-679a973a97782f0008ff4bb6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tyW3Ppf.png" group-title="Canais | NOTÍCIAS",BM&C NEWS
@@ -1247,7 +1247,7 @@ https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG.png" group-title="Pluto | CANAIS RETRÔ",O Homem que veio do Céu
 https://jmp2.uk/plu-62052d3b4eeb740007fbe125.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Athwean.png" group-title="Pluto | CANAIS RETRÔ",Taku Sato
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Athwean.png" group-title="Pluto | CANAIS RETRÔ",TakuSato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MW4LLlG.png" group-title="Pluto | CANAIS RETRÔ",Pluto TV Desenhos Clássicos 
@@ -1420,6 +1420,135 @@ https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 https://jmp2.uk/plu-62b5c5a064163d0007b2efe6.m3u8
 
 
+
+
+
+
+
+
+############################################################################ Pluto TV | ANIMES & GEEK
+
+#EXTINF:-1 tvg-id="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="Pluto TV | ANIMES & GEEK"",Pluto TV Anime
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV Anime ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/solidLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK"",Pluto TV Anime Ação
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK"",Hunter x Hunter
+https://jmp2.uk/plu-65d9167818036500080e8780.m3u8
+
+#EXTINF:-1 tvg-logo="https://i9rUw.png" group-title="Pluto TV | ANIMES & GEEK",Pokémon 
+https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK"",Naruto
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK"",Naruto Shippuden
+https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK"",Boruto: Naruto Next Generations
+https://jmp2.uk/plu-656f389c3944b60008e5bdab.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJYPBpJ.png" group-title="Pluto TV | ANIMES & GEEK",Hunter × Hunter
+https://jmp2.uk/plu-65d9167818036500080e8780.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK"",Death Note
+https://jmp2.uk/plu-625464a945b6a200079257d1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQA9rUw.png" group-title="Pluto TV | ANIMES & GEEK",Jojo's Bizarre adventure
+https://jmp2.uk/plu-66c7982f6838ee00085f0d24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK",Super Onze
+https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lN5nEWC.png" group-title="Pluto TV | ANIMES & GEEK",Yu-Gi-Oh
+https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK"",Beyblade
+https://jmp2.uk/plu-633dc392e0282400071b0d39.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b26681d2d50d00083abe8b/colorLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK"",InuYasha BR
+https://jmp2.uk/plu-66b26681d2d50d00083abe8b.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK",One Piece
+https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="Pluto TV | ANIMES & GEEK",Pluto TV Gaming por Ubisoft
+https://jmp2.uk/plu-64c815e8a1c6130008fef928.m3u8
+
+############################################################################ Pluto TV | INFANTIL
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Pluto TV | INFANTIL",Pluto TV Junior
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Pluto TV | INFANTIL",Pluto TV Kids
+https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vr2xNQV.png" group-title="Pluto TV | INFANTIL",PLUTO TV KIDS CLUB
+https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Pluto TV | INFANTIL",Turma da Mônica
+https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
+
+#EXTINF:-1 tvg-id="O Reino Infantil" tvg-logo="https://imgur.com/ElG7z3z.png" group-title="Pluto TV | INFANTIL",O Reino Infantil
+https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Pluto TV | INFANTIL",Oggy e as Baratas Tontas
+https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Pluto TV | INFANTIL",Moranguinho
+https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Pluto TV | INFANTIL",Cocoricó
+https://jmp2.uk/plu-62d969fd8451a30007f0fd94.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Pluto TV | INFANTIL",Baby Shark
+https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
+
+#EXTINF:-1 tvg-id="Babyfirst" tvg-name="Babyfirst" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Pluto TV | INFANTIL",Babyfirst
+https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t5RZzN7.png" group-title="Pluto TV | INFANTIL",TELETUBBIES
+https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7Jadd8.png" group-title="Pluto TV | INFANTIL",Patrulha Canina
+https://jmp2.uk/plu-63eba189c111bc0008ff59c5.m3u8
+
+############################################################################ Pluto TV | NICKELODEON
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AdzhY5y.png" group-title="Pluto TV | NICKELODEON",Nickelodeon Toons
+https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Pluto TV | NICKELODEON",NICK CLÁSSICO
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Pluto TV | NICKELODEON",Bob Esponja Calça Quadrada
+https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Pluto TV | NICKELODEON",Os Padrinhos Mágicos
+https://jmp2.uk/plu-63221e41af69b500076f84e7.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Pluto TV | NICKELODEON",AS Tartarugas Ninja
+https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hml5Awz.png" group-title="Pluto TV | NICKELODEON",Avatar: A Lenda de Aang
+https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Pluto TV | NICKELODEON",Nick Jr. Club
+https://jmp2.uk/plu-5f121460b73ac6000719fbaf.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Pluto TV | NICKELODEON",Nickelodeon Teen
+https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSXvfZH.png" group-title="Pluto TV | NICKELODEON",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/solidLogoPNG.png" group-title="Pluto TV | NICKELODEON",Kenan & Kel
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Pluto TV | NICKELODEON",Nickelodeon Rocket Power
+https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
 
 ############################################################################ Canais | ANIMES
