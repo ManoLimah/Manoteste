@@ -1591,13 +1591,65 @@ https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UmQ5z81.png" group-title="Pluto TV | ESPORTES",World Poker lour
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 
+############################################################################ PLUTO TV | SOUTH PARK 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Pluto TV | SOUTH PARK",South Park: Coleção Cartman
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Pluto TV | SOUTH PARK",South Park: Coleção Kenny
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Pluto TV | SOUTH PARK",South Park: Coleção kyle
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Pluto TV | SOUTH PARK",South Park: Coleção Stan 
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Pluto TV | SOUTH PARK",Comedy Central South Park
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 
+############################################################################ PLUTO TV | COMÉDIA 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Pluto TV | COMÉDIA",Comedy Central Pluto TV
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxld7UK.png" group-title="Pluto TV | COMÉDIA",PortaTV
+https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5dI2gh.png" group-title="Pluto TV | COMÉDIA",Pegadinhas - Just for Laughs
+https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="Canais | COMÉDIA",FailArmy
+https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Canais | COMÉDIA",The Pet Collective
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+
+############################################################################ PLUTO TV | ESTILO DE VIDA 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4pf0PF.png" group-title="Pluto TV | ESTILO DE VIDA ",Salon line
+https://jmp2.uk/plu-66a7d0e0cd0d310008448610.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4TL4mVH.png" group-title="Pluto TV | ESTILO DE VIDA ",Pluto TV Viagens 
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qjSOebN.png" group-title="Pluto TV | ESTILO DE VIDA ",Homeful
+https://jmp2.uk/plu-67603668f433320008760af1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV KFood
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade Brasil" tvg-logo="https://i.imgur.com/zXEQYgi.png" group-title="Canais | VARIEDADES",Tastemade Brasil
+https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade Casa" tvg-logo="https://i.imgur.com/evcSB9l.png" group-title="Canais | VARIEDADES",Tastemade Casa
+https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade Viagens" tvg-logo="https://i.imgur.com/2LOfBCm.png" group-title="Canais | VARIEDADES",Tastemade Viagens 
+https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8
 
 ############################################################################ Pluto TV | ANIMES & GEEK
 
