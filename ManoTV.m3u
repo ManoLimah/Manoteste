@@ -1884,13 +1884,6 @@ https://8175.brasilstream.com.br/stream
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="Canais | RÁDIO",Web Rádio Lairton Teclas
 https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
 
-
-############################################################################ Canais | COMÉDIA
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="Canais | COMÉDIA",PORTA DOS FUNDOS
-
-
 ############################################################################ TV ABERTA 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="Canais | ABERTO",ESFLIX TV
@@ -2480,7 +2473,7 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rmmvWsX.png " group-title="Canais | INTERNACIONAL",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/AntrFrv.png" group-title="Canais | INTERNACIONAL",RTP1
 
@@ -2492,19 +2485,19 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bc6tYVZ.png" group-title="Canais | INTERNACIONAL",CNN Portugal
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDI2IDEyOjEyOjE3IFBNJmhhc2hfdmFsdWU9bWNYZ0c1MGdHQVpScXZMSmpMZTkzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJmYWVkZmU3LTIyNDItNGY2Yy1iYzlmLWRhMjY3Y2U1YjYxOQ==/
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Canais | INTERNACIONAL",CNN International
-
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Canais | INTERNACIONAL",24 horas internacional
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-name="SPORTTV 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",SportTV 1 HD
 http://148.113.160.49:14458/
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-name="SPORTTV 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",SportTV 1 FHD
-http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167742
+http://domainforxc.cfd:80/287945811/148063/111995
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",SportTV 2 HD
 http://148.113.160.49:14454/
@@ -2513,16 +2506,16 @@ http://148.113.160.49:14454/
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167743
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",SportTV 3 HD
-http://148.113.160.49:14451/
-
-#EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",SportTV 3 FHD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167744
 
+#EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",SportTV 3 FHD
+
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Canais | INTERNACIONAL",SportTV 4 HD
-http://148.113.160.49:14449/
+http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167745
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Canais | INTERNACIONAL",SportTV 4 FHD
-http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167745
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tS7t12k.png" group-title="Canais | INTERNACIONAL",SportTV 5 HD
 
@@ -2531,35 +2524,23 @@ http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167745
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 HD
-http://148.113.160.49:14475/
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 HD²
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/35264
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 HD
-http://148.113.160.49:14472/
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 FHD
-
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TvV6DtG.png" group-title="Canais | INTERNACIONAL",Eleven sports 3 HD
-http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167748
-
-#EXTINF:-1 tvg-logo="https://imgur.com/TvV6DtG.png" group-title="Canais | INTERNACIONAL",Eleven sports 3 FHD
-
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P0QLHvF.png" group-title="Canais | INTERNACIONAL",Eleven sports 4 HD
-http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167749
-
-#EXTINF:-1 tvg-logo="https://imgur.com/P0QLHvF.png" group-title="Canais | INTERNACIONAL",Eleven sports 4 FHD
-http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167750
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NQ3Zpxi.png" group-title="Canais | INTERNACIONAL",Eleven sports 5 HD
-http://148.113.160.49:14464/
-
-#EXTINF:-1 tvg-logo="https://imgur.com/NQ3Zpxi.png" group-title="Canais | INTERNACIONAL",Eleven sports 5 FHD
-
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FdSRwfr.png" group-title="Canais | INTERNACIONAL",Eleven sports 6 HD
 
