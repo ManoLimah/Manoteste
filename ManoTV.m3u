@@ -316,8 +316,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
 #EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
 https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 
-#EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
+#EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD²
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
+
+#EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD³
+https://cr7v.short.gy/ManoTVfree/SPOREXTRA/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
 http://79.127.243.211:14473/
@@ -965,25 +968,25 @@ https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/164950
+https://cr7v.short.gy/ManoTV/temporário/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD²
-
+http://domainforxc.cfd:80/287945811/148063/18752
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD 
-
+http://domainforxc.cfd:80/287945811/148063/18765
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
-
+http://domainforxc.cfd:80/287945811/148063/18757
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-
+http://domainforxc.cfd:80/287945811/148063/18761
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
-
+http://domainforxc.cfd:80/287945811/148063/18777
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
-
+http://domainforxc.cfd:80/287945811/148063/18769
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
 
@@ -1092,19 +1095,19 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
-
+http://domainforxc.cfd:80/287945811/148063/377234
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
-
+http://domainforxc.cfd:80/287945811/148063/377229
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/15
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network SD
-
+http://domainforxc.cfd:80/287945811/148063/351
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
-
+http://domainforxc.cfd:80/287945811/148063/21230
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
 
@@ -1166,9 +1169,7 @@ https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM HD
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="Canais | INFANTIL",ADULT SWIM FHD
+http://domainforxc.cfd:80/287945811/148063/376345
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
