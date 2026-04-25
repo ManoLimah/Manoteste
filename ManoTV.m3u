@@ -89,24 +89,6 @@ http://domainforxc.cfd:80/287945811/148063/2366
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
 http://domainforxc.cfd:80/287945811/148063/2394
 
-############################################################################ Canais | REALITY
-
-#EXTINF:-1  tvg-id="Big Brother Brasil 26- Cam 1" tvg-name="Big Brother Brasil 26- Cam 1"tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 Cam 1
-https://cr7v.short.gy/ManoTV-Free/ManoTV1/index.m3u8
-
-#EXTINF:-1  tvg-id="Acompanhe a casa 2" tvg-name="Acompanhe a casa 2" tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",BBB 26 Cam 2
-https://cr7v.short.gy/ManoTV-Free/ManoTV2/index.m3u8
-
-#EXTINF:-1  tvg-id="Big Brother Brasil 26-Cam 1" tvg-name="Big Brother Brasil 26- Cam Mosaico" tvg-logo="https://i.imgur.com/TSLrVt7.png" group-title="Canais | REALITY",Mosaico TP
-https://image-storage-51.imgcontent.xyz/live/bbb26-3/index.m3u8
-
-#EXTINF:-1 tvg-id="Acompanhe a casa 1" tvg-name="Acompanhe a casa 1" tvg-logo="https://i.imgur.com/dQv8BSS.png" group-title="Canais | REALITY",Cam 1 EXTRA
-https://image-storage-51.imgcontent.xyz/live/bbb26/index.m3u8
-
-#EXTINF:-1 tvg-id="Acompanhe a casa 2" tvg-name="Acompanhe a casa 2" tvg-logo="https://i.imgur.com/dQv8BSS.png" group-title="Canais | REALITY",Cam 2 EXTRA
-https://image-storage-51.imgcontent.xyz/live/bbb26-2/index.m3u8
-
-
 
 ############################################################################ Canais | REALITY
 
@@ -156,7 +138,10 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 http://gerenciar.vivatele.com/viva_padrao/viva2384/3
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
-nttps://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band HD
+https://hplay.tv/augetv/12396547488/131.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV RBA TV
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -213,7 +198,7 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT São Paulo" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | SBT",SBT CIDADE VERDE FHD
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
 
