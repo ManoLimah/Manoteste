@@ -93,6 +93,11 @@ http://domainforxc.cfd:80/287945811/148063/2394
 ############################################################################ Canais | REALITY
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBUTceP.png" group-title="Canais | REALITY",Casa do Patrão Cam 1
+https://cr7v.short.gy/ManoTV-Free/ManoTV1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBUTceP.png" group-title="Canais | REALITY",Casa do Patrão Cam 2
+https://cr7v.short.gy/ManoTV-Free/ManoTV2/index.m3u8
 
 ############################################################################ Canais | RECORD TV
 
