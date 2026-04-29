@@ -1154,6 +1154,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eu93gIQ.png " group-title="Canais | INFANTIL",Mr Bean Animated
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/IG9M7hu.png" group-title="Canais | INFANTIL",NickOnline
+https://x1co.com.br/hls/0/stream.m3u8?cachebust=a6809f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Canais | INFANTIL",DCPC Infantil 
 
