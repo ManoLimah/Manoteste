@@ -27,13 +27,13 @@ http://79.127.238.228:14217/
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
-
+https://megaflix.faz-o-eli.online/token/cb20cdb3432a1fdce8e7d2023fb1aba5/globosp.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Nordeste HD
-http://domainforxc.cfd:80/287945811/148063/2427
+https://megaflix.faz-o-eli.online/token/7d20baa39918a91066bde0bfe8bdd419/globope.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
-http://domainforxc.cfd:80/287945811/148063/2378
+https://megaflix.faz-o-eli.online/token/143851efe164a738ca58c7dda14856ef/globomg.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília FHD
 
@@ -42,16 +42,16 @@ http://domainforxc.cfd:80/287945811/148063/2378
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/OkFRcFd.png" group-title="Canais | GLOBO",Globo TV Subaé HD
-http://domainforxc.cfd:80/287945811/148063/2314
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3xAPAkE.png" group-title="Canais | GLOBO",TV Clube HD
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",TV Verde Mares CE HD
-http://domainforxc.cfd:80/287945811/148063/2433
+https://megaflix.faz-o-eli.online/token/e44705429746e1fb7e9d4e45f97f58c3/globoce.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
-http://domainforxc.cfd:80/287945811/148063/2292
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Maringa FHD
 
@@ -60,22 +60,22 @@ http://domainforxc.cfd:80/287945811/148063/2292
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
-
+https://megaflix.faz-o-eli.online/token/c691b27f8f12e07141be4468ee00d32b/globoam.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
-http://domainforxc.cfd:80/287945811/148063/2354
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",Globo Maranhão HD 
-http://domainforxc.cfd:80/287945811/148063/274986
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/3XU1BuI.png" group-title="Canais | GLOBO",Globo Maranhão FHD 
-http://domainforxc.cfd:80/287945811/148063/518710
+
 
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
-
+https://megaflix.faz-o-eli.online/token/1d39aab6c4eb92b8ff7ee1c4a71d54d2/globors.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Caxias do Sul HD
-http://domainforxc.cfd:80/287945811/148063/2306
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Pelotas HD
 
@@ -84,10 +84,10 @@ http://domainforxc.cfd:80/287945811/148063/2306
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/TevIGQZ.png" group-title="Canais | GLOBO",Globo TV Liberal Belém 
-http://domainforxc.cfd:80/287945811/148063/2366
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
-http://domainforxc.cfd:80/287945811/148063/2394
+https://megaflix.faz-o-eli.online/token/4fd61e2c6e2a8ab37577e9fea1bae191/globoes.m3u8
 
 
 ############################################################################ Canais | REALITY
@@ -313,13 +313,13 @@ https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 https://cr7v.short.gy/ManoTVfree/SPOREXTRA/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-http://79.127.243.211:14473/
+https://megaflix.faz-o-eli.online/token/b1895b0d24e78cd349fd7aefbafff3ef/sportv2.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD²
-https://02.arlivre.online/sportv2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
-https://02.arlivre.online/sportv3/index.m3u8
+https://megaflix.faz-o-eli.online/token/0643eb153af0c5fcded5bc9fde313a1b/sportv3.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 F1 ao Vivo 
 https://cr7v.short.gy/FuncionaSoquandoTemF1/ManoTVfree.m3u8
@@ -920,7 +920,7 @@ https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
-http://89.187.190.167:14101/
+https://megaflix.faz-o-eli.online/token/ea2cbd12c82a4eaac8bb1b3e691a8ac5/telecineaction.m3u8
 
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD²
 http://46.151.196.223:14326/
@@ -932,13 +932,13 @@ http://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
 http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-
+https://megaflix.faz-o-eli.online/token/ca09e3b77846671e8458ebaf990feae0/telecinetouch.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
-
+https://megaflix.faz-o-eli.online/token/c6b597c92319d34ab9152b53a1301940/telecinecult.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-
+https://megaflix.faz-o-eli.online/token/ad0e423f0b41a6e6129078bad19c2601/telecinefun.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC SD
@@ -961,25 +961,25 @@ http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
 https://cr7v.short.gy/ManoTV/temporário/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD²
-http://domainforxc.cfd:80/287945811/148063/18752
+
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD 
-http://domainforxc.cfd:80/287945811/148063/18765
+https://megaflix.faz-o-eli.online/token/4a627514bb71ba87cbd3f769504cb69e/hboplus.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
-http://domainforxc.cfd:80/287945811/148063/18757
+https://megaflix.faz-o-eli.online/token/bbba3462e2bad2a0e87d79d3c3dddb3b/hbo2.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-http://domainforxc.cfd:80/287945811/148063/18761
+https://megaflix.faz-o-eli.online/token/c66f7593c1eb4012633c862a890e731f/hbofamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
-http://domainforxc.cfd:80/287945811/148063/18777
+https://megaflix.faz-o-eli.online/token/d93626328e422450aaafb265589912a6/hboxtreme.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
-http://domainforxc.cfd:80/287945811/148063/18769
+
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
-
+https://megaflix.faz-o-eli.online/token/cbd22422b0d4f9a95af7973d5eb6a333/studiouniversal.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
 http://79.127.243.211:14623/
