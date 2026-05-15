@@ -11,7 +11,10 @@ https://abre.ai/canaldoarmp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0AVLnGG.png" group-title="QUER UM TEST CHAMA" tvg-chno="3",Whats 75991634025
 https://abre.ai/canaldocliente7mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",10/03 Usem VPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",10/05/26
+https://abre.ai/manotv8mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9O5UurK.png" group-title="USEM O APK VPN",Nome-> 1.1.1.1 + WARP
 https://abre.ai/manotv8mp4
 
 
@@ -1070,7 +1073,7 @@ http://15.235.9.200:14984/
 ############################################################################ Canais | INFANTIL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/clouding.png" group-title="Canais | INFANTIL",Clouding
-https://stmv.webtvninjas.com.br/abner5597/abner5597/playlist.m3u8
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w459304988.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IbCiig8.png" group-title="Canais | INFANTIL",Kid Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
