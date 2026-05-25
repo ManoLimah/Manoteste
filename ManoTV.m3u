@@ -2507,19 +2507,22 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://peaky.techcoder40.workers.dev:80/1393.m3u8
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-name="SPORTTV 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",SportTV 1 FHD
-
+http://dns.explouddev.com:80/632270679/F823j7133R/111995
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",SportTV 2 HD
 http://peaky.techcoder40.workers.dev:80/1395.m3u8
 
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",SportTV 2 FHD
+http://dns.explouddev.com:80/632270679/F823j7133R/111998
+
 #EXTINF:-1 tvg-logo="https://imgur.com/QuDzhTi.png" group-title="Canais | INTERNACIONAL",SportTV 3 HD
-http://peaky.techcoder40.workers.dev:80/1396.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/112000
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Canais | INTERNACIONAL",SportTV 4 HD
-http://95.174.71.211:80/4v64rfy76t/index.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/112002
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tS7t12k.png" group-title="Canais | INTERNACIONAL",SportTV 5 HD
-http://95.174.71.211:80/5rft56rhy7543/index.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/112004
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 HD
