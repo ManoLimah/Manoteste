@@ -344,11 +344,20 @@ https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 http://46.151.196.223:14438/
 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD²
+http://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD
 http://46.151.196.223:14444/
  
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD²
+http://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://79.127.243.211:14514/
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
+http://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
 https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
@@ -5819,6 +5828,15 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30405387.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Tio Drew
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7334528.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Beira do Machado
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0094627.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Uma Noiva e Tanto
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0108174.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Mago do Kremlin
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32386654.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Alienígena
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt25967234.mp4
