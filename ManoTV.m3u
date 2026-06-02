@@ -1903,6 +1903,9 @@ https://8175.brasilstream.com.br/stream
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="Canais | RÁDIO",Web Rádio Lairton Teclas
 https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qYY7Hk.png" group-title="RÁDIO",Radio Onda Beat 
+https://lbgo.bozztv.com/ssh101/ssh101/maropon12/playlist.m3u8
+
 ############################################################################ TV ABERTA 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="Canais | ABERTO",ESFLIX TV
