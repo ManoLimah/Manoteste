@@ -3,7 +3,7 @@
 ############################################################################ Informações 
 
 #EXTINF:-1 tvg-id="novidades" tvg-name="ManoTV" tvg-logo="https://i.imgur.com/gWFKpfr.png" group-title="ManoTV" tvg-chno="1",CANAL DO USUÁRIO HD
-https://abre.ai/canaldocliente08mp4
+https://abre.ai/canaldoclientev8mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDq65tu.png" group-title="DOAÇÃO PIX" tvg-chno="2",75 991634025
 https://abre.ai/canaldoarmp4
@@ -11,12 +11,8 @@ https://abre.ai/canaldoarmp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0AVLnGG.png" group-title="QUER UM TEST CHAMA" tvg-chno="3",Whats 75991634025
 https://abre.ai/canaldocliente7mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO",10/05/26
-https://abre.ai/manotv8mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9O5UurK.png" group-title="USEM O APK VPN",Nome-> 1.1.1.1 + WARP
-https://abre.ai/manotv8mp4
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C09Ybxn.png" group-title="ATUALIZADO" tvg-chno="4",10/06/26
+https://abre.ai/canaldoclientev9mp4
 
 ############################################################################ Canais | ESPORTES FREE
 
@@ -5874,6 +5870,21 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/12
 http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/123377/3x5.mp4
 
 ############################################################################ FILMES
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Little Brother
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34888871.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Influencer
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30749092.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Dolly: A Boneca Maldita
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32639175.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Mensagens para Isabelle
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt10375624.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",As Ovelhas Detetives
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32565993.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Michael
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11378946.mp4
