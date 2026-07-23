@@ -240,6 +240,9 @@ https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNrgArC.png" group-title="Canais | ABERTO",Flow TV
 https://cc-l2unazbogzufr.akamaized.net/gpf/tvfl/tvfl_h265.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LWKunQ8.png" group-title="Canais | ABERTO",PodPah TV
+https://ogc-ppah-samsungtvplus-br.otteravision.com/ogc/ppah/ppah.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm4HhaL.png" group-title="Canais | ABERTO",BDCTV - TV A Critica
 https://cr7v.short.gy/ManoTV/BDCTV/Index.m3u8
 
@@ -308,6 +311,9 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura RN FHD
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadarTV" tvg-name="Radar TV" tvg-logo="https://i.imgur.com/8Zsa3N3.png" group-title="Canais | ABERTO",Radar TV
+https://video01.logicahost.com.br/fcvtv/fcvtv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="Canais | ABERTO",Web Rádio Lairton Teclas
 https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
@@ -513,8 +519,14 @@ https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RSHGmuX.png" group-title="Canais | ESPORTES",Desempedido FHD
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Canais | ESPORTES",NSPORTS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Canais | ESPORTES",NSPORTS HD
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Canais | ESPORTES",NSPORTS FHD
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_h265.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j91PkWC.png" group-title="Canais | ESPORTES",Canal Goat
+https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
@@ -2470,11 +2482,8 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png" group-title="Canais | INTERNACIONAL",Sic Noticias
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/L3JiP7z.png" group-title="Canais | INTERNACIONAL",TVi
-https://d36mxwpltmym4d.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/L3JiP7z.png" group-title="Canais | INTERNACIONAL",TVi HD
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDI2IDg6MTI6MzAgUE0maGFzaF92YWx1ZT1HWG54d3hMdmpKZWVINEdQeWJlRi9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NjhkY2VhMGYtNTg1Yi00ODdjLWE2NGUtMDI0NGRhNTRjMGVi/
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/A1kgP2T.png" group-title="Canais | INTERNACIONAL",TVi Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDI2IDg6MTM6MjcgUE0maGFzaF92YWx1ZT1rMS9GZGRLWWhEdCtoSk9ubWhtZkVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZmM0ZTZiMDktZTE2YS00ZTZiLWJlYTQtM2Y3NDUyZWQzNDRh
@@ -2484,6 +2493,12 @@ https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlis
 
 #EXTINF:-1  tvg-logo="https://imgur.com/hbkDjva.png" group-title="Canais | INTERNACIONAL",TVi Realitys
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?ManoTV
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/SFD8CBh.png" group-title="Canais | INTERNACIONAL",TV Zimbo
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" group-title="Canais | INTERNACIONAL",teleSUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI_África.png" group-title="Canais | INTERNACIONAL",TVi África 
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
@@ -2507,7 +2522,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bc6tYVZ.png" group-title="Canais | INTERNACIONAL",CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDI2IDEyOjEyOjE3IFBNJmhhc2hfdmFsdWU9bWNYZ0c1MGdHQVpScXZMSmpMZTkzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJmYWVkZmU3LTIyNDItNGY2Yy1iYzlmLWRhMjY3Y2U1YjYxOQ==/
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Canais | INTERNACIONAL",CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
