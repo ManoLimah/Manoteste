@@ -618,6 +618,9 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
 ############################################################################ Canais | VARIEDADES
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzrboWg.png" group-title="Canais | VARIEDADES",Retrô Music Television
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNrgArC.png" group-title="Canais | VARIEDADES",Flow TV
 https://cc-l2unazbogzufr.akamaized.net/gpf/tvfl/tvfl_h265.m3u8
 
