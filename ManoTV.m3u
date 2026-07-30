@@ -1807,12 +1807,12 @@ https://stream.hunter.fm/lofi/64.m3u8
 https://stm16.xcast.com.br:12918/stream
 
 #EXTINF:-1  tvg-logo="https://imgur.com/11DH4AQ.png" group-title="RÁDIO",ATIVIDADE FM 87.9 Canudos BA
-https://1.stmip.net:2044/stream
+https://1.stmip.net:8070/stream?type=.flv
 
 #EXTINF:-1  tvg-logo="https://imgur.com/sxxaEKP.png" group-title="RÁDIO",JERE FM 106.9 JEREMOABO BA
 https://1.stmip.net:2044/stream?type=.flv
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Euclides da Cunha FM 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/g5oBZty.png" group-title="RÁDIO",Euclides da Cunha FM 
 https://servidor25-2.brlogic.com:8024/live
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ns3uV8S.png" group-title="RÁDIO",Energia 97
