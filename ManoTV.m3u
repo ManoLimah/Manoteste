@@ -28,6 +28,8 @@ http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo PE HD
 https://megaflix.mgfiles.lat/fb7eded362d3787c0f570fe7a4455745/file.m3u8
 
@@ -151,7 +153,7 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/3
 https://megaflix.mgfiles.lat/baf6746727bd762be4571e2e4fb62cde/file.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band HD
-
+http://184.154.244.75:14006/
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV RBA TV
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -825,7 +827,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | LG
-https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+
 
 ############################################################################ Canais | FILMES E SERIES
 
@@ -899,6 +901,15 @@ https://megaflix.mgfiles.lat/3513f168d2eda5dd82e5b2191ed5492e/file.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
 https://megaflix.mgfiles.lat/93cb77850b77a9a454a853cb38158f55/file.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wem1nAc.png" group-title="Canais | FILMES E SERIES",Sony Movies
+http://45.162.64.114:80/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1422/lg/01620a/LG-Logo-PNG-100x100_v2.png" group-title="Canais | FILMES E SERIES",Sony One Emoções
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/1585/lg/9ed3aa/LG-Logo-PNG-100x100_v2.png" group-title="Canais | FILMES E SERIES",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
 https://megaflix.mgfiles.lat/3b8b64555fa7b54bd2219c85929f14c0/file.m3u8
 
@@ -968,11 +979,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Canais | FILMES E SERIES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Canais | FILMES E SERIES",SONY ONE EMOCOES
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Canais | FILMES E SERIES",Sony One Classics
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Canais | FILMES E SERIES",Bora Filmes
 
@@ -1081,6 +1087,9 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
 http://138.255.2.6:8084/TOONCAST/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD²
+http://45.190.28.50:80/TOONCAST/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
 http://streamer.sattvacabo.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
@@ -1810,10 +1819,7 @@ https://stm16.xcast.com.br:12918/stream
 https://1.stmip.net:8070/stream?type=.flv
 
 #EXTINF:-1  tvg-logo="https://imgur.com/sxxaEKP.png" group-title="RÁDIO",JERE FM 106.9 JEREMOABO BA
-https://1.stmip.net:2044/stream?type=.flv
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/g5oBZty.png" group-title="RÁDIO",Euclides da Cunha FM 
-https://servidor25-2.brlogic.com:8024/live
+http://172.82.160.250:8309/stream
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ns3uV8S.png" group-title="RÁDIO",Energia 97
 https://streaming.inweb.com.br/energia
@@ -1821,11 +1827,11 @@ https://streaming.inweb.com.br/energia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Gospel Internacional
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OpAKbxr.png" group-title="RÁDIO",Rádio Salvador FM
-https://streaming.livespanel.com:9230/ssafm9230?type=.flv
+#EXTINF:-1 tvg-logo="https://imgur.com/OpAKbxr.png" group-title="RÁDIO",Rádio Salvador FM YT
+https://ythls.armelin.one/channel/UCFrYnMVzIUXxJPCyv-WcZuw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gFE3Qih.png" group-title="RÁDIO",Antena 1
-https://antenaone.crossradio.com.br/stream/1;
+https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/chunklist_b946000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2qdM76.png" group-title="RÁDIO",Brado Rádio 
 https://servidor17-5.brlogic.com:8300/live?source=links_page
@@ -1845,11 +1851,11 @@ https://streaming.livespanel.com:20959/cidadefmlem
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Mix Bahia 
 https://8175.brasilstream.com.br/stream
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="RÁDIO",Web Rádio Lairton Teclas
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="Canais | RÁDIO",Web Rádio Lairton Teclas
 https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qYY7Hk.png" group-title="RÁDIO",Radio Onda Beat 
-
+https://lbgo.bozztv.com/ssh101/ssh101/maropon12/playlist.m3u8
 
 ############################################################################ Canais | ABERTOS
 
