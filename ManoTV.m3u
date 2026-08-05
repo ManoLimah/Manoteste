@@ -267,7 +267,7 @@ https://cr7v.short.gy/live25/spn/Index.m3u8
 https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
-http://46.151.196.223:14438/
+https://megaflix.mgfiles.lat/cadf8e414c69e94d452c511a9ee0870b/file.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD²
 http://45.162.231.38:7779/ESPN_2/mpegts
@@ -287,16 +287,19 @@ http://45.162.231.38:7779/ESPN_4/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
 https://megaflix.mgfiles.lat/4e42f95b4cc1a8b1316f7e4c52989657/file.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD²
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
-https://megaflix.mgfiles.lat/730819b0cede3fe174177d6c7bab1285/file.m3u8
+https://megaflix.mgfiles.lat/9a37513b3ad67a23f63482a05b7c4c14/file.m3u8
 
 ############################################################################ CANAIS LUTAS
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
-
-
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
 http://46.151.196.223:14468/
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD²
+http://45.162.231.38:7779/Combate/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
 https://cr7v.short.gy/manofree/UFC/tracks-v2a1/mono.m3u8
