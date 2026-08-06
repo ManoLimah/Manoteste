@@ -1834,7 +1834,13 @@ https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 https://ythls.armelin.one/channel/UCFrYnMVzIUXxJPCyv-WcZuw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gFE3Qih.png" group-title="RÁDIO",Antena 1
-https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/chunklist_b946000.m3u8
+https://antenaone.crossradio.com.br/stream/1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YREInDH.png" group-title="RÁDIO",Jovem Pan FM
+https://stream.zeno.fm/c45wbq2us3buv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YREInDH.png" group-title="RÁDIO",Jovem Pan News
+https://stream.zeno.fm/vlcraijc6yiuv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2qdM76.png" group-title="RÁDIO",Brado Rádio 
 https://servidor17-5.brlogic.com:8300/live?source=links_page
