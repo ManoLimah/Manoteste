@@ -1760,13 +1760,17 @@ https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%
 https://stream.hunter.fm/lofi/64.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Rádio POP
-https://stm16.xcast.com.br:12918/stream
+https://virtues.live:8254/stream?type=.flv
 
 #EXTINF:-1  tvg-logo="https://imgur.com/11DH4AQ.png" group-title="RÁDIO",ATIVIDADE FM 87.9 Canudos BA
 https://1.stmip.net:8070/stream?type=.flv
 
 #EXTINF:-1  tvg-logo="https://imgur.com/sxxaEKP.png" group-title="RÁDIO",JERE FM 106.9 JEREMOABO BA
-http://172.82.160.250:8309/stream
+https://1.stmip.net:2044/stream?type=.flv
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/uUx9BKZ.png" group-title="RÁDIO",Euclides da Cunha FM
+https://servidor25-2.brlogic.com:8024/live?type=.flv
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ns3uV8S.png" group-title="RÁDIO",Energia 97
 https://streaming.inweb.com.br/energia
@@ -1774,8 +1778,8 @@ https://streaming.inweb.com.br/energia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Gospel Internacional
 https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OpAKbxr.png" group-title="RÁDIO",Rádio Salvador FM YT
-https://ythls.armelin.one/channel/UCFrYnMVzIUXxJPCyv-WcZuw.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OpAKbxr.png" group-title="RÁDIO",Rádio Salvador FM 
+https://streaming.livespanel.com:9230/ssafm9230?type=.flv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gFE3Qih.png" group-title="RÁDIO",Antena 1
 https://antenaone.crossradio.com.br/stream/1
@@ -1804,11 +1808,11 @@ https://streaming.livespanel.com:20959/cidadefmlem
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="RÁDIO",Mix Bahia 
 https://8175.brasilstream.com.br/stream
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="Canais | RÁDIO",Web Rádio Lairton Teclas
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="RÁDIO",Web Rádio Lairton Teclas
 https://live20.bozztv.com/akamaissh101/ssh101/ltrecords/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qYY7Hk.png" group-title="RÁDIO",Radio Onda Beat 
-https://lbgo.bozztv.com/ssh101/ssh101/maropon12/playlist.m3u8
+https://www.quinsanbroadcast.com.br:8040/101FM_LITORAL?type=.flv
 
 ############################################################################ Canais | ABERTOS
 
@@ -2630,22 +2634,40 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 
 
 
+
 ################################################################# NOVELAS TURCA S01
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Capítulo 01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP01
 http://shd13.oneplayer.site/SHD13/317883/1x1LEG.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Capítulo 02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP02
 http://shd13.oneplayer.site/SHD13/317883/1x2LEG.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Capítulo 03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP03
 http://shd13.oneplayer.site/SHD13/317883/1x3LEG.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Capítulo 04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP04
 http://shd13.oneplayer.site/SHD13/317883/1x4LEG.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Capítulo 05
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP05
 http://shd13.oneplayer.site/SHD13/317883/1x5LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP06
+http://shd13.oneplayer.site/SHD13/317883/1x6LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP07
+http://shd13.oneplayer.site/SHD13/317883/1x7LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP08
+http://shd13.oneplayer.site/SHD13/317883/1x8LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP09
+http://shd13.oneplayer.site/SHD13/317883/1x9LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP10
+http://shd13.oneplayer.site/SHD13/317883/1x10LEG.mp4
+
+
 
 ############################################################################ Agente Kim: Reativado S01
 
@@ -2721,56 +2743,56 @@ http://shd13.oneplayer.site/SHD13/220102/1x7.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Efh9FE1.png" group-title="Série | SPIDER-NOIR S01",S01 E08
 http://shd13.oneplayer.site/SHD13/220102/1x8.mp4
 
-############################################################################ ONE PIECE S01
+############################################################################ ONE PIECE: A Série S01
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE S01",S01 E01
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S01 E01" tvg-name="ONE PIECE: A Série S01 E01" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E01
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE S01",S01 E02
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S01 E02" tvg-name="ONE PIECE: A Série S01 E02" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E02
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE S01",S01 E03
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S01 E03" tvg-name="ONE PIECE: A Série S01 E03" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E03
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE S01",S01 E04
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S01 E04" tvg-name="ONE PIECE: A Série S01 E04" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E04
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE S01",S01 E05
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S01 E05" tvg-name="ONE PIECE: A Série S01 E05" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E05
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE S01",S01 E06
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S01 E06" tvg-name="ONE PIECE: A Série S01 E06" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E06
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x6.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE S01",S01 E07
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S01 E07" tvg-name="ONE PIECE: A Série S01 E07" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E07
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x7.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE S01",S01 E08
+#EXTINF:-1 tvg-name="ONE PIECE: A Série E08" tvg-name="ONE PIECE: A Série S01 E08" tvg-logo="https://i.imgur.com/3UrlEDw.png" group-title="Série | ONE PIECE: A Série S01",ONE PIECE: A Série E08
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/1x8.mp4
 
 ############################################################################ ONE PIECE S02
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE S02",S02 E01
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S02 E01" tvg-name="ONE PIECE: A Série S02 E01" tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE: A Série S02",ONE PIECE: A Série E01
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE S02",S02 E02
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S02 E02" tvg-name="ONE PIECE: A Série S02 E02" tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE: A Série S02",ONE PIECE: A Série E02
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE S02",S02 E03
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S02 E03" tvg-name="ONE PIECE: A Série S02 E03" tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE: A Série S02",ONE PIECE: A Série E03
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE S02",S02 E04
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S02 E04" tvg-name="ONE PIECE: A Série S02 E04" tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE: A Série S02",ONE PIECE: A Série E04
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE S02",S02 E05
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S02 E05" tvg-name="ONE PIECE: A Série S02 E05" tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE: A Série S02",ONE PIECE: A Série E05
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE S02",S02 E06
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S02 E06" tvg-name="ONE PIECE: A Série S02 E06" tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE: A Série S02",ONE PIECE: A Série E06
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x6.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE S02",S02 E07
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S02 E07" tvg-name="ONE PIECE: A Série S02 E07" tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE: A Série S02",ONE PIECE: A Série E07
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x7.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE S02",S02 E08
+#EXTINF:-1 tvg-name="ONE PIECE: A Série S02 E08" tvg-name="ONE PIECE: A Série S02 E08" tvg-logo="https://i.imgur.com/QZWJzjW.png" group-title="Série | ONE PIECE: A Série S02",ONE PIECE: A Série E08
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/111110/2x8.mp4
 
 
@@ -5904,6 +5926,54 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/12
 
 ############################################################################ FILMES
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES", Nando Entre Dois Mundos: Filme Sintonia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt43640198.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES", George Washington
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32104007.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Maldição do Tubarão
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt43706619.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES", O Último Grande Assalto
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32321803.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES", O Afinador
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt33296751.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES", Jackas: O Último é o Melhor
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt39316472.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Hungria: A Escolha de um Sonho
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27621500.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Mestres do Universo
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0427340.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",72 Horas em Miami
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt36304003.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Di4bo Veste Prad4 2
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt33612209.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",O Compromisso
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt3144098LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",The Furious
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt33311069LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Portões do Inferno
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9387532.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Sem Nada a Perder
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt39385949.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Um Goleiro Muito Improvável
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt41282383.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Ninguém Mexe com a Vovó
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27786496.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Na Zona Cinzenta
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27681354.mp4
 
@@ -6635,5 +6705,4 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0090305.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",As Vantagens de Ser Invisível
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1659337.mp4
-
 
