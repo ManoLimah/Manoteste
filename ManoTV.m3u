@@ -373,6 +373,9 @@ https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 5
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6c9F5J.png" group-title="ao vivo | PPV ESPORTES",SportyNet
+https://cr7v.short.gy/live/JOGOO8/Index.m3u8
+
 ############################################################################ Canais | ESPORTES FREE
 
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES",Ge TV HD (TCL TV)
@@ -451,34 +454,8 @@ https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT 2 HD
+ 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT
-https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 2
-https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 3
-https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 4
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 5
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 6
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 7
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 8
-https://cr7v.short.gy/live/JOGOO8/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
-https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 
 ############################################################################ Canais | Noticias
 
