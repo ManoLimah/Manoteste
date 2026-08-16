@@ -378,17 +378,14 @@ https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
 ############################################################################ Canais | ESPORTES FREE
 
-#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES",Ge TV HD (TCL TV)
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES",Ge TV HD (LG TV)
+https://amg00716-globo-amg00716c1-lg-br-9609.playouts.now.amagi.tv/playlist/amg00716-globo-gefast-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES",Ge TV FHD (TCL TV)
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES",Ge TV (TCL TV)
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES", Ge TV HD (SamsungTV)
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="Canais | ESPORTES",Ge TV FHD (SamsungTV)
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV HD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
