@@ -609,7 +609,7 @@ https://megaflix.mgfiles.lat/967dc441704ce68263139f1f50b6b530/file.m3u8
 http://79.127.238.228:14433/TLChd
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
-
+https://megaflix.mgfiles.lat/66cbaa53bbab307475353194e87d82fb/file.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ou3X8zC.png" group-title="Canais | VARIEDADES",Modo Viagem HD
 
@@ -816,7 +816,7 @@ http://streamer.sattvacabo.com.br/AXN_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f
 
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime HD
-
+http://138.255.2.6:8084/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD
 http://46.151.196.223:14326/
@@ -840,7 +840,7 @@ https://megaflix.mgfiles.lat/e8bec5b304af83c9c610d5f16a7a97f2/file.m3u8
 https://megaflix.mgfiles.lat/16dee219c907c289a44ae062e4303b8a/file.m3u8
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
-
+http://45.176.228.245:80/AMC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
 https://megaflix.mgfiles.lat/077c160a812094baf4c5bf84761cfb60/file.m3u8
@@ -876,7 +876,7 @@ https://megaflix.mgfiles.lat/14d1a9db2e0088ec597b5b75ce37731f/file.m3u8
 https://megaflix.mgfiles.lat/4c9f69f1c90897463e187afa7050aa31/file.m3u8
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
-
+http://46.151.196.223:14929
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://i.imgur.com/kOAujW1.png" group-title="Canais | FILMES E SERIES",HBO MUNDI HD
 https://megaflix.mgfiles.lat/1d96de15641923956b27337187bb9b2d/file.m3u8
