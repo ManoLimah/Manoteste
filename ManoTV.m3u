@@ -2518,13 +2518,13 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-name="SPORTTV 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",SportTV 1 HD
-http://peaky.techcoder40.workers.dev:80/1393.m3u8
+
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-name="SPORTTV 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Canais | INTERNACIONAL",SportTV 1 FHD
 http://dns.explouddev.com:80/632270679/F823j7133R/111995
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",SportTV 2 HD
-http://peaky.techcoder40.workers.dev:80/1395.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Canais | INTERNACIONAL",SportTV 2 FHD
 http://dns.explouddev.com:80/632270679/F823j7133R/111998
@@ -2540,19 +2540,19 @@ http://dns.explouddev.com:80/632270679/F823j7133R/112004
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png" group-title="Canais | INTERNACIONAL",Eleven sports 1 HD
-http://znty.dyndns.org:5010/hls/eleven1.m3u8
+http://94.130.32.19:8080/dazn1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/03/09/large/20240309021516356083_65.jpg" group-title="Canais | INTERNACIONAL",Eleven sports 2 HD
-http://znty.dyndns.org:5010/hls/eleven2.m3u8
+http://94.130.32.19:8080/dazn2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TvV6DtG.png" group-title="Canais | INTERNACIONAL",Eleven sports 3 HD
-http://znty.dyndns.org:5010/hls/eleven3.m3u8
+http://94.130.32.19:8080/dazn3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P0QLHvF.png" group-title="Canais | INTERNACIONAL",Eleven sports 4 HD
-http://znty.dyndns.org:5010/hls/eleven4.m3u8
+http://94.130.32.19:8080/dazn4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/NQ3Zpxi.png" group-title="Canais | INTERNACIONAL",Eleven sports 5 HD
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FdSRwfr.png" group-title="Canais | INTERNACIONAL",Eleven sports 6 HD
 
