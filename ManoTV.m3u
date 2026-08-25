@@ -1869,6 +1869,9 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadarTV" tvg-name="Radar TV" tvg-logo="https://i.imgur.com/8Zsa3N3.png" group-title="Canais | ABERTO",Radar TV
+https://radartv.s.gy/radartvaovivo
+
+#EXTINF:-1 tvg-id="RadarTV" tvg-name="Radar TV" tvg-logo="https://i.imgur.com/8Zsa3N3.png" group-title="Canais | ABERTO",Radar TV 2
 https://video01.logicahost.com.br/fcvtv/fcvtv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ZsMysEn.png" group-title="Canais | ABERTO",Web Rádio Lairton Teclas
