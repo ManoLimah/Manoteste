@@ -261,7 +261,7 @@ https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 https://cr7v.short.gy/ManoTVfree/SPOREXTRA/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-http://177.52.24.163/SPORTV-2-HD/index.m3u8
+https://megaflix.mgfiles.lat/fd2819110f2f7830b46749d1176b3e78/file.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
 http://170.83.49.66:8083/SPORTV3HD/index.m3u8
@@ -281,25 +281,20 @@ https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 https://megaflix.mgfiles.lat/cadf8e414c69e94d452c511a9ee0870b/file.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD²
-http://45.162.231.38:7779/ESPN_2/mpegts
+https://megaflix.mgfiles.lat/05457945d40b0410cd8ba5174cb7c29b/file.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD
-http://177.52.24.163:80/ESPN-3-HD/index.m3u8
+https://megaflix.mgfiles.lat/8b761b4ea8cb7921d27fae1ad1e8562c/file.m3u8
  
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD²
-http://45.162.231.38:7779/ESPN_3/mpegts
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://45.162.64.114:80/ESPN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD²
-http://45.162.231.38:7779/ESPN_4/mpegts
+https://megaflix.mgfiles.lat/a376a8f7b149313638d20fab6a09e1ed/file.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-http://177.52.24.163:80/ESPN-5-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD²
-
+https://megaflix.mgfiles.lat/b58cf405a578df66366a2e74b3905b49/file.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
