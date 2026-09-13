@@ -2447,7 +2447,7 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/AntrFrv.png" group-title="Canais | INTERNACIONAL",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+http://50.7.120.34:8080/RTP_1/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/AntrFrv.png" group-title="Canais | INTERNACIONAL",RTP2
 
