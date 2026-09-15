@@ -113,7 +113,7 @@ https://cr7v.short.gy/ManoTV-Free/ManoTV2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD²
-
+http://200.77.176.130:80/RECORD/index.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/13
