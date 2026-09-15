@@ -23,7 +23,7 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-https://megaflix.mgfiles.lat/e4dbaf4a9a639fd534175825e13fe51c/file.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
 
@@ -53,7 +53,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",TV Verde Mares CE HD
-https://megaflix.mgfiles.lat/838d76a4b9f9a97b3a3568a84c1f09d8/file.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
 
@@ -65,7 +65,7 @@ https://megaflix.mgfiles.lat/838d76a4b9f9a97b3a3568a84c1f09d8/file.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
-https://megaflix.mgfiles.lat/23921309459aac70c6f26a4679a0aad6/file.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
 
@@ -77,7 +77,7 @@ https://megaflix.mgfiles.lat/23921309459aac70c6f26a4679a0aad6/file.m3u8
 
 
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
-https://megaflix.mgfiles.lat/fb02173d906d71d70566528ff55d62c9/file.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Caxias do Sul HD
 
@@ -92,17 +92,17 @@ https://megaflix.mgfiles.lat/fb02173d906d71d70566528ff55d62c9/file.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
-https://megaflix.mgfiles.lat/d997d9fa5dfd7cb463c13b306bb2bfb4/file.m3u8
+
 
 
 ############################################################################ Canais | REALITY
 
 
 #EXTINF:-1 tvg-logo="https://BUTceP.png" group-title="Canais | REALITY",A Fazenda 1
-
+https://cr7v.short.gy/ManoTV-Free/ManoTV1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iUTceP.png" group-title="Canais | REALITY",A Fazenda 2
-
+https://cr7v.short.gy/ManoTV-Free/ManoTV2/index.m3u8
 
 ############################################################################ Canais | RECORD TV
 
@@ -110,7 +110,7 @@ https://megaflix.mgfiles.lat/d997d9fa5dfd7cb463c13b306bb2bfb4/file.m3u8
 
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD 
-https://megaflix.mgfiles.lat/a6d4012e1a10956e2a3c865731578251/file.m3u8
+
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD²
 
@@ -132,7 +132,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV MG 
-https://megaflix.mgfiles.lat/643f554b66a5f9f93a5018a71d6072cf/file.m3u8
+
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RS HD
 
@@ -149,7 +149,7 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist.m3
 http://gerenciar.vivatele.com/viva_padrao/viva2384/3
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
-https://megaflix.mgfiles.lat/3825cfc8e869a46ba5095f199d1e1267/file.m3u8
+
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV RBA TV
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -249,7 +249,7 @@ https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 https://cr7v.short.gy/ManoTVfree/SPOREXTRA/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-https://megaflix.mgfiles.lat/9b0fddf43eec824ec277f26ea0d6a842/file.m3u8
+
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
 http://170.83.49.66:8083/SPORTV3HD/index.m3u8
@@ -266,19 +266,19 @@ https://cr7v.short.gy/live25/spn/Index.m3u8
 https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
-https://megaflix.mgfiles.lat/b4dd5acef71c4b0b7e2135110c21d901/file.m3u8
+http://streamer.sattvacabo.com.br/ESPN2_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD
-https://megaflix.mgfiles.lat/2e03de4bf2884ee34f5798b8e2eb025d/file.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://45.162.64.114:80/ESPN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD²
-https://megaflix.mgfiles.lat/60a1d966c76bd6fd10787622f9a7eeff/file.m3u8
+http://streamer.sattvacabo.com.br/ESPN4_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-https://megaflix.mgfiles.lat/e9cc94137ea2b08372876db1960b38a7/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
@@ -501,13 +501,11 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 http://79.127.238.228:14093/
 
 #EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="Canais | NOTÍCIAS",Globo News FHD
-https://megaflix.mgfiles.lat/f280c446ec31a5ed62491814276278b2/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnApLKd.png" group-title="Canais | NOTÍCIAS",SBT NEWS
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&coppa=0&ads.url=[URL]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Canais | NOTÍCIAS",Band News HD²
-https://megaflix.mgfiles.lat/80e60169e7771867a04432a0fe042fb8/file.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="Canais | NOTÍCIAS",AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
@@ -563,7 +561,7 @@ https://cc-l2unazbogzufr.akamaized.net/gpf/tvfl/tvfl_h265.m3u8
 https://ogc-ppah-samsungtvplus-br.otteravision.com/ogc/ppah/ppah.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD 
-https://megaflix.mgfiles.lat/f655463843c55b4960200e67bd201d3e/file.m3u8
+
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow FHD
  
@@ -594,7 +592,7 @@ https://megaflix.mgfiles.lat/f655463843c55b4960200e67bd201d3e/file.m3u8
 http://79.127.238.228:14433/TLChd
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
-https://megaflix.mgfiles.lat/a7a59f5c361e8130b07b2cbfb758ab0b/file.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ou3X8zC.png" group-title="Canais | VARIEDADES",Modo Viagem HD
 
@@ -610,10 +608,10 @@ http://200.229.190.189:8001/play/a01g
 http://185.152.67.187:14367/
 
 #EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
-https://megaflix.mgfiles.lat/c13ea77cde2da79f9b8ef3e17a3cc778/file.m3u8
+
 
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD 
-https://megaflix.mgfiles.lat/2fc3afd4fdd2ce247301d1d47b4fdf0e/file.m3u8
+
 
 #EXTINF:-1 tvg-id="Disc. Home & Health" tvg-name="Disc. Home & Health" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Disc. Home & Health HD
 http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
@@ -622,16 +620,16 @@ http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel FHD
-https://megaflix.mgfiles.lat/d1b381bc3ed478f4542608eef5855d4d/file.m3u8
+
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
-https://megaflix.mgfiles.lat/703c69c3644e3d7b3e0f202520f39979/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
-https://megaflix.mgfiles.lat/df187b4160dd85b243200b3b35618ff3/file.m3u8
+
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
-https://megaflix.mgfiles.lat/fcbbb4cc295ddce8bc2c9cb93635a6c6/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
 http://185.152.67.187:14392/
@@ -640,10 +638,10 @@ http://185.152.67.187:14392/
 http://200.229.190.189:8001/play/a01b
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
-https://megaflix.mgfiles.lat/57c6d69cb4ef52237cab5debc43f1c4e/file.m3u8
+http://streamer.sattvacabo.com.br/ANIMAL_PLANET_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD²
-http://streamer.sattvacabo.com.br/ANIMAL_PLANET_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
@@ -701,10 +699,10 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 http://79.127.238.228:14455/
 
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas FHD
-https://megaflix.mgfiles.lat/1088ebf24faebce6387b1894c4c4d205/file.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-https://megaflix.mgfiles.lat/dfa930fd46911c298cd3548332121311/file.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas FHD
 
@@ -763,19 +761,19 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 http://45.162.64.114/SPACE/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD²
-https://megaflix.mgfiles.lat/79ac1552b8fc237744171de2ace62cae/file.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
-https://megaflix.mgfiles.lat/77d1b9bf986a532ccb341dbc1cd08593/file.m3u8
+http://streamer.sattvacabo.com.br/TNT_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD²
-http://streamer.sattvacabo.com.br/TNT_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD³
 
 
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
-https://megaflix.mgfiles.lat/c63256de3388ebe336e1b67d770cf52b/file.m3u8
+
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD 
 http://streamer.sattvacabo.com.br/WARNER_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
@@ -790,7 +788,7 @@ http://79.127.238.228:14551/
 http://streamer.sattvacabo.com.br/AE_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
-https://megaflix.mgfiles.lat/4bb4b6c41f7fc9cd855688d0bdb463ee/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | FILMES E SERIES",USA Network HD
 
@@ -805,28 +803,28 @@ https://megaflix.mgfiles.lat/4bb4b6c41f7fc9cd855688d0bdb463ee/file.m3u8
 http://46.151.196.223:14326/
 
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD²
-https://megaflix.mgfiles.lat/63135c4c4b0659c801eac8c7c7933490/file.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-https://megaflix.mgfiles.lat/a8bcc0cd38da1c2ca91163c477a8693a/file.m3u8
+
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
-https://megaflix.mgfiles.lat/5b09d7f4eafacee91476042e815ff770/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-https://megaflix.mgfiles.lat/fe25213aa34ebd266d1f5e4faa16bd73/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
-https://megaflix.mgfiles.lat/d0001fcac971a8f5fec353c6b5555c92/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-https://megaflix.mgfiles.lat/394e166f37da5398d6ec6ca847cae6b8/file.m3u8
+
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 http://45.176.228.245:80/AMC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel HD
-https://megaflix.mgfiles.lat/1238b49d932bb59067f82d41c359dcaa/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wem1nAc.png" group-title="Canais | FILMES E SERIES",Sony Movies
 http://45.162.64.114:80/SONY_MOVIES/index.m3u8
@@ -838,10 +836,10 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
-https://megaflix.mgfiles.lat/8f0271a41f043f00ff53657cbd3cccb1/file.m3u8
+
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
-https://megaflix.mgfiles.lat/dc3c9b4e5e18c852e6c9377521d78c77/file.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
 https://cr7v.short.gy/ManoTV/temporário/index.m3u8
@@ -850,10 +848,10 @@ https://cr7v.short.gy/ManoTV/temporário/index.m3u8
 https://megaflix.mgfiles.lat/71baa33dd182b88c51a35742b1796637/file.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
-https://megaflix.mgfiles.lat/5a6c5a17d2c69043d1a55df225eadaf5/file.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-https://megaflix.mgfiles.lat/2fb6cc5f0b2643a38dcd3f231a66a333/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
 
@@ -862,16 +860,16 @@ https://megaflix.mgfiles.lat/2fb6cc5f0b2643a38dcd3f231a66a333/file.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://i.imgur.com/kOAujW1.png" group-title="Canais | FILMES E SERIES",HBO MUNDI HD
-https://megaflix.mgfiles.lat/27c3a50daad51079b06b3715f4175623/file.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/UnA8duG.png" group-title="Canais | FILMES E SERIES",HBO POP HD
-https://megaflix.mgfiles.lat/f208bdd4fd9f251200b13937992784f1/file.m3u8
+
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
-https://megaflix.mgfiles.lat/1ffddd89d3dd37cb5cbe233a8e71b581/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
-https://megaflix.mgfiles.lat/0c9aa20f345b331603f268d526441259/file.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png/v1/fill/w_86,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="Canais | FILMES E SERIES",Tela Brasil TV
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
