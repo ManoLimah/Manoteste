@@ -20,10 +20,10 @@ https://abre.ai/canaldoclientev9mp4
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD
-
+http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-http://138.204.86.4:8080/GLOBO_HD/index.m3u8
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/35f2a29883058c9d7a8ea75b14fe8c9c/file.txt
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
 
@@ -800,19 +800,19 @@ http://46.151.196.223:14326/
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/c33ead66f4f6baeb5564321b2563367c/file.txt
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/11db1897cd28bda143ac7162a18c1f37/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/5a2268ad8133aa522900a5abc8ff2453/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/aa9c7f8dd3252aea641b6701a2be2f13/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/048123f36cc2ff360c726782e643e2b2/file.txt
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 http://45.176.228.245:80/AMC/index.m3u8
@@ -839,13 +839,13 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://cr7v.short.gy/ManoTV/temporário/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD 
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/19ef7310153107dd39977045634ed9db/file.txt
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/7f24d0f9f1884449acc7f963687f8514/file.txt
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/cea99578e1b2b9b4fa4e45caa770c5f1/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
 
@@ -854,10 +854,10 @@ https://cr7v.short.gy/ManoTV/temporário/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://i.imgur.com/kOAujW1.png" group-title="Canais | FILMES E SERIES",HBO MUNDI HD
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/7f24d0f9f1884449acc7f963687f8514/file.txt
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/UnA8duG.png" group-title="Canais | FILMES E SERIES",HBO POP HD
-
+https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/dd2ba2e041a99231156005ffc74706f7/file.txt
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
 
@@ -974,7 +974,7 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
-
+http://138.204.86.4:8080/DISCOVERY_KIDS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
 
