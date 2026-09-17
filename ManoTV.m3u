@@ -53,7 +53,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",TV Verde Mares CE HD
-
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/embedtv/456aff3c743670c9ee395f1b55399d87/file.txt
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
 
@@ -62,7 +62,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
-
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/embedtv/6ebade0a433cd8e3ec8a81a1d760654e/file.txt
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
 
@@ -77,7 +77,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
-
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/embedtv/9d6f6fcf13743dc1bfd9d88ba6edd1ac/file.txt
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Caxias do Sul HD
 
@@ -92,7 +92,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
-
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/embedtv/3e42f0241ad3fed8a1f4139e3712ade9/file.txt
 
 
 ############################################################################ Canais | REALITY
@@ -110,10 +110,10 @@ https://cr7v.short.gy/ManoTV-Free/ManoTV2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD 
-
+http://200.77.176.130:80/RECORD/index.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD²
-http://200.77.176.130:80/RECORD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/13
@@ -275,7 +275,7 @@ http://45.162.64.114:80/ESPN_4/index.m3u8
 http://streamer.sattvacabo.com.br/ESPN4_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/embedtv/4b68a5449bb4b8153729ac13e1a933e0/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
@@ -558,7 +558,7 @@ https://cc-l2unazbogzufr.akamaized.net/gpf/tvfl/tvfl_h265.m3u8
 https://ogc-ppah-samsungtvplus-br.otteravision.com/ogc/ppah/ppah.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD 
- 
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/embedtv/a3a76c263f7fa1f560f8b240fb8342ee/file.txt
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
 
