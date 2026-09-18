@@ -256,19 +256,19 @@ https://cr7v.short.gy/ManoTV/S3/index.m3u8
 
 ############################################################################ CANAIS ESPN
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
 https://cr7v.short.gy/live25/spn/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
 https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 http://streamer.sattvacabo.com.br/ESPN2_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD
 http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://45.162.64.114:80/ESPN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD²
@@ -299,26 +299,25 @@ https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-https://cr7v.short.gy/Canal1/index.m3u8
+https://cr7v.short.gy/Pre1/ManoTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
 https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
 
-
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-https://cr7v.short.gy/Canal2/index.m3u8
+https://cr7v.short.gy/Pre2/ManoTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-https://cr7v.short.gy/Canal3/index.m3u8
+https://cr7v.short.gy/Pre3/ManoTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere4 HD" tvg-name="Premiere4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-https://cr7v.short.gy/Canal4/index.m3u8
+https://cr7v.short.gy/Pre4/ManoTV/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE5 HD" tvg-name="PREMIERE5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
-https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
+https://cr7v.short.gy/Pre5/ManoTV/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-name="PREMIERE6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
+https://cr7v.short.gy/Pre6/ManoTV/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-name="PREMIERE7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
 
