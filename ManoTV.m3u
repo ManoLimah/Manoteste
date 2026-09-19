@@ -245,7 +245,7 @@ https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 #EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
 https://cr7v.short.gy/ManoTV/Spor1/index.m3u8
 
-#EXTINF:- 1 tvg-id="SporTVHD" tvg-name="SporTVHD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
+#EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
 https://cr7v.short.gy/ManoTV/S1/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
@@ -271,7 +271,7 @@ http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://45.162.64.114:80/ESPN_4/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD²
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
 http://streamer.sattvacabo.com.br/ESPN4_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
