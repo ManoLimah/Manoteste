@@ -242,10 +242,10 @@ https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 
 ############################################################################ CANAIS SporTV 
 
-#EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
+#EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
 https://cr7v.short.gy/ManoTV/Spor1/index.m3u8
 
-#EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD²
+#EXTINF:- 1 tvg-id="SporTVHD" tvg-name="SporTVHD" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD²
 https://cr7v.short.gy/ManoTV/S1/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
@@ -259,7 +259,7 @@ https://cr7v.short.gy/ManoTV/S3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
 https://cr7v.short.gy/live25/spn/Index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
 https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
