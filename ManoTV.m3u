@@ -112,8 +112,8 @@ https://cr7v.short.gy/ManoTV-Free/ManoTV2/index.m3u8
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD 
 http://200.77.176.130:80/RECORD/index.m3u8
 
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SP HD²
-
+#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV SAT HD
+https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/13
@@ -151,8 +151,11 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/3
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
 http://200.77.176.130:80/BAND/index.m3u8
 
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP HD
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SP FHD
 http://138.204.86.4:8080/BAND_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band SAT HD
+https://media.cdntvms.com.br/band_sat/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | BAND TV",Band TV RBA TV
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
