@@ -262,8 +262,11 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.m3u8
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.m3u8
 
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD²
+http://45.162.64.114:80/ESPN_BRASIL/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.m3u8
+http://167.249.161.78:80/ESPN_BRASIL/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 http://streamer.sattvacabo.com.br/ESPN2_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
@@ -292,81 +295,81 @@ http://46.151.196.223:14468/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
-https://cr7v.short.gy/manofree/UFC/tracks-v2a1/mono.m3u8
+http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD²
-https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
+http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
 
 
 ############################################################################ CANAIS PREMIERE
 
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-https://cr7v.short.gy/Pre1/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiereclube.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD²
-https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
-https://cr7v.short.gy/live/pre123/index.m3u8
+
 
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-https://cr7v.short.gy/Pre2/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
 
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-https://cr7v.short.gy/Pre3/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.m3u8
 
 #EXTINF:-1 tvg-id="Premiere4 HD" tvg-name="Premiere4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-https://cr7v.short.gy/Pre4/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE5 HD" tvg-name="PREMIERE5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
-https://cr7v.short.gy/Pre5/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-name="PREMIERE6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-https://cr7v.short.gy/Pre6/ManoTV/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere6.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-name="PREMIERE7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
 
 
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="ao vivo | PPV ESPORTES",Prime Vídeo HD
-https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
+http://202555.halfa.win:80/streamyou/202555/34
 
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="ao vivo | PPV ESPORTES",Prime Vídeo HD²
-http://202555.halfa.win:80/streamyou/202555/34
+
 
 ############################################################################ AO VIVO | FUTEBOL 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJKZBHT.png" group-title="ao vivo | PPV ESPORTES",Paramount+ 
-https://cr7v.short.gy/ManoTV/75991634025/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJKZBHT.png" group-title="ao vivo | PPV ESPORTES",Paramount+ 2
-https://cr7v.short.gy/ManoTVL2/75991634025/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p6r9AM.png" group-title="ao vivo | PPV ESPORTES",Disney Plus 
-https://cr7v.short.gy/ManoTVD/75991634025/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/disneyplus1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p6r9AM.png" group-title="ao vivo | PPV ESPORTES",Disney Plus 2
-https://cr7v.short.gy/ManoTVD2/75991634025/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/disneyplus2.m3u8
 
 ############################################################################ CANAIS | MAX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 3
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 4
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 5
-https://cr7v.short.gy/live/JOGOO8/Index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6c9F5J.png" group-title="ao vivo | PPV ESPORTES",SportyNet
-https://cr7v.short.gy/live/JOGOO8/Index.m3u8
+
 
 ############################################################################ Canais | ESPORTES FREE
 
@@ -386,13 +389,10 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/720p-cc/index.m3u
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV YT
-https://cr7v.short.gy/CZYT/ManoTV/75991634025/index.m3u8
 
-#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV YT 2
-https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/790040534a2a067a72b4406b593efe1f/file.txt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3V3GMDh.png" group-title="Canais | ESPORTES",XSports 
-https://cr7v.short.gy/manoitv/X-Sports/Index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RSHGmuX.png" group-title="Canais | ESPORTES",Desempedido HD
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
@@ -2567,8 +2567,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 
 
-
-
 ################################################################# NOVELAS TURCA S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP01
@@ -2601,7 +2599,41 @@ http://shd13.oneplayer.site/SHD13/317883/1x9LEG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP10
 http://shd13.oneplayer.site/SHD13/317883/1x10LEG.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP11
+http://shd13.oneplayer.site/SHD13/317883/1x11LEG.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP12
+http://shd13.oneplayer.site/SHD13/317883/1x12LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP13
+http://shd13.oneplayer.site/SHD13/317883/1x13LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP14
+http://shd13.oneplayer.site/SHD13/317883/1x14LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP15
+http://shd13.oneplayer.site/SHD13/317883/1x15LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP16
+http://shd13.oneplayer.site/SHD13/317883/1x16LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP17
+http://shd13.oneplayer.site/SHD13/317883/1x17LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP18
+http://shd13.oneplayer.site/SHD13/317883/1x18LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP19
+http://shd13.oneplayer.site/SHD13/317883/1x19LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP20
+http://shd13.oneplayer.site/SHD13/317883/1x20LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP21
+http://shd13.oneplayer.site/SHD13/317883/1x21LEG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MU4p8Ys.png" group-title="Novela |  TURCA",Daha 17 EP22
+http://shd13.oneplayer.site/SHD13/317883/1x22LEG.mp4
 
 ############################################################################ Agente Kim: Reativado S01
 
@@ -5860,6 +5892,23 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/12
 
 ############################################################################ FILMES
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Matchbox – O Filme
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28498219.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Rápida e Mortal
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0114214.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Operação Panda: A Tribo Mágica
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35514520.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Toy Story 5
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29355505.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Unabomber
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6933238.mp4
+Homem-Aranha: Um Novo Dia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22084616.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES", Nando Entre Dois Mundos: Filme Sintonia
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt43640198.mp4
 
@@ -6639,4 +6688,5 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0090305.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",As Vantagens de Ser Invisível
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1659337.mp4
+
 
