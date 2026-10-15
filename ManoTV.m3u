@@ -246,24 +246,24 @@ https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 ############################################################################ CANAIS SporTV 
 
 #EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
-https://cr7v.short.gy/ManoTV/Spor1/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.m3u8
 
 #EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
-https://cr7v.short.gy/ManoTV/S1/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-https://cr7v.short.gy/ManoTV/S2/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
-https://cr7v.short.gy/ManoTV/S3/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.m3u8
 
 ############################################################################ CANAIS ESPN
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
-https://cr7v.short.gy/live25/spn/Index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.m3u8
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
-https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 http://streamer.sattvacabo.com.br/ESPN2_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
@@ -839,7 +839,7 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-https://cr7v.short.gy/ManoTV/temporário/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD 
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hboplus.m3u8
