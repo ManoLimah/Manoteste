@@ -345,8 +345,23 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/disneyplus2.m3u8
 
 ############################################################################ CANAIS | MAX
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1 TNT
+http://179.0.44.23:22080/TNT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1 TNT²
+http://138.204.86.4:8080/TNT_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1 TNT³
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/tnt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2 SPACE
+http://45.162.64.114/SPACE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2 SPACE²
+http://138.204.86.4:8080/SPACE_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max2.m3u8
