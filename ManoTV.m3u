@@ -99,10 +99,10 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globoes.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAO4zsx.png" group-title="Canais | REALITY",A Fazenda 1
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda.m3u8
+https://manotv.s.gy/AF1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAO4zsx.png" group-title="Canais | REALITY",A Fazenda 2
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda2.m3u8
+https://manotv.s.gy/AF2/index.m3u8
 
 
 ############################################################################ Canais | RECORD TV
@@ -5902,6 +5902,24 @@ http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/12
 
 ############################################################################ FILMES
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",A Um Passo da Guerra
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt33070884.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Velvet Lounge: Noites de Caça
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29762861.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Sobrenatural: Agora Entre Nós
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32393988.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Bem Longe de Casa
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0097332.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",1922
+http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt6214928.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Homem-Aranha: Um Novo Dia
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22084616.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Matchbox – O Filme
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28498219.mp4
 
@@ -5916,8 +5934,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29355505.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Unabomber
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6933238.mp4
-Homem-Aranha: Um Novo Dia
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22084616.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES", Nando Entre Dois Mundos: Filme Sintonia
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt43640198.mp4
