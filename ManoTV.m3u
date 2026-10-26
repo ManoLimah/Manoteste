@@ -23,22 +23,22 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP FHD
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MG HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globomg.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo PE HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globope.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo MT HD
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo PB HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globopb.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo Brasília FHD
 
@@ -53,7 +53,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/KYuhWGi.png" group-title="Canais | GLOBO",TV Verde Mares CE HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globoce.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/VBLJKbH.png" group-title="Canais | GLOBO",RPC Curitiba HD
 
@@ -62,10 +62,10 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globoce.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/Lk493tt.png" group-title="Canais | GLOBO",Globo Goiás HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globogo.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Globo Manaus HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globoam.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/yXtsRbZ.png" group-title="Canais | GLOBO",Rede Amazonica Porto Velho HD
 
@@ -77,7 +77,7 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globoam.m3u8
 
 
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Porto Alegre HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globors.m3u8
+
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/gzb8eGf.png" group-title="Canais | GLOBO",RBS TV Caxias do Sul HD
 
@@ -92,7 +92,7 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globors.m3u8
 
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/wIgWfEg.png" group-title="Canais | GLOBO",Globo ES HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globoes.m3u8
+
 
 
 ############################################################################ Canais | REALITY
@@ -244,30 +244,32 @@ https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 ############################################################################ CANAIS SporTV 
 
 #EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.m3u8
-
-#EXTINF:- 1 tvg-id="SporTV1" tvg-name="SporTV1" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.m3u8
+https://manotv.s.gy/Sp1/index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.m3u8
+https://manotv.s.gy/Sp2/index.m3u8
 
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.m3u8
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
+https://manotv.s.gy/Sp3/index.m3u8
+
+
 
 ############################################################################ CANAIS ESPN
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.m3u8
+http://45.162.64.114:80/ESPN_BRASIL/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD²
-http://45.162.64.114:80/ESPN_BRASIL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
 http://167.249.161.78:80/ESPN_BRASIL/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
-http://streamer.sattvacabo.com.br/ESPN2_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+http://46.151.196.223:14438/
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD²
+http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD
 http://138.204.86.4:8080/ESPN3_HD/index.m3u8
@@ -276,10 +278,10 @@ http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 http://45.162.64.114:80/ESPN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
-http://streamer.sattvacabo.com.br/ESPN4_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/espn5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
@@ -306,22 +308,22 @@ http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
 http://202555.halfa.win:80/streamyou/202555/11
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.m3u8
+https://manotv.s.gy/Pr01/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-name="PREMIERE2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.m3u8
+https://manotv.s.gy/Pr2/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere3 HD" tvg-name="Premiere3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.m3u8
+https://manotv.s.gy/Pr3/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere4 HD" tvg-name="Premiere4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.m3u8
+https://manotv.s.gy/Pr4/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE5 HD" tvg-name="PREMIERE5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.m3u8
+https://manotv.s.gy/Pr5/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-name="PREMIERE6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere6.m3u8
+
 
 #EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-name="PREMIERE7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
 
@@ -330,21 +332,21 @@ https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere6.m3u8
 http://202555.halfa.win:80/streamyou/202555/34
 
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="ao vivo | PPV ESPORTES",Prime Vídeo HD²
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo.m3u8
+
 
 ############################################################################ AO VIVO | FUTEBOL 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJKZBHT.png" group-title="ao vivo | PPV ESPORTES",Paramount+ 
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJKZBHT.png" group-title="ao vivo | PPV ESPORTES",Paramount+ 2
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p6r9AM.png" group-title="ao vivo | PPV ESPORTES",Disney Plus 
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/disneyplus1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p6r9AM.png" group-title="ao vivo | PPV ESPORTES",Disney Plus 2
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/disneyplus2.m3u8
+
 
 ############################################################################ CANAIS | MAX
 
@@ -355,10 +357,10 @@ http://179.0.44.23:22080/TNT/playlist.m3u8
 http://138.204.86.4:8080/TNT_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1 TNT³
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/tnt.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2 SPACE
 http://45.162.64.114/SPACE/index.m3u8
@@ -367,10 +369,10 @@ http://45.162.64.114/SPACE/index.m3u8
 http://138.204.86.4:8080/SPACE_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 3
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/max3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 4
 
@@ -573,7 +575,7 @@ https://cc-l2unazbogzufr.akamaized.net/gpf/tvfl/tvfl_h265.m3u8
 https://ogc-ppah-samsungtvplus-br.otteravision.com/ogc/ppah/ppah.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD 
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.m3u8
+
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
 
@@ -601,7 +603,7 @@ http://138.204.86.4:8080/PRIME_BOX_HD/index.m3u8
 http://79.127.238.228:14433/TLChd
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/gnt.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ou3X8zC.png" group-title="Canais | VARIEDADES",Modo Viagem HD
 
@@ -647,10 +649,10 @@ http://185.152.67.187:14392/
 http://200.229.190.189:8001/play/a01b
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
-http://streamer.sattvacabo.com.br/ANIMAL_PLANET_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+http://138.204.86.4:8080/ANIMAL_PLANET_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD²
-http://138.204.86.4:8080/ANIMAL_PLANET_HD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
@@ -705,12 +707,10 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 http://79.127.238.228:14455/
 
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | NOVELAS",GloboPlay Novelas FHD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globonovelas.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/tntnovelas.m3u8
-
-#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas FHD
+http://45.162.64.114:80/TNT_NOVELAS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyGF8K4.png" group-title="Canais | NOVELAS",Reis
@@ -771,7 +771,7 @@ http://138.204.86.4:8080/SPACE_HD/index.m3u8
 http://138.204.86.4:8080/TNT_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD²
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/tnt.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD³
 http://179.0.44.23:22080/TNT/playlist.m3u8
@@ -783,16 +783,16 @@ http://45.162.64.114:80/TNTSERIES/index.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/tntseries.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD 
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/warnerchannel.m3u8
+http://79.127.238.228:14647/
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel HD²
-http://79.127.238.228:14647/
+
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E HD
 http://79.127.238.228:14551/
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E FHD
-http://streamer.sattvacabo.com.br/AE_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD
 http://138.204.86.4:8080/AXN_HD/index.m3u8
@@ -810,22 +810,22 @@ http://138.204.86.4:8080/LIFE_TIME_HD/index.m3u8
 http://46.151.196.223:14326/
 
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action HD²
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
+
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.m3u8
+
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
 http://45.176.228.245:80/AMC/index.m3u8
@@ -843,22 +843,22 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.m3u8
+
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo.m3u8
+http://79.127.238.249:14063/
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ HD 
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hboplus.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo2.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hbofamily.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
 http://dns.explouddev.com:80/live/632270679/F823j7133R/18775.m3u8
@@ -867,16 +867,16 @@ http://dns.explouddev.com:80/live/632270679/F823j7133R/18775.m3u8
 http://dns.explouddev.com:80/live/632270679/F823j7133R/18767.m3u8
 
 #EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://i.imgur.com/kOAujW1.png" group-title="Canais | FILMES E SERIES",HBO MUNDI HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hbomundi.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/UnA8duG.png" group-title="Canais | FILMES E SERIES",HBO POP HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/hbopop.m3u8
+
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES",Universal Channel HD
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png/v1/fill/w_86,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="Canais | FILMES E SERIES",Tela Brasil TV
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
