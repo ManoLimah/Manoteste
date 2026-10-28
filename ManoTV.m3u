@@ -249,7 +249,7 @@ https://manotv.s.gy/Sp1/index.m3u8
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
 https://manotv.s.gy/Sp2/index.m3u8
 
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title="Canais | SporTV",SporTV 3 HD
 https://manotv.s.gy/Sp3/index.m3u8
 
 
