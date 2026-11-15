@@ -260,10 +260,10 @@ https://manotv.s.gy/Sp3/index.m3u8
 ############################################################################ CANAIS ESPN
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
-http://45.162.64.114:80/ESPN_BRASIL/index.m3u8
+https://stream.mgfiles.lat/stream/14d0fc1b32bf831fd5f3babb9ac6d74d/error.m3u8
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD²
-
+http://45.185.15.154:9080/cloud/stream/59/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
 http://167.249.161.78:80/ESPN_BRASIL/index.m3u8
