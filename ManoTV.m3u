@@ -356,38 +356,32 @@ http://202555.halfa.win:80/streamyou/202555/34
 
 ############################################################################ CANAIS | MAX
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1 TNT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",TNT
 http://179.0.44.23:22080/TNT/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1 TNT²
-http://138.204.86.4:8080/TNT_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",TNT²
+https://net11.sattvgo.com.br/TNT/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1 TNT³
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 1
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",TNT³
+https://stream.mgfiles.lat/stream/f29522d7834acc78fd6ee778403bdebc/error.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2 SPACE
-http://45.162.64.114/SPACE/index.m3u8
+http://179.0.44.23:22080/SPACE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2 SPACE²
-http://138.204.86.4:8080/SPACE_HD/index.m3u8
+https://stream.mgfiles.lat/stream/1ef94667e8d78c715c9633ecef0f001c/error.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 
+https://stream.mgfiles.lat/stream/22c8e8dc9474d028ebb64cd05c70d850/error.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 2
-
+https://stream.mgfiles.lat/stream/263731d61afde0bc8e200fc79045bc80/error.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 3
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 4
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="ao vivo | PPV ESPORTES",Max 5
-
+https://stream.mgfiles.lat/stream/4bd8ce2693e8391264fc48c2dd7ca237/error.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6c9F5J.png" group-title="ao vivo | PPV ESPORTES",SportyNet
-
+https://stream.mgfiles.lat/stream/a79b0868ff36305c76b203f4a72da70f/error.m3u8
 
 ############################################################################ Canais | ESPORTES FREE
 
@@ -771,16 +765,16 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 http://45.162.64.114/SPACE/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD²
-http://138.204.86.4:8080/SPACE_HD/index.m3u8
+http://179.0.44.23:22080/SPACE/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD
-http://138.204.86.4:8080/TNT_HD/index.m3u8
+http://179.0.44.23:22080/TNT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD²
 https://net11.sattvgo.com.br/TNT/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT HD³
-http://179.0.44.23:22080/TNT/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Séries HD
 http://45.162.64.114:80/TNTSERIES/index.m3u8
@@ -6723,4 +6717,5 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt0090305.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",As Vantagens de Ser Invisível
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1659337.mp4
+
 
